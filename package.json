@@ -408,7 +408,7 @@
     "is-window": "^1.0.2",
     "is-windows": "^1.0.2",
     "is-word-character": "^1.0.4",
-    "is-wsl": "^1.1.0",
+    "is-wsl": "^2.2.0",
     "isarray": "^1.0.0",
     "isexe": "^2.0.0",
     "isobject": "^3.0.1",
