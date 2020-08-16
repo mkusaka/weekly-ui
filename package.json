@@ -320,7 +320,7 @@
     "gzip-size": "^5.1.1",
     "has": "^1.0.3",
     "has-ansi": "^2.0.0",
-    "has-flag": "^3.0.0",
+    "has-flag": "^4.0.0",
     "has-symbols": "^1.0.1",
     "has-unicode": "^2.0.1",
     "has-value": "^1.0.0",
