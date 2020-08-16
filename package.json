@@ -446,7 +446,7 @@
     "lower-case": "^2.0.1",
     "lowlight": "^1.12.1",
     "lru-cache": "^6.0.0",
-    "make-dir": "^2.1.0",
+    "make-dir": "^3.1.0",
     "makeerror": "^1.0.11",
     "map-cache": "^0.2.2",
     "map-or-similar": "^1.5.0",
