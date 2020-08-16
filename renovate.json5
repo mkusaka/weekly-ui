@@ -3,5 +3,7 @@
   rangeStrategy: "bump",
   minor: {
     groupName: "bump minor deps"
-  }
+  },
+  prConcurrentLimit: 0,
+  prHourlyLimit: 0,
 }
