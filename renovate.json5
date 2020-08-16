@@ -1,9 +1,12 @@
 {
-  extends: ["config:base", ":onlyNpm"],
+  extends: [
+    "config:base",
+    ":onlyNpm",
+    "group:allNonMajor",
+    "group:definitelyTyped",
+  ],
   rangeStrategy: "bump",
-  minor: {
-    groupName: "bump minor deps"
-  },
   prConcurrentLimit: 0,
   prHourlyLimit: 0,
+  commitBodyTable: true,
 }
