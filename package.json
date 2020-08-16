@@ -246,7 +246,7 @@
     "escape-html": "^1.0.3",
     "escape-string-regexp": "^1.0.5",
     "escodegen": "^1.14.3",
-    "eslint-scope": "^4.0.3",
+    "eslint-scope": "^5.1.0",
     "esprima": "^4.0.1",
     "esrecurse": "^4.2.1",
     "estraverse": "^4.3.0",
