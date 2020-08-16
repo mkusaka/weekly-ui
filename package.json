@@ -249,7 +249,7 @@
     "eslint-scope": "^4.0.3",
     "esprima": "^4.0.1",
     "esrecurse": "^4.2.1",
-    "estraverse": "^4.3.0",
+    "estraverse": "^5.2.0",
     "esutils": "^2.0.3",
     "etag": "^1.8.1",
     "events": "^3.2.0",
