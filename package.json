@@ -313,7 +313,7 @@
     "global-prefix": "^3.0.0",
     "globals": "^11.12.0",
     "globalthis": "^1.0.1",
-    "globby": "^8.0.2",
+    "globby": "^11.0.1",
     "good-listener": "^1.2.2",
     "graceful-fs": "^4.2.4",
     "gud": "^1.0.0",
