@@ -256,7 +256,7 @@
     "evp_bytestokey": "^1.0.3",
     "exec-sh": "^0.3.4",
     "execa": "^1.0.0",
-    "expand-brackets": "^2.1.4",
+    "expand-brackets": "^4.0.0",
     "express": "^4.17.1",
     "extend": "^3.0.2",
     "extend-shallow": "^2.0.1",
