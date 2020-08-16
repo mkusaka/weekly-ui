@@ -612,7 +612,7 @@
     "react-hotkeys": "^2.0.0",
     "react-inspector": "^5.0.1",
     "react-lifecycles-compat": "^3.0.4",
-    "react-popper": "^1.3.7",
+    "react-popper": "^2.2.3",
     "react-popper-tooltip": "^2.11.1",
     "react-sizeme": "^2.6.12",
     "react-syntax-highlighter": "^12.2.1",
