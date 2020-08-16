@@ -183,7 +183,7 @@
     "create-react-context": "^0.3.0",
     "cross-spawn": "^7.0.1",
     "crypto-browserify": "^3.12.0",
-    "css-loader": "^3.6.0",
+    "css-loader": "^4.2.1",
     "css-select": "^1.2.0",
     "css-what": "^2.1.3",
     "cssesc": "^3.0.0",
