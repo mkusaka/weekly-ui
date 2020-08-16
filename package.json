@@ -323,7 +323,7 @@
     "has-flag": "^3.0.0",
     "has-symbols": "^1.0.1",
     "has-unicode": "^2.0.1",
-    "has-value": "^1.0.0",
+    "has-value": "^2.0.2",
     "has-values": "^1.0.0",
     "hash-base": "^3.1.0",
     "hash.js": "^1.1.7",
