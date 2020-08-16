@@ -529,7 +529,7 @@
     "os-tmpdir": "^1.0.2",
     "overlayscrollbars": "^1.13.0",
     "p-finally": "^1.0.0",
-    "p-limit": "^2.3.0",
+    "p-limit": "^3.0.2",
     "p-locate": "^4.1.0",
     "p-map": "^4.0.0",
     "p-try": "^2.2.0",
