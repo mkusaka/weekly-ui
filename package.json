@@ -23,7 +23,7 @@
     "ansi-to-html": "^0.6.14",
     "anymatch": "^2.0.0",
     "app-root-dir": "^1.0.2",
-    "aproba": "^1.2.0",
+    "aproba": "^2.0.0",
     "are-we-there-yet": "^1.1.5",
     "argparse": "^1.0.10",
     "arr-diff": "^4.0.0",
