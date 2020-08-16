@@ -141,7 +141,7 @@
     "class-utils": "^0.3.6",
     "classnames": "^2.2.6",
     "clean-css": "^4.2.3",
-    "clean-stack": "^2.2.0",
+    "clean-stack": "^3.0.0",
     "cli-boxes": "^2.2.0",
     "cli-cursor": "^3.1.0",
     "cli-table3": "^0.6.0",
