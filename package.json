@@ -370,7 +370,7 @@
     "ip": "^1.1.5",
     "ipaddr.js": "^1.9.1",
     "is-absolute-url": "^3.0.3",
-    "is-accessor-descriptor": "^1.0.0",
+    "is-accessor-descriptor": "^3.0.1",
     "is-alphabetical": "^1.0.4",
     "is-alphanumerical": "^1.0.4",
     "is-arguments": "^1.0.4",
