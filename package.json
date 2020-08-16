@@ -536,7 +536,7 @@
     "pako": "^1.0.11",
     "parallel-transform": "^1.2.0",
     "param-case": "^3.0.3",
-    "parent-module": "^1.0.1",
+    "parent-module": "^2.0.0",
     "parse-asn1": "^5.1.6",
     "parse-entities": "^1.2.2",
     "parse-json": "^5.0.1",
