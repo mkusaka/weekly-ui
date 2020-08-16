@@ -110,7 +110,7 @@
     "browserify-zlib": "^0.2.0",
     "browserslist": "^4.14.0",
     "bser": "^2.1.1",
-    "buffer": "^4.9.2",
+    "buffer": "^5.6.0",
     "buffer-from": "^1.1.1",
     "buffer-xor": "^1.0.3",
     "builtin-status-codes": "^3.0.0",
