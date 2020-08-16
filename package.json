@@ -112,7 +112,7 @@
     "bser": "^2.1.1",
     "buffer": "^4.9.2",
     "buffer-from": "^1.1.1",
-    "buffer-xor": "^1.0.3",
+    "buffer-xor": "^2.0.2",
     "builtin-status-codes": "^3.0.0",
     "bytes": "^3.1.0",
     "cacache": "^15.0.5",
