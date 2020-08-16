@@ -189,7 +189,7 @@
     "cssesc": "^3.0.0",
     "csstype": "^2.6.13",
     "cyclist": "^1.0.1",
-    "debug": "^2.6.9",
+    "debug": "^4.1.1",
     "decode-uri-component": "^0.2.0",
     "deep-equal": "^1.1.1",
     "deep-is": "^0.1.3",
