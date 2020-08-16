@@ -411,7 +411,7 @@
     "is-wsl": "^1.1.0",
     "isarray": "^1.0.0",
     "isexe": "^2.0.0",
-    "isobject": "^3.0.1",
+    "isobject": "^4.0.0",
     "istanbul-lib-coverage": "^3.0.0",
     "istanbul-lib-instrument": "^4.0.3",
     "iterate-iterator": "^1.0.1",
