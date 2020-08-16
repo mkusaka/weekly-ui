@@ -653,7 +653,7 @@
     "ripemd160": "^2.0.2",
     "rsvp": "^4.8.5",
     "run-async": "^2.4.1",
-    "run-queue": "^1.0.3",
+    "run-queue": "^2.0.1",
     "rxjs": "^6.6.2",
     "safe-buffer": "^5.2.1",
     "safe-regex": "^1.1.0",
