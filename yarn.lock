@@ -10524,6 +10524,13 @@ snapdragon-util@^3.0.1:
   dependencies:
     kind-of "^3.2.0"
 
+snapdragon-util@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/snapdragon-util/-/snapdragon-util-5.0.1.tgz#281f1114bdd3c90b46585783a2e4d4eb684fa200"
+  integrity sha512-0F6MbgMMKw37GfnJjrNX4WbNdAacz+I7mzgVLKPa4sB9zQ7XeMVtaqoDrrSv2sHnhX5noL55tZSaHI5FQOLGMQ==
+  dependencies:
+    kind-of "^6.0.2"
+
 snapdragon@^0.8.1, snapdragon@^0.8.2:
   version "0.8.2"
   resolved "https://registry.yarnpkg.com/snapdragon/-/snapdragon-0.8.2.tgz#64922e7c565b0e14204ba1aa7d6964278d25182d"
