@@ -589,7 +589,7 @@
     "prr": "^1.0.1",
     "public-encrypt": "^4.0.3",
     "pump": "^3.0.0",
-    "pumpify": "^1.5.1",
+    "pumpify": "^2.0.1",
     "punycode": "^2.1.1",
     "qs": "^6.9.4",
     "querystring": "^0.2.0",
