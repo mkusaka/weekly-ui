@@ -562,7 +562,7 @@
     "pnp-webpack-plugin": "^1.6.4",
     "polished": "^3.6.5",
     "popper.js": "^1.16.1",
-    "posix-character-classes": "^0.1.1",
+    "posix-character-classes": "^1.0.0",
     "postcss": "^7.0.32",
     "postcss-flexbugs-fixes": "^4.2.1",
     "postcss-load-config": "^2.1.0",
