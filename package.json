@@ -176,7 +176,7 @@
     "core-js-compat": "^3.6.5",
     "core-js-pure": "^3.6.5",
     "core-util-is": "^1.0.2",
-    "cosmiconfig": "^6.0.0",
+    "cosmiconfig": "^7.0.0",
     "create-ecdh": "^4.0.4",
     "create-hash": "^1.2.0",
     "create-hmac": "^1.1.7",
