@@ -689,7 +689,7 @@
     "source-map-support": "^0.5.19",
     "source-map-url": "^0.4.0",
     "space-separated-tokens": "^1.1.5",
-    "split-string": "^3.1.0",
+    "split-string": "^6.1.0",
     "sprintf-js": "^1.0.3",
     "ssri": "^8.0.0",
     "stable": "^0.1.8",
