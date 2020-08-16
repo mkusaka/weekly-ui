@@ -7702,6 +7702,13 @@ is-data-descriptor@^1.0.0:
   dependencies:
     kind-of "^6.0.0"
 
+is-data-descriptor@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/is-data-descriptor/-/is-data-descriptor-2.0.0.tgz#90b4ec2922aa845ab946b26e06488bfc4a7bf23c"
+  integrity sha512-sbNf2A6rqSbDONhy0dbMlsgx0SNlDHH8zCNPNaG9Cxtb19HkMtqvoh4m9A246WX/Lj1zlMeNUsb0wPx+ZVrrmw==
+  dependencies:
+    kind-of "^6.0.0"
+
 is-date-object@^1.0.1, is-date-object@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/is-date-object/-/is-date-object-1.0.2.tgz#bda736f2cd8fd06d32844e7743bfa7494c3bfd7e"
