@@ -245,7 +245,7 @@
     "escalade": "^3.0.2",
     "escape-html": "^1.0.3",
     "escape-string-regexp": "^1.0.5",
-    "escodegen": "^1.14.3",
+    "escodegen": "^2.0.0",
     "eslint-scope": "^4.0.3",
     "esprima": "^4.0.1",
     "esrecurse": "^4.2.1",
