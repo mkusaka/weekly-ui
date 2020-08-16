@@ -255,7 +255,7 @@
     "events": "^3.2.0",
     "evp_bytestokey": "^1.0.3",
     "exec-sh": "^0.3.4",
-    "execa": "^1.0.0",
+    "execa": "^4.0.3",
     "expand-brackets": "^2.1.4",
     "express": "^4.17.1",
     "extend": "^3.0.2",
