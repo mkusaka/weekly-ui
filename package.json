@@ -507,7 +507,7 @@
     "npmlog": "^4.1.2",
     "nth-check": "^1.0.2",
     "num2fraction": "^1.2.2",
-    "number-is-nan": "^1.0.1",
+    "number-is-nan": "^2.0.0",
     "object-assign": "^4.1.1",
     "object-copy": "^0.1.0",
     "object-inspect": "^1.8.0",
