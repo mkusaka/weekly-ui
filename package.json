@@ -382,7 +382,7 @@
     "is-data-descriptor": "^1.0.0",
     "is-date-object": "^1.0.2",
     "is-decimal": "^1.0.4",
-    "is-descriptor": "^1.0.2",
+    "is-descriptor": "^3.0.0",
     "is-directory": "^0.3.1",
     "is-docker": "^2.1.1",
     "is-dom": "^1.1.0",
