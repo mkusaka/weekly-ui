@@ -354,7 +354,7 @@
     "immer": "^1.10.0",
     "import-cwd": "^2.1.0",
     "import-fresh": "^3.2.1",
-    "import-from": "^2.1.0",
+    "import-from": "^3.0.0",
     "imurmurhash": "^0.1.4",
     "indent-string": "^4.0.0",
     "indexes-of": "^1.0.1",
