@@ -1,0 +1,7 @@
+{
+  extends: ["config:base", ":onlyNpm"],
+  rangeStrategy: "bump",
+  minor: {
+    groupName: "bump minor deps"
+  }
+}
