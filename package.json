@@ -618,7 +618,7 @@
     "react-syntax-highlighter": "^12.2.1",
     "react-textarea-autosize": "^8.2.0",
     "reactcss": "^1.2.3",
-    "readable-stream": "^2.3.7",
+    "readable-stream": "^3.6.0",
     "readdirp": "^3.4.0",
     "rechoir": "^0.6.2",
     "recursive-readdir": "^2.2.2",
