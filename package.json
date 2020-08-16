@@ -352,7 +352,7 @@
     "iferr": "^0.1.5",
     "ignore": "^3.3.10",
     "immer": "^1.10.0",
-    "import-cwd": "^2.1.0",
+    "import-cwd": "^3.0.0",
     "import-fresh": "^3.2.1",
     "import-from": "^2.1.0",
     "imurmurhash": "^0.1.4",
