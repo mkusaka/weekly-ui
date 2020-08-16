@@ -350,7 +350,7 @@
     "icss-utils": "^4.1.1",
     "ieee754": "^1.1.13",
     "iferr": "^0.1.5",
-    "ignore": "^3.3.10",
+    "ignore": "^5.1.8",
     "immer": "^1.10.0",
     "import-cwd": "^2.1.0",
     "import-fresh": "^3.2.1",
