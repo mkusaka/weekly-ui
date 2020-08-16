@@ -324,7 +324,7 @@
     "has-symbols": "^1.0.1",
     "has-unicode": "^2.0.1",
     "has-value": "^1.0.0",
-    "has-values": "^1.0.0",
+    "has-values": "^2.0.1",
     "hash-base": "^3.1.0",
     "hash.js": "^1.1.7",
     "hast-to-hyperscript": "^9.0.0",
