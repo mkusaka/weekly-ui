@@ -656,7 +656,7 @@
     "run-queue": "^1.0.3",
     "rxjs": "^6.6.2",
     "safe-buffer": "^5.2.1",
-    "safe-regex": "^1.1.0",
+    "safe-regex": "^2.1.1",
     "safer-buffer": "^2.1.2",
     "sane": "^4.1.0",
     "scheduler": "^0.19.1",
