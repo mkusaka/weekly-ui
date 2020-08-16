@@ -1049,7 +1049,6 @@
     "@types/promise-inflight": "^1.0.0",
     "@types/promise.allsettled": "^1.0.3",
     "@types/promise.prototype.finally": "^2.0.4",
-    "@types/prop-types": "^15.7.3",
     "@types/proxy-addr": "^2.0.0",
     "@types/pump": "^1.1.0",
     "@types/pumpify": "^1.4.1",
@@ -1138,7 +1137,8 @@
     "@types/y18n": "^4.0.0",
     "@types/yallist": "^3.0.1",
     "@types/yaml": "^1.9.7",
-    "react-is": "^16.13.1"
+    "react-is": "^16.13.1",
+    "typescript": "^3.9.7"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
