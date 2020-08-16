@@ -528,7 +528,7 @@
     "os-browserify": "^0.3.0",
     "os-tmpdir": "^1.0.2",
     "overlayscrollbars": "^1.13.0",
-    "p-finally": "^1.0.0",
+    "p-finally": "^2.0.1",
     "p-limit": "^2.3.0",
     "p-locate": "^4.1.0",
     "p-map": "^4.0.0",
