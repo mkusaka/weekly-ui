@@ -32,7 +32,7 @@
     "array-flatten": "^1.1.1",
     "array-includes": "^3.1.1",
     "array-union": "^1.0.2",
-    "array-uniq": "^1.0.3",
+    "array-uniq": "^2.1.0",
     "array-unique": "^0.3.2",
     "array.prototype.flat": "^1.2.3",
     "array.prototype.flatmap": "^1.2.3",
