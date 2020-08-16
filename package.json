@@ -15,7 +15,7 @@
     "ajv-errors": "^1.0.1",
     "ajv-keywords": "^3.5.2",
     "ansi-align": "^3.0.0",
-    "ansi-colors": "^3.2.4",
+    "ansi-colors": "^4.1.1",
     "ansi-escapes": "^4.3.1",
     "ansi-html": "^0.0.7",
     "ansi-regex": "^2.1.1",
