@@ -662,7 +662,7 @@
     "scheduler": "^0.19.1",
     "schema-utils": "^2.7.0",
     "select": "^1.1.2",
-    "semver": "^5.7.1",
+    "semver": "^7.3.2",
     "send": "^0.17.1",
     "serialize-javascript": "^4.0.0",
     "serve-favicon": "^2.5.0",
