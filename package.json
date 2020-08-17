@@ -368,7 +368,7 @@
     "interpret": "^2.2.0",
     "invariant": "^2.2.4",
     "ip": "^1.1.5",
-    "ipaddr.js": "^1.9.1",
+    "ipaddr.js": "^2.0.0",
     "is-absolute-url": "^3.0.3",
     "is-accessor-descriptor": "^1.0.0",
     "is-alphabetical": "^1.0.4",
