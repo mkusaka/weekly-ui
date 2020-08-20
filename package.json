@@ -217,7 +217,7 @@
     "domutils": "^2.1.0",
     "dot-case": "^3.0.3",
     "dotenv": "^8.2.0",
-    "dotenv-defaults": "^1.1.1",
+    "dotenv-defaults": "^2.0.1",
     "dotenv-expand": "^5.1.0",
     "dotenv-webpack": "^1.8.0",
     "duplexer": "^0.1.2",
