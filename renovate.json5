@@ -10,4 +10,5 @@
   prHourlyLimit: 0,
   commitBodyTable: true,
   dependencyDashboard: true,
+  postUpdateOptions: ["yarnDedupeHighest"],
 }
