@@ -566,7 +566,7 @@
     "postcss": "^8.0.7",
     "postcss-flexbugs-fixes": "^4.2.1",
     "postcss-load-config": "^2.1.0",
-    "postcss-loader": "^3.0.0",
+    "postcss-loader": "^4.0.2",
     "postcss-modules-extract-imports": "^2.0.0",
     "postcss-modules-local-by-default": "^3.0.3",
     "postcss-modules-scope": "^2.2.0",
