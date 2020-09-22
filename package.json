@@ -900,7 +900,7 @@
     "@types/dir-glob": "^2.0.0",
     "@types/doctrine": "^0.0.3",
     "@types/domhandler": "^2.4.1",
-    "@types/dotenv-webpack": "^1.8.0",
+    "@types/dotenv-webpack": "^3.0.0",
     "@types/duplexify": "^3.6.0",
     "@types/ee-first": "^1.1.0",
     "@types/ejs": "^3.0.4",
