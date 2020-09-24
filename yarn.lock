@@ -6033,10 +6033,10 @@ css-select@^2.0.0:
     domutils "^1.7.0"
     nth-check "^1.0.2"
 
-css-select@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/css-select/-/css-select-3.0.0.tgz#7533e0e600f6a234c7cf151e3c94671a04fe9624"
-  integrity sha512-T432xuZlBtvAIaaRJyB5DVknczqr4bIEhfr09uC3L0DW0FQAK4+Yp/AAhTALNGoE7nZ/hGq2v11M8FOZ8amsUA==
+css-select@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/css-select/-/css-select-3.0.1.tgz#98bfdf4d43756f4b8db7b897bde61aa7572d59b8"
+  integrity sha512-nzgvzFgkhKeoM0P69AFMgVjlt9b3wxbi1Cai1EAK4S/897edtKcPVgbdWPjP75JanlIZPIccd0y++ROysnXaYg==
   dependencies:
     boolbase "^1.0.0"
     css-what "^3.3.0"
