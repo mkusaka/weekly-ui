@@ -11,4 +11,5 @@
   commitBodyTable: true,
   dependencyDashboard: true,
   postUpdateOptions: ["yarnDedupeHighest"],
+  automerge: true,
 }
