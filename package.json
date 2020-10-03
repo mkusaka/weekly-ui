@@ -565,7 +565,7 @@
     "posix-character-classes": "^1.0.0",
     "postcss": "^8.1.1",
     "postcss-flexbugs-fixes": "^4.2.1",
-    "postcss-load-config": "^2.1.2",
+    "postcss-load-config": "^3.0.0",
     "postcss-loader": "^4.0.3",
     "postcss-modules-extract-imports": "^2.0.0",
     "postcss-modules-local-by-default": "^3.0.3",
