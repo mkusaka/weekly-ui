@@ -660,7 +660,7 @@
     "safer-buffer": "^2.1.2",
     "sane": "^4.1.0",
     "scheduler": "^0.19.1",
-    "schema-utils": "^2.7.1",
+    "schema-utils": "^3.0.0",
     "select": "^1.1.2",
     "semver": "^7.3.2",
     "send": "^0.17.1",
