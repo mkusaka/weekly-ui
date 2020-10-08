@@ -633,7 +633,7 @@
     "regjsgen": "^0.5.2",
     "regjsparser": "^0.6.4",
     "relateurl": "^0.2.7",
-    "remark-external-links": "^7.0.1",
+    "remark-external-links": "^8.0.0",
     "remark-footnotes": "^3.0.0",
     "remark-mdx": "^1.6.18",
     "remark-parse": "^8.0.3",
