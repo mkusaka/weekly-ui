@@ -744,7 +744,7 @@
     "ts-dedent": "^2.0.0",
     "ts-essentials": "^7.0.0",
     "ts-pnp": "^1.2.0",
-    "tslib": "^2.0.2",
+    "tslib": "^2.0.3",
     "tty-browserify": "^0.0.1",
     "type-check": "^0.4.0",
     "type-fest": "^0.17.0",
