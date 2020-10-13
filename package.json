@@ -570,7 +570,7 @@
     "postcss-modules-extract-imports": "^2.0.0",
     "postcss-modules-local-by-default": "^3.0.3",
     "postcss-modules-scope": "^2.2.0",
-    "postcss-modules-values": "^3.0.0",
+    "postcss-modules-values": "^4.0.0",
     "postcss-selector-parser": "^6.0.4",
     "postcss-value-parser": "^4.1.0",
     "prelude-ls": "^1.2.1",
