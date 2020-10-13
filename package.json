@@ -242,7 +242,7 @@
     "es-to-primitive": "^1.2.1",
     "es5-shim": "^4.5.14",
     "es6-shim": "^0.35.5",
-    "escalade": "^3.1.0",
+    "escalade": "^3.1.1",
     "escape-html": "^1.0.3",
     "escape-string-regexp": "^4.0.0",
     "escodegen": "^2.0.0",
