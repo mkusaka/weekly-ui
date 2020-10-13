@@ -619,7 +619,7 @@
     "react-textarea-autosize": "^8.2.0",
     "reactcss": "^1.2.3",
     "readable-stream": "^3.6.0",
-    "readdirp": "^3.4.0",
+    "readdirp": "^3.5.0",
     "rechoir": "^0.7.0",
     "recursive-readdir": "^2.2.2",
     "refractor": "^3.2.0",
