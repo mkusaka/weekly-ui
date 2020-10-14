@@ -600,10 +600,10 @@
     "range-parser": "^1.2.1",
     "raw-body": "^2.4.1",
     "raw-loader": "^4.0.2",
-    "react": "^16.13.1",
+    "react": "^16.14.0",
     "react-color": "^2.18.1",
     "react-dev-utils": "^10.2.1",
-    "react-dom": "^16.13.1",
+    "react-dom": "^16.14.0",
     "react-draggable": "^4.4.3",
     "react-element-to-jsx-string": "^14.3.1",
     "react-error-overlay": "^6.0.7",
@@ -822,7 +822,7 @@
     "zwitch": "^1.0.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.11.6",
+    "@babel/core": "^7.12.0",
     "@storybook/addon-actions": "^6.0.26",
     "@storybook/addon-essentials": "^6.0.26",
     "@storybook/addon-links": "^6.0.26",
