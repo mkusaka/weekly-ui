@@ -3210,10 +3210,10 @@
   resolved "https://registry.yarnpkg.com/@types/negotiator/-/negotiator-0.6.1.tgz#4c75543f6ef87f427f4705e731a933595b7397f5"
   integrity sha512-c4mvXFByghezQ/eVGN5HvH/jI63vm3B7FiE81BUzDAWmuiohRecCO6ddU60dfq29oKUMiQujsoB2h0JQC7JHKA==
 
-"@types/nice-try@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@types/nice-try/-/nice-try-2.0.0.tgz#02f55642fb75d120f03c7d8d15b5bb3465f45ddf"
-  integrity sha512-hvaxJLCiXipFiDA3qB27uD0hFjyjMwyhW1phGrpLOlKYhnuJ6RinnHGpD51RTEuM7ATl2LFCVonizsP3J4qp8g==
+"@types/nice-try@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@types/nice-try/-/nice-try-2.1.0.tgz#6f044b4fd2a8a878154c77d5fca0a2f4aea8b774"
+  integrity sha512-pJaR/8Ijp4SbMJfzNLc/BgvkfbYTIvDiaheb5yGrdF4AeqPPQJq2K/Gk2tL4WasRITUAWXSa6+MvB8yyjQQnlQ==
 
 "@types/node-fetch@^2.5.4", "@types/node-fetch@^2.5.7":
   version "2.5.7"
@@ -13276,10 +13276,10 @@ webpack-virtual-modules@^0.2.2:
   dependencies:
     debug "^3.0.0"
 
-webpack-virtual-modules@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/webpack-virtual-modules/-/webpack-virtual-modules-0.3.1.tgz#78cbf1a41a699890a706e789a682dd1120558bf4"
-  integrity sha512-C9Zbb9rny/SaZJ7gTgJjyB2Qt4G4dbT5rVZywYpyk3L6qyf006RepODREXC4rcQCiTPdZnqnebRq5Chsxg+SgQ==
+webpack-virtual-modules@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/webpack-virtual-modules/-/webpack-virtual-modules-0.3.2.tgz#b7baa30971a22d99451f897db053af48ec29ad2c"
+  integrity sha512-RXQXioY6MhzM4CNQwmBwKXYgBs6ulaiQ8bkNQEl2J6Z+V+s7lgl/wGvaI/I0dLnYKB8cKsxQc17QOAVIphPLDw==
   dependencies:
     debug "^3.0.0"
 
