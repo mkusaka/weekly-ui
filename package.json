@@ -241,7 +241,7 @@
     "es-get-iterator": "^1.1.0",
     "es-to-primitive": "^1.2.1",
     "es5-shim": "^4.5.14",
-    "es6-shim": "^0.35.5",
+    "es6-shim": "^0.35.6",
     "escalade": "^3.1.1",
     "escape-html": "^1.0.3",
     "escape-string-regexp": "^4.0.0",
