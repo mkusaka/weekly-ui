@@ -822,7 +822,7 @@
     "zwitch": "^1.0.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.1",
+    "@babel/core": "^7.12.3",
     "@storybook/addon-actions": "^6.0.26",
     "@storybook/addon-essentials": "^6.0.26",
     "@storybook/addon-links": "^6.0.26",
@@ -1053,7 +1053,7 @@
     "@types/pumpify": "^1.4.1",
     "@types/punycode": "^2.1.0",
     "@types/qs": "^6.9.5",
-    "@types/ramda": "^0.27.28",
+    "@types/ramda": "^0.27.29",
     "@types/randombytes": "^2.0.0",
     "@types/range-parser": "^1.2.3",
     "@types/react": "^16.9.53",
