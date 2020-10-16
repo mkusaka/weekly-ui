@@ -1063,7 +1063,7 @@
     "@types/react-inspector": "^4.0.1",
     "@types/react-is": "^16.7.1",
     "@types/react-lifecycles-compat": "^3.0.1",
-    "@types/react-syntax-highlighter": "^11.0.5",
+    "@types/react-syntax-highlighter": "^13.5.0",
     "@types/react-textarea-autosize": "^4.3.5",
     "@types/reactcss": "^1.2.3",
     "@types/readable-stream": "^2.3.9",
