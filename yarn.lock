@@ -10679,6 +10679,14 @@ pretty-error@^2.1.1:
     renderkid "^2.0.1"
     utila "~0.4"
 
+pretty-error@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/pretty-error/-/pretty-error-3.0.2.tgz#5ad5c73fa53ef7d6e0be7cd643586b9950acfbf9"
+  integrity sha512-/4BQH224cdv8Xtx7evL8WudmgS0CsQWHQgfqoJ17pqkb6G4Re/08onrnGvo4zh+KLf0TiE25CiQLETDPuAEhJw==
+  dependencies:
+    lodash "^4.17.20"
+    renderkid "^2.0.4"
+
 pretty-hrtime@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/pretty-hrtime/-/pretty-hrtime-1.0.3.tgz#b7e3ea42435a4c9b2759d99e0f201eb195802ee1"
