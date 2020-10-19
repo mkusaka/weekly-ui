@@ -1229,10 +1229,10 @@
     source-map "^0.6.1"
     write-file-atomic "^3.0.0"
 
-"@jest/types@^26.3.0", "@jest/types@^26.5.2":
-  version "26.5.2"
-  resolved "https://registry.yarnpkg.com/@jest/types/-/types-26.5.2.tgz#44c24f30c8ee6c7f492ead9ec3f3c62a5289756d"
-  integrity sha512-QDs5d0gYiyetI8q+2xWdkixVQMklReZr4ltw7GFDtb4fuJIBCE6mzj2LnitGqCuAlLap6wPyb8fpoHgwZz5fdg==
+"@jest/types@^26.3.0", "@jest/types@^26.6.0":
+  version "26.6.0"
+  resolved "https://registry.yarnpkg.com/@jest/types/-/types-26.6.0.tgz#2c045f231bfd79d52514cda3fbc93ef46157fa6a"
+  integrity sha512-8pDeq/JVyAYw7jBGU83v8RMYAkdrRxLG3BGnAJuqaQAUd6GWBmND2uyl+awI88+hit48suLoLjNFtR+ZXxWaYg==
   dependencies:
     "@types/istanbul-lib-coverage" "^2.0.0"
     "@types/istanbul-reports" "^3.0.0"
@@ -7937,15 +7937,10 @@ he@^1.2.0:
   resolved "https://registry.yarnpkg.com/he/-/he-1.2.0.tgz#84ae65fa7eafb165fddb61566ae14baf05664f0f"
   integrity sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==
 
-highlight.js@^10.1.1, highlight.js@^10.3.1:
+highlight.js@^10.1.1, highlight.js@^10.3.1, highlight.js@~10.3.0:
   version "10.3.1"
   resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-10.3.1.tgz#3ca6bf007377faae347e8135ff25900aac734b9a"
   integrity sha512-jeW8rdPdhshYKObedYg5XGbpVgb1/DT4AHvDFXhkU7UnGSIjy9kkJ7zHG7qplhFHMitTSzh5/iClKQk3Kb2RFQ==
-
-highlight.js@~10.2.0:
-  version "10.2.1"
-  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-10.2.1.tgz#09784fe2e95612abbefd510948945d4fe6fa9668"
-  integrity sha512-A+sckVPIb9zQTUydC9lpRX1qRFO/N0OKEh0NwIr65ckvWA/oMY8v9P3+kGRK3w2ULSh9E8v5MszXafodQ6039g==
 
 highlight.js@~9.15.0, highlight.js@~9.15.1:
   version "9.15.10"
@@ -8825,12 +8820,12 @@ jake@^10.6.1, jake@^10.8.2:
     filelist "^1.0.1"
     minimatch "^3.0.4"
 
-jest-haste-map@^26.3.0, jest-haste-map@^26.5.2:
-  version "26.5.2"
-  resolved "https://registry.yarnpkg.com/jest-haste-map/-/jest-haste-map-26.5.2.tgz#a15008abfc502c18aa56e4919ed8c96304ceb23d"
-  integrity sha512-lJIAVJN3gtO3k4xy+7i2Xjtwh8CfPcH08WYjZpe9xzveDaqGw9fVNCpkYu6M525wKFVkLmyi7ku+DxCAP1lyMA==
+jest-haste-map@^26.3.0, jest-haste-map@^26.6.0:
+  version "26.6.0"
+  resolved "https://registry.yarnpkg.com/jest-haste-map/-/jest-haste-map-26.6.0.tgz#4cd392bc51109bd8e0f765b2d5afa746bebb5ce2"
+  integrity sha512-RpNqAGMR58uG9E9vWITorX2/R7he/tSbHWldX5upt1ymEcmCaXczqXxjqI6xOtRR8Ev6ZEYDfgSA5Fy7WHUL5w==
   dependencies:
-    "@jest/types" "^26.5.2"
+    "@jest/types" "^26.6.0"
     "@types/graceful-fs" "^4.1.2"
     "@types/node" "*"
     anymatch "^3.0.3"
@@ -8838,7 +8833,7 @@ jest-haste-map@^26.3.0, jest-haste-map@^26.5.2:
     graceful-fs "^4.2.4"
     jest-regex-util "^26.0.0"
     jest-serializer "^26.5.0"
-    jest-util "^26.5.2"
+    jest-util "^26.6.0"
     jest-worker "^26.5.0"
     micromatch "^4.0.2"
     sane "^4.0.3"
@@ -8859,12 +8854,12 @@ jest-serializer@^26.5.0:
     "@types/node" "*"
     graceful-fs "^4.2.4"
 
-jest-util@^26.3.0, jest-util@^26.5.2:
-  version "26.5.2"
-  resolved "https://registry.yarnpkg.com/jest-util/-/jest-util-26.5.2.tgz#8403f75677902cc52a1b2140f568e91f8ed4f4d7"
-  integrity sha512-WTL675bK+GSSAYgS8z9FWdCT2nccO1yTIplNLPlP0OD8tUk/H5IrWKMMRudIQQ0qp8bb4k+1Qa8CxGKq9qnYdg==
+jest-util@^26.3.0, jest-util@^26.6.0:
+  version "26.6.0"
+  resolved "https://registry.yarnpkg.com/jest-util/-/jest-util-26.6.0.tgz#a81547f6d38738b505c5a594b37d911335dea60f"
+  integrity sha512-/cUGqcnKeZMjvTQLfJo65nBOEZ/k0RB/8usv2JpfYya05u0XvBmKkIH5o5c4nCh9DD61B1YQjMGGqh1Ha0aXdg==
   dependencies:
-    "@jest/types" "^26.5.2"
+    "@jest/types" "^26.6.0"
     "@types/node" "*"
     chalk "^4.0.0"
     graceful-fs "^4.2.4"
@@ -9220,13 +9215,13 @@ lowlight@1.12.1:
     fault "^1.0.2"
     highlight.js "~9.15.0"
 
-lowlight@^1.14.0, lowlight@^1.15.0:
-  version "1.15.0"
-  resolved "https://registry.yarnpkg.com/lowlight/-/lowlight-1.15.0.tgz#51a8888852493cbbe4a7f39919b237a1d502c18c"
-  integrity sha512-GhG/R+2zt5Wg8kCfOhapH8wDdJSHSIvdDW/DOPXCeResVqgHYLnOHBp6g9DoUIPVIyBpvQYCG4SV7XeelYFpyA==
+lowlight@^1.14.0, lowlight@^1.16.0:
+  version "1.16.0"
+  resolved "https://registry.yarnpkg.com/lowlight/-/lowlight-1.16.0.tgz#9d904370d0b20bca0893d73559cf27428fecbf7e"
+  integrity sha512-ECLdzIJvBEjK4ef51sWiGZyz21yx4IEPaF/62DRxLehoOHkWqN3OsLB1GUMfc6Mcf87rR5eW7z6lI9cNEXZDsQ==
   dependencies:
     fault "^1.0.0"
-    highlight.js "~10.2.0"
+    highlight.js "~10.3.0"
 
 lru-cache@^5.1.1:
   version "5.1.1"
@@ -12513,10 +12508,10 @@ terser@^4.1.2, terser@^4.6.3, terser@^4.8.0:
     source-map "~0.6.1"
     source-map-support "~0.5.12"
 
-terser@^5.3.5:
-  version "5.3.5"
-  resolved "https://registry.yarnpkg.com/terser/-/terser-5.3.5.tgz#9e080baa0568f96654621b20eb9effa440b1484e"
-  integrity sha512-Qw3CZAMmmfU824AoGKalx+riwocSI5Cs0PoGp9RdSLfmxkmJgyBxqLBP/isDNtFyhHnitikvRMZzyVgeq+U+Tg==
+terser@^5.3.5, terser@^5.3.7:
+  version "5.3.7"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-5.3.7.tgz#798a4ae2e7ff67050c3e99fcc4e00725827d97e2"
+  integrity sha512-lJbKdfxWvjpV330U4PBZStCT9h3N9A4zZVA5Y4k9sCWXknrpdyxi1oMsRKLmQ/YDMDxSBKIh88v0SkdhdqX06w==
   dependencies:
     commander "^2.20.0"
     source-map "~0.7.2"
@@ -12958,10 +12953,10 @@ unist-util-stringify-position@^2.0.0, unist-util-stringify-position@^2.0.3:
   dependencies:
     "@types/unist" "^2.0.2"
 
-unist-util-visit-parents@^3.0.0, unist-util-visit-parents@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/unist-util-visit-parents/-/unist-util-visit-parents-3.1.0.tgz#4dd262fb9dcfe44f297d53e882fc6ff3421173d5"
-  integrity sha512-0g4wbluTF93npyPrp/ymd3tCDTMnP0yo2akFD2FIBAYXq/Sga3lwaU1D8OYKbtpioaI6CkDcQ6fsMnmtzt7htw==
+unist-util-visit-parents@^3.0.0, unist-util-visit-parents@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/unist-util-visit-parents/-/unist-util-visit-parents-3.1.1.tgz#65a6ce698f78a6b0f56aa0e88f13801886cdaef6"
+  integrity sha512-1KROIZWo6bcMrZEwiH2UrXDyalAa0uqzWCxCJj6lPOvTve2WkfgCytoDTPaMnodXh1WrXOq0haVYHj99ynJlsg==
   dependencies:
     "@types/unist" "^2.0.0"
     unist-util-is "^4.0.0"
