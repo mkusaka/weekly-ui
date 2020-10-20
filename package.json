@@ -903,7 +903,7 @@
     "@types/dotenv-webpack": "^3.0.0",
     "@types/duplexify": "^3.6.0",
     "@types/ee-first": "^1.1.0",
-    "@types/ejs": "^3.0.4",
+    "@types/ejs": "^3.0.5",
     "@types/element-resize-detector": "^1.1.2",
     "@types/elliptic": "^6.4.12",
     "@types/encodeurl": "^1.0.0",
