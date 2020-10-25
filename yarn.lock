@@ -7664,10 +7664,10 @@ globals@^11.1.0:
   resolved "https://registry.yarnpkg.com/globals/-/globals-11.12.0.tgz#ab8795338868a0babd8525758018c2a7eb95c42e"
   integrity sha512-WOBp/EEGUiIsJSp7wcv/y6MO+lV9UoncWqxuFfm8eBwzWNgyfBd6Gz+IeKQ9jCmyhoH99g15M3T+QaVHFjizVA==
 
-globals@^13.2.0:
-  version "13.2.0"
-  resolved "https://registry.yarnpkg.com/globals/-/globals-13.2.0.tgz#30b6814a1b7945d0b5b3795f81c275342bb17129"
-  integrity sha512-OjvFbGDlR7aIsLqFrraxoqIP3bb+wgp+Aarel5S56lwS3se4uUrwKkChnv1MqsMIv/Opexbmu7qCfHL9T0mBEg==
+globals@^13.3.0:
+  version "13.3.0"
+  resolved "https://registry.yarnpkg.com/globals/-/globals-13.3.0.tgz#0d47e8bd06722d2eb90b77040e9a9af0615b51aa"
+  integrity sha512-RjuvsMnQXQWjVGClrHIVdKOkYZcP/4UrgrZxIFdEyp+NvradqD4bNtPmtTn4mv4NMvVqdFCzaJuGGA9QpKjZmA==
   dependencies:
     type-fest "^0.8.1"
 
