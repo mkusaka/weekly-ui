@@ -311,7 +311,7 @@
     "global": "^4.4.0",
     "global-modules": "^2.0.0",
     "global-prefix": "^3.0.0",
-    "globals": "^13.2.0",
+    "globals": "^13.3.0",
     "globalthis": "^1.0.1",
     "globby": "^11.0.1",
     "good-listener": "^1.2.2",
