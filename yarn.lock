@@ -3264,10 +3264,10 @@
   resolved "https://registry.yarnpkg.com/@types/object-assign/-/object-assign-4.0.30.tgz#8949371d5a99f4381ee0f1df0a9b7a187e07e652"
   integrity sha1-iUk3HVqZ9Dge4PHfCpt6GH4H5lI=
 
-"@types/object-inspect@^1.6.1":
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/@types/object-inspect/-/object-inspect-1.6.1.tgz#0221ea23914db77df1d0d374f67d9b2df4460b6a"
-  integrity sha512-i+IgNcDl9bt2z9kwUdwNJQ4aVdZ9jVhjTCfH/YU2amkZIaHFPGSwpfarBzEOY0Pc5eGsei53CO0SiBn27vj1VA==
+"@types/object-inspect@^1.8.0":
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/@types/object-inspect/-/object-inspect-1.8.0.tgz#d3a4537b771d06af85bdd2f25d20954433c25c49"
+  integrity sha512-r0xcaoZLwB0qCiR4lw1xZue3T9p8i/JdKslESAwfMEvjHIYK8DhQaV02K6WTJ29ueZOUe9ttscvP2Tv3ujBAHg==
 
 "@types/object-keys@^1.0.1":
   version "1.0.1"
