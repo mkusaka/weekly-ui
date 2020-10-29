@@ -615,7 +615,7 @@
     "react-popper": "^2.2.3",
     "react-popper-tooltip": "^3.1.0",
     "react-sizeme": "^2.6.12",
-    "react-syntax-highlighter": "^15.2.1",
+    "react-syntax-highlighter": "^15.3.0",
     "react-textarea-autosize": "^8.2.0",
     "reactcss": "^1.2.3",
     "readable-stream": "^3.6.0",
