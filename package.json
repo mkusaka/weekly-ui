@@ -798,7 +798,7 @@
     "vm-browserify": "^1.1.2",
     "walker": "^1.0.7",
     "warning": "^4.0.3",
-    "watchpack": "^2.0.0",
+    "watchpack": "^2.0.1",
     "watchpack-chokidar2": "^2.0.0",
     "web-namespaces": "^1.1.4",
     "webpack": "^4.44.2",
