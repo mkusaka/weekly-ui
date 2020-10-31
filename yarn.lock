@@ -10573,12 +10573,17 @@ posix-character-classes@^1.0.0:
   resolved "https://registry.yarnpkg.com/posix-character-classes/-/posix-character-classes-1.0.0.tgz#86917ab2d252f7ea78e157bf009b9b6ea35c6cad"
   integrity sha1-hpF6stJS9+p44Ve/AJubbqNcbK0=
 
-postcss-flexbugs-fixes@^4.1.0, postcss-flexbugs-fixes@^4.2.1:
+postcss-flexbugs-fixes@^4.1.0:
   version "4.2.1"
   resolved "https://registry.yarnpkg.com/postcss-flexbugs-fixes/-/postcss-flexbugs-fixes-4.2.1.tgz#9218a65249f30897deab1033aced8578562a6690"
   integrity sha512-9SiofaZ9CWpQWxOwRh1b/r85KD5y7GgvsNt1056k6OYLvWUun0czCvogfJgylC22uJTwW1KzY3Gz65NZRlvoiQ==
   dependencies:
     postcss "^7.0.26"
+
+postcss-flexbugs-fixes@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/postcss-flexbugs-fixes/-/postcss-flexbugs-fixes-5.0.0.tgz#b68f71e914079501e7174f966394b63b868f6716"
+  integrity sha512-WXt2F6FnFB16rCwWVJnBsvfztnTi6O4SYRcpnGHOnDyMoKcqjC3uKHWbhFz0z1ic9UMyQm1hleTBGavZZGE1KA==
 
 postcss-load-config@^2.0.0:
   version "2.1.2"
