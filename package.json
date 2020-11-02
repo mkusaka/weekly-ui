@@ -764,7 +764,7 @@
     "unique-filename": "^1.1.1",
     "unique-slug": "^2.0.2",
     "unist-builder": "^2.0.3",
-    "unist-util-generated": "^1.1.5",
+    "unist-util-generated": "^1.1.6",
     "unist-util-is": "^4.0.3",
     "unist-util-position": "^3.1.0",
     "unist-util-remove": "^2.0.1",
