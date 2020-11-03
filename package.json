@@ -376,7 +376,7 @@
     "is-arguments": "^1.0.4",
     "is-arrayish": "^0.3.2",
     "is-binary-path": "^2.1.0",
-    "is-buffer": "^2.0.4",
+    "is-buffer": "^2.0.5",
     "is-callable": "^1.2.2",
     "is-ci": "^2.0.0",
     "is-data-descriptor": "^2.0.0",
