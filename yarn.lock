@@ -2572,7 +2572,7 @@
   dependencies:
     "@types/estree" "*"
 
-"@types/estree@*":
+"@types/estree@*", "@types/estree@^0.0.45":
   version "0.0.45"
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-0.0.45.tgz#e9387572998e5ecdac221950dab3e8c3b16af884"
   integrity sha512-jnqIUKDUqJbDIUxm0Uj7bnlMnRm1T/eZ9N+AVMqhPgzrba2GhGG5o/jCTwmdPK709nEZsGoMzXEDUjcXHa3W0g==
@@ -3827,13 +3827,13 @@
     "@types/minipass" "*"
     "@types/node" "*"
 
-"@types/terser-webpack-plugin@^5.0.1":
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/@types/terser-webpack-plugin/-/terser-webpack-plugin-5.0.1.tgz#15a3b01ad3497a8ed449b35f06f257a2b2ab5c5d"
-  integrity sha512-kDxwsSDm5eVffzPpbu7uWSW2xVKmNAJ5YK6j7gdgww98rV+eGGhS9Wi0qNp0ZqCr923hI8JuSce2QO8pcdn3gQ==
+"@types/terser-webpack-plugin@^5.0.2":
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/@types/terser-webpack-plugin/-/terser-webpack-plugin-5.0.2.tgz#ebc935cfb9a0cc5ef33934ab63202e16cdf6a961"
+  integrity sha512-YcAT1D4gjho1jqc/gjn1ojHFtQtrGHaHPqz5nDMiN5Jj9BeigjDkS2w010PvUnPkdVY3GerDFbY62TArtDBuDQ==
   dependencies:
-    "@types/webpack" "*"
     terser "^5.3.8"
+    webpack "^5.1.0"
 
 "@types/text-table@^0.2.1":
   version "0.2.1"
@@ -13339,7 +13339,7 @@ watchpack@^1.7.4:
     chokidar "^3.4.1"
     watchpack-chokidar2 "^2.0.0"
 
-watchpack@^2.0.1:
+watchpack@^2.0.0, watchpack@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-2.0.1.tgz#2f2192c542c82a3bcde76acd3411470c120426a8"
   integrity sha512-vO8AKGX22ZRo6PiOFM9dC0re8IcKh8Kd/aH2zeqUc6w4/jBGlTy2P7fTC6ekT0NjVeGjgU2dGC5rNstKkeLEQg==
@@ -13419,7 +13419,7 @@ webpack-sources@^1.4.0, webpack-sources@^1.4.1, webpack-sources@^1.4.3:
     source-list-map "^2.0.0"
     source-map "~0.6.1"
 
-webpack-sources@^2.2.0:
+webpack-sources@^2.1.1, webpack-sources@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-2.2.0.tgz#058926f39e3d443193b6c31547229806ffd02bac"
   integrity sha512-bQsA24JLwcnWGArOKUxYKhX3Mz/nK1Xf6hxullKERyktjNMC4x8koOeaDNTA2fEJ09BdWLbM/iTW0ithREUP0w==
@@ -13469,6 +13469,36 @@ webpack@^4.43.0, webpack@^4.44.2:
     terser-webpack-plugin "^1.4.3"
     watchpack "^1.7.4"
     webpack-sources "^1.4.1"
+
+webpack@^5.1.0:
+  version "5.4.0"
+  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.4.0.tgz#4fdc6ec8a0ff9160701fb8f2eb8d06b33ecbae0f"
+  integrity sha512-udpYTyqz8toTTdaOsL2QKPLeZLt2IEm9qY7yTXuFEQhKu5bk0yQD9BtAdVQksmz4jFbbWOiWmm3NHarO0zr/ng==
+  dependencies:
+    "@types/eslint-scope" "^3.7.0"
+    "@types/estree" "^0.0.45"
+    "@webassemblyjs/ast" "1.9.0"
+    "@webassemblyjs/helper-module-context" "1.9.0"
+    "@webassemblyjs/wasm-edit" "1.9.0"
+    "@webassemblyjs/wasm-parser" "1.9.0"
+    acorn "^8.0.4"
+    browserslist "^4.14.5"
+    chrome-trace-event "^1.0.2"
+    enhanced-resolve "^5.3.1"
+    eslint-scope "^5.1.1"
+    events "^3.2.0"
+    glob-to-regexp "^0.4.1"
+    graceful-fs "^4.2.4"
+    json-parse-better-errors "^1.0.2"
+    loader-runner "^4.1.0"
+    mime-types "^2.1.27"
+    neo-async "^2.6.2"
+    pkg-dir "^4.2.0"
+    schema-utils "^3.0.0"
+    tapable "^2.0.0"
+    terser-webpack-plugin "^5.0.3"
+    watchpack "^2.0.0"
+    webpack-sources "^2.1.1"
 
 which-boxed-primitive@^1.0.1:
   version "1.0.1"

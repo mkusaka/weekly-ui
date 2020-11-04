@@ -1105,7 +1105,7 @@
     "@types/supports-color": "^7.2.0",
     "@types/tapable": "^1.0.6",
     "@types/tar": "^4.0.3",
-    "@types/terser-webpack-plugin": "^5.0.1",
+    "@types/terser-webpack-plugin": "^5.0.2",
     "@types/text-table": "^0.2.1",
     "@types/throttle-debounce": "^2.1.0",
     "@types/through": "^0.0.30",
