@@ -124,7 +124,7 @@
     "camel-case": "^4.1.1",
     "camelcase": "^6.2.0",
     "camelcase-css": "^2.0.1",
-    "caniuse-lite": "^1.0.30001155",
+    "caniuse-lite": "^1.0.30001156",
     "capture-exit": "^2.0.0",
     "case-sensitive-paths-webpack-plugin": "^2.3.0",
     "ccount": "^1.1.0",
