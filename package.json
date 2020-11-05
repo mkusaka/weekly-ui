@@ -224,7 +224,7 @@
     "duplexify": "^4.1.1",
     "ee-first": "^1.1.1",
     "ejs": "^3.1.5",
-    "electron-to-chromium": "^1.3.588",
+    "electron-to-chromium": "^1.3.589",
     "element-resize-detector": "^1.2.1",
     "elliptic": "^6.5.3",
     "emoji-regex": "^9.2.0",
@@ -563,7 +563,7 @@
     "polished": "^4.0.3",
     "popper.js": "^1.16.1",
     "posix-character-classes": "^1.0.0",
-    "postcss": "^8.1.5",
+    "postcss": "^8.1.6",
     "postcss-flexbugs-fixes": "^5.0.0",
     "postcss-load-config": "^3.0.0",
     "postcss-loader": "^4.0.4",
@@ -612,11 +612,11 @@
     "react-hotkeys": "^2.0.0",
     "react-inspector": "^5.1.0",
     "react-lifecycles-compat": "^3.0.4",
-    "react-popper": "^2.2.3",
+    "react-popper": "^2.2.4",
     "react-popper-tooltip": "^3.1.0",
     "react-sizeme": "^2.6.12",
     "react-syntax-highlighter": "^15.3.0",
-    "react-textarea-autosize": "^8.2.0",
+    "react-textarea-autosize": "^8.3.0",
     "reactcss": "^1.2.3",
     "readable-stream": "^3.6.0",
     "readdirp": "^3.5.0",
@@ -986,7 +986,7 @@
     "@types/klaw": "^3.0.1",
     "@types/loader-runner": "^2.2.3",
     "@types/loader-utils": "^2.0.1",
-    "@types/lodash": "^4.14.164",
+    "@types/lodash": "^4.14.165",
     "@types/lodash.uniq": "^4.5.6",
     "@types/lowlight": "^0.0.1",
     "@types/lru-cache": "^5.1.0",
@@ -1158,6 +1158,6 @@
   },
   "homepage": "https://github.com/mkusaka/weekly-ui#readme",
   "optionalDependencies": {
-    "fsevents": "^2.2.0"
+    "fsevents": "^2.2.1"
   }
 }
