@@ -317,7 +317,7 @@
     "good-listener": "^1.2.2",
     "graceful-fs": "^4.2.4",
     "gud": "^1.0.0",
-    "gzip-size": "^5.1.1",
+    "gzip-size": "^6.0.0",
     "has": "^1.0.3",
     "has-ansi": "^4.0.0",
     "has-flag": "^4.0.0",
