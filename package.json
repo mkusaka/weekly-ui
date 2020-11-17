@@ -533,7 +533,7 @@
     "p-locate": "^5.0.0",
     "p-map": "^4.0.0",
     "p-try": "^2.2.0",
-    "pako": "^1.0.11",
+    "pako": "^2.0.0",
     "parallel-transform": "^1.2.0",
     "param-case": "^3.0.3",
     "parent-module": "^2.0.0",
