@@ -801,7 +801,7 @@
     "watchpack": "^2.0.1",
     "watchpack-chokidar2": "^2.0.1",
     "web-namespaces": "^1.1.4",
-    "webpack": "^4.44.2",
+    "webpack": "^5.5.1",
     "webpack-dev-middleware": "^4.0.2",
     "webpack-hot-middleware": "^2.25.0",
     "webpack-log": "^3.0.1",
