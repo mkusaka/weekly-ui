@@ -12704,13 +12704,15 @@ svgo@^1.2.2:
     unquote "~1.1.1"
     util.promisify "~1.0.0"
 
-symbol.prototype.description@^1.0.0, symbol.prototype.description@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/symbol.prototype.description/-/symbol.prototype.description-1.0.2.tgz#f325e1e6ad534b3b29c9c3ca73c136c9ce03c5e2"
-  integrity sha512-2CW5SU4/Ki1cYOOHcL2cXK4rxSg5hCU1TwZ7X4euKhV9VnfqKslh7T6/UyKkubA8cq2tOmsOv7m3ZUmQslBRuw==
+symbol.prototype.description@^1.0.0, symbol.prototype.description@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/symbol.prototype.description/-/symbol.prototype.description-1.0.3.tgz#5b0eb61595bca6945da95ec7696a25e55aa1eca6"
+  integrity sha512-NvwWb5AdyTtmFNa1x0ksJakFUV/WJ+z7iRrYGU1xZew77Qd+kMrZKsk3uatCckk6yPNpbHhRcOO+JBU+ohcMBw==
   dependencies:
-    es-abstract "^1.17.0-next.1"
+    call-bind "^1.0.0"
+    es-abstract "^1.18.0-next.1"
     has-symbols "^1.0.1"
+    object.getownpropertydescriptors "^2.1.0"
 
 tapable@^1.0.0, tapable@^1.1.3:
   version "1.1.3"
