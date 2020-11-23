@@ -602,7 +602,7 @@
     "raw-loader": "^4.0.2",
     "react": "^17.0.1",
     "react-color": "^2.19.3",
-    "react-dev-utils": "^11.0.0",
+    "react-dev-utils": "^11.0.1",
     "react-dom": "^17.0.1",
     "react-draggable": "^4.4.3",
     "react-element-to-jsx-string": "^14.3.2",
