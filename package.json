@@ -219,7 +219,7 @@
     "dotenv": "^8.2.0",
     "dotenv-defaults": "^2.0.1",
     "dotenv-expand": "^5.1.0",
-    "dotenv-webpack": "^5.1.0",
+    "dotenv-webpack": "^6.0.0",
     "duplexer": "^0.1.2",
     "duplexify": "^4.1.1",
     "ee-first": "^1.1.1",
