@@ -872,7 +872,7 @@
     "@types/classnames": "^2.2.11",
     "@types/clean-css": "^4.2.2",
     "@types/clipboard": "^2.0.1",
-    "@types/color-convert": "^1.9.0",
+    "@types/color-convert": "^2.0.0",
     "@types/color-name": "^1.1.1",
     "@types/combined-stream": "^1.0.2",
     "@types/commondir": "^1.0.0",
