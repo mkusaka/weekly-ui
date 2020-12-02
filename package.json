@@ -213,7 +213,7 @@
     "dom-walk": "^0.1.2",
     "domain-browser": "^4.19.0",
     "domelementtype": "^2.1.0",
-    "domhandler": "^3.3.0",
+    "domhandler": "^4.0.0",
     "domutils": "^2.4.2",
     "dot-case": "^3.0.4",
     "dotenv": "^8.2.0",
