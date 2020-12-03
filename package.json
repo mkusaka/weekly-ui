@@ -1084,7 +1084,7 @@
     "@types/scheduler": "^0.16.1",
     "@types/semver": "^7.3.4",
     "@types/send": "^0.14.5",
-    "@types/serialize-javascript": "^4.0.0",
+    "@types/serialize-javascript": "^5.0.0",
     "@types/serve-favicon": "^2.5.2",
     "@types/serve-static": "^1.13.8",
     "@types/set-value": "^2.0.0",
