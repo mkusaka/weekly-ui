@@ -714,7 +714,7 @@
     "style-to-object": "^0.3.0",
     "supports-color": "^8.0.0",
     "symbol.prototype.description": "^1.0.3",
-    "tapable": "^2.1.1",
+    "tapable": "^2.2.0",
     "tar": "^6.0.5",
     "telejson": "^5.1.0",
     "term-size": "^2.2.1",
