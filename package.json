@@ -214,7 +214,7 @@
     "domain-browser": "^4.19.0",
     "domelementtype": "^2.1.0",
     "domhandler": "^4.0.0",
-    "domutils": "^2.4.3",
+    "domutils": "^2.4.4",
     "dot-case": "^3.0.4",
     "dotenv": "^8.2.0",
     "dotenv-defaults": "^2.0.1",
