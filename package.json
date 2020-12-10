@@ -931,7 +931,7 @@
     "@types/forwarded": "^0.1.0",
     "@types/fresh": "^0.5.0",
     "@types/from2": "^2.3.0",
-    "@types/fs-extra": "^9.0.4",
+    "@types/fs-extra": "^9.0.5",
     "@types/function-bind": "^1.1.6",
     "@types/get-value": "^3.0.1",
     "@types/glob": "^7.1.3",
