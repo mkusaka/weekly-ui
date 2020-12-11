@@ -282,7 +282,7 @@
     "find-up": "^5.0.0",
     "flush-write-stream": "^2.0.0",
     "for-in": "^1.0.2",
-    "fork-ts-checker-webpack-plugin": "^6.0.5",
+    "fork-ts-checker-webpack-plugin": "^6.0.6",
     "form-data": "^3.0.0",
     "format": "^0.2.2",
     "forwarded": "^0.1.2",
