@@ -12,7 +12,7 @@
     "aggregate-error": "^3.1.0",
     "airbnb-js-shims": "^2.2.1",
     "ajv": "^7.0.0",
-    "ajv-errors": "^1.0.1",
+    "ajv-errors": "^2.0.0",
     "ajv-keywords": "^3.5.2",
     "ansi-align": "^3.0.0",
     "ansi-colors": "^4.1.1",
