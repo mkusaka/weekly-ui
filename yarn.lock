@@ -4370,6 +4370,11 @@ ajv-keywords@^3.1.0, ajv-keywords@^3.4.1, ajv-keywords@^3.5.2:
   resolved "https://registry.yarnpkg.com/ajv-keywords/-/ajv-keywords-3.5.2.tgz#31f29da5ab6e00d1c2d329acf7b5929614d5014d"
   integrity sha512-5p6WTN0DdTGVQk6VjcEju19IgaHudalcfabD7yhDGeA6bcQnmL+CpveLJq/3hvfwd1aof6L386Ougkx6RfyMIQ==
 
+ajv-keywords@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/ajv-keywords/-/ajv-keywords-4.0.0.tgz#d0ffb23189d5002b234ad54c1a1b620a5398db58"
+  integrity sha512-baL4pEYniCF5E/5Cj28f1DmPXGGASQIeCFfntY94vJPtrq0fei3iNt/TP5f2IwEH4opCzcOOvL6hKsi2IHaecg==
+
 ajv@*, ajv@^7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/ajv/-/ajv-7.0.0.tgz#59804586d998d19efe446fbbf821d147d300d8e2"
