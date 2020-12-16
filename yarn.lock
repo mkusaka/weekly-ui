@@ -1903,10 +1903,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/ajv-errors@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@types/ajv-errors/-/ajv-errors-1.0.2.tgz#963eadef9bfb51c47d110281433b626324a63329"
-  integrity sha512-lPgE0OZUGD9xZqj/83mSpdZzGQVY553/uCxmAEOSYUwlfW+azx/yYVUYZurmoiUhzRt+K4GKfOXPvKJmFdA6lg==
+"@types/ajv-errors@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@types/ajv-errors/-/ajv-errors-1.0.3.tgz#92bc0c849f25cc73ced967732145115d7b44b449"
+  integrity sha512-lXvAtvKL4Fiyxog+Czma/APGjRFbAGUiMpsD2EQUDCMwW0m4UUEwj+FJAuRNKgBZD68mRIO3GtR2aOHV3ADVDQ==
   dependencies:
     ajv "*"
 
