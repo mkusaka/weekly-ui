@@ -470,7 +470,7 @@
     "microevent.ts": "^0.2.1",
     "micromatch": "^4.0.2",
     "miller-rabin": "^4.0.1",
-    "mime": "^2.4.6",
+    "mime": "^2.4.7",
     "mime-db": "^1.45.0",
     "mime-types": "^2.1.27",
     "mimic-fn": "^3.1.0",
