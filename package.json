@@ -240,7 +240,7 @@
     "es-array-method-boxes-properly": "^1.0.0",
     "es-get-iterator": "^1.1.1",
     "es-to-primitive": "^1.2.1",
-    "es5-shim": "^4.5.14",
+    "es5-shim": "^4.5.15",
     "es6-shim": "^0.35.6",
     "escalade": "^3.1.1",
     "escape-html": "^1.0.3",
