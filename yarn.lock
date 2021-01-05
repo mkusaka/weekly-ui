@@ -4299,10 +4299,10 @@ acorn-walk@^7.0.0:
   resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-7.2.0.tgz#0de889a601203909b0fbe07b8938dc21d2e967bc"
   integrity sha512-OPdCF6GsMIP+Az+aWfAAOEt2/+iVDKE7oy6lJ098aoe59oAmK76qV6Gw60SbZ8jHuG2wH058GF4pLFbYamYrVA==
 
-acorn-walk@^8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-8.0.0.tgz#56ae4c0f434a45fff4a125e7ea95fa9c98f67a16"
-  integrity sha512-oZRad/3SMOI/pxbbmqyurIx7jHw1wZDcR9G44L8pUVFEomX/0dH89SrM1KaDXuv1NpzAXz6Op/Xu/Qd5XXzdEA==
+acorn-walk@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-8.0.1.tgz#d265d35db6940a656c715806a448456ee4fa3b7f"
+  integrity sha512-zn/7dYtoTVkG4EoMU55QlQU4F+m+T7Kren6Vj3C2DapWPnakG/DL9Ns5aPAPW5Ixd3uxXrV/BoMKKVFIazPcdg==
 
 acorn@^6.4.1:
   version "6.4.1"
@@ -7562,10 +7562,10 @@ fsevents@^1.2.7:
     bindings "^1.5.0"
     nan "^2.12.1"
 
-fsevents@^2.1.2, fsevents@^2.2.2:
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.2.2.tgz#ae94eddce6e1cbc4fd0bd2d43080c5406abd5d6b"
-  integrity sha512-xJEn9cTLpaYpLA/ACD3wjQRA7unhS0b7veAzx6F8cVhi8yjwjAPzHsVibMIAWwwMVHixe6WqoFXlc36FsNM80w==
+fsevents@^2.1.2, fsevents@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.0.tgz#ed42dc76d22943057d58a3856ce3885c0f982948"
+  integrity sha512-SmvpCnCbknBKrMhodrIdwGBhn8kAEp8VUyrcH13clA5cq1C5fyN2+b3lQBdjpO1X/yJrTNySaggyYA62h+28ug==
 
 fsevents@~2.1.2:
   version "2.1.3"
