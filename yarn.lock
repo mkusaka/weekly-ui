@@ -1964,10 +1964,10 @@
   resolved "https://registry.yarnpkg.com/@types/array.prototype.flatmap/-/array.prototype.flatmap-1.2.2.tgz#9041c2dc907d583ffb80b8882a782b42436d57c1"
   integrity sha512-dto5M/8GxPzjaScvQeft2IG0EkoZZfPg2+1noM2BWiU1VR2zsGHf76LonTOnLQKDuJlKDLzKaru4b+5Sci0Yhg==
 
-"@types/assert@^1.5.2":
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/@types/assert/-/assert-1.5.2.tgz#dbc440f6bd7a83b03c37c65e81076d07cf8becdc"
-  integrity sha512-DLsoZH9z5DLDi6qMbXKqeqlQLK1h3rfR9dK+KX8UJSGHJylvIZPOCQEKr/d/FClPoZE/eHOa3+e270eUJCUTog==
+"@types/assert@^1.5.3":
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/@types/assert/-/assert-1.5.3.tgz#106fed8e0ba25ee61feee35e2d074321370530ce"
+  integrity sha512-un5JSQvHdb+whVcvb0q5XIKfzzbRIXuU3iTRRJhNYOzzkQ8Z+wGNemfqj2kWOp/vWCB7fJjn119bv6f/gsultg==
 
 "@types/async@^3.2.5":
   version "3.2.5"
@@ -13404,14 +13404,15 @@ webpack-dev-middleware@^3.7.0:
     range-parser "^1.2.1"
     webpack-log "^2.0.0"
 
-webpack-dev-middleware@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-4.0.2.tgz#1436ae6cacee78475bd6bc1fbf063dfbfd6e577d"
-  integrity sha512-xyAICqIugWtT1RRH5aMMmZlPhDhEqPTDL0TWhmMZsuZ+cFlAvRxv4thCbuxdk9MW+OYK4c9BkfmgdQ1/7imkJA==
+webpack-dev-middleware@^4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-4.0.3.tgz#71a846f825cf44999edd3a58a07d8cafae0c2283"
+  integrity sha512-mjZrPmR6b55A6nHZY6ylh+ncwK7PXbx7KJ4uU02ThXPFlpDj/PN8YlCl12uhe4OZU94lx1rjy9a4UH99IZbWQA==
   dependencies:
+    colorette "^1.2.1"
     mem "^8.0.0"
     memfs "^3.2.0"
-    mime-types "^2.1.27"
+    mime-types "^2.1.28"
     range-parser "^1.2.1"
     schema-utils "^3.0.0"
 
