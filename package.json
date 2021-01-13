@@ -591,7 +591,7 @@
     "pump": "^3.0.0",
     "pumpify": "^2.0.1",
     "punycode": "^2.1.1",
-    "qs": "^6.9.4",
+    "qs": "^6.9.5",
     "querystring": "^0.2.0",
     "querystring-es3": "^0.2.1",
     "ramda": "^0.27.1",
