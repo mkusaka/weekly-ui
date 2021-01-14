@@ -3164,10 +3164,10 @@
   resolved "https://registry.yarnpkg.com/@types/num2fraction/-/num2fraction-1.2.0.tgz#1c9a73209c8af023c8291cf69914b0d6e814e5e9"
   integrity sha512-qPXtIa8KGnhpQhhG6AgUo11gpJUTZjhFp1UKsgUe1kIkPj0B/7kewJfD2wj3VQ7byyTbqmlvE/juN63QdR4ZaQ==
 
-"@types/number-is-nan@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@types/number-is-nan/-/number-is-nan-1.0.0.tgz#1a94ab89bcae905adc50efee17380a5c259843c0"
-  integrity sha1-GpSribyukFrcUO/uFzgKXCWYQ8A=
+"@types/number-is-nan@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@types/number-is-nan/-/number-is-nan-2.0.0.tgz#832bdebee34605c75eba1360524754b7818c203a"
+  integrity sha512-ucXUzaCZZKHevI8Q9aJgQIqCRM1bI/uoKwDH4i7bYGbWhuFL3wMPBtNNPHIQF23RfZSNcTuIg5Yx+ylga0PP3g==
 
 "@types/object-assign@^4.0.30":
   version "4.0.30"

@@ -1017,7 +1017,7 @@
     "@types/normalize-path": "^3.0.0",
     "@types/npmlog": "^4.1.2",
     "@types/num2fraction": "^1.2.0",
-    "@types/number-is-nan": "^1.0.0",
+    "@types/number-is-nan": "^2.0.0",
     "@types/object-assign": "^4.0.30",
     "@types/object-inspect": "^1.8.0",
     "@types/object-keys": "^1.0.1",
