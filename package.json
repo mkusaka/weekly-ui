@@ -156,7 +156,7 @@
     "colors": "^1.4.0",
     "combined-stream": "^1.0.8",
     "comma-separated-tokens": "^1.0.8",
-    "commander": "^6.2.1",
+    "commander": "^7.0.0",
     "commondir": "^1.0.1",
     "component-emitter": "^1.3.0",
     "concat-map": "^0.0.1",
