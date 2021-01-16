@@ -142,7 +142,7 @@
     "classnames": "^2.2.6",
     "clean-css": "^4.2.3",
     "clean-stack": "^3.0.1",
-    "cli-boxes": "^2.2.1",
+    "cli-boxes": "^3.0.0",
     "cli-cursor": "^3.1.0",
     "cli-table3": "^0.6.0",
     "cli-width": "^3.0.0",
