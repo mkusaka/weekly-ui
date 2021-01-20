@@ -581,7 +581,7 @@
     "process": "^0.11.10",
     "process-nextick-args": "^2.0.1",
     "promise-inflight": "^1.0.1",
-    "promise.allsettled": "^1.0.2",
+    "promise.allsettled": "^1.0.3",
     "promise.prototype.finally": "^3.1.2",
     "prop-types": "^15.7.2",
     "property-information": "^5.6.0",
