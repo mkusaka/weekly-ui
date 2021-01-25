@@ -1074,7 +1074,7 @@
     "@types/repeat-element": "^1.1.0",
     "@types/repeat-string": "^1.6.0",
     "@types/replace-ext": "^2.0.0",
-    "@types/resolve": "^1.17.1",
+    "@types/resolve": "^1.19.0",
     "@types/rimraf": "^3.0.0",
     "@types/ripemd160": "^2.0.0",
     "@types/rsvp": "^4.0.3",
