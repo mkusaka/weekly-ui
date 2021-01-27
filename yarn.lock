@@ -11334,10 +11334,10 @@ react-popper-tooltip@^3.1.1:
     "@popperjs/core" "^2.5.4"
     react-popper "^2.2.4"
 
-react-popper-tooltip@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/react-popper-tooltip/-/react-popper-tooltip-4.0.0.tgz#33f7479906f93edb5a216e99356f15a4aa54404c"
-  integrity sha512-F2UhWF0zq1IdlkBqMNLzQJK3NTI7lijWbRHJzF/mzDOAVOIh1EExhROy/9AFOQyl07/gC2e/QUCIYYHo5TSDZQ==
+react-popper-tooltip@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/react-popper-tooltip/-/react-popper-tooltip-4.0.1.tgz#e30f91937c2fc1be60c783b06bf646d8c93056bf"
+  integrity sha512-R5+8h8Z6l82LBguQrP8XVD5xDN8gT9PbWNy6l0lXedijYm7MkpUaLGzqO7OVesxZbehhyHmEbJA6897Q5T5n6Q==
   dependencies:
     "@babel/runtime" "^7.12.5"
     "@popperjs/core" "^2.6.0"
