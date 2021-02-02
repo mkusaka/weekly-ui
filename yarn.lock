@@ -7734,6 +7734,13 @@ glob-promise@^3.4.0:
   dependencies:
     "@types/glob" "*"
 
+glob-promise@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/glob-promise/-/glob-promise-4.0.1.tgz#47b0b721f7f52f46c66210eba46d4de840a8b2a2"
+  integrity sha512-QwMkHW0vn0hXHFQg3JWsj2HW8pJQhHeAvsaIcpn4EDP5bU757GtJP/ClLX4iKIFtzgodRiKtb+aOG/k6i2B5mw==
+  dependencies:
+    "@types/glob" "^7.1.3"
+
 glob-to-regexp@^0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/glob-to-regexp/-/glob-to-regexp-0.3.0.tgz#8c5a1494d2066c570cc3bfe4496175acc4d502ab"
