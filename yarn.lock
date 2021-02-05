@@ -3327,10 +3327,10 @@
   resolved "https://registry.yarnpkg.com/@types/prelude-ls/-/prelude-ls-1.1.29.tgz#4d9913c94baeef309457d670d5ddeff96fc6b5a8"
   integrity sha1-TZkTyUuu7zCUV9Zw1d3v+W/Gtag=
 
-"@types/prettier@^2.1.6":
-  version "2.1.6"
-  resolved "https://registry.yarnpkg.com/@types/prettier/-/prettier-2.1.6.tgz#f4b1efa784e8db479cdb8b14403e2144b1e9ff03"
-  integrity sha512-6gOkRe7OIioWAXfnO/2lFiv+SJichKVSys1mSsgyrYHSEjk8Ctv4tSR/Odvnu+HWlH2C8j53dahU03XmQdd5fA==
+"@types/prettier@^2.2.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@types/prettier/-/prettier-2.2.0.tgz#a4e8205a4955690eef712a6d0394a1d2e121e721"
+  integrity sha512-O3SQC6+6AySHwrspYn2UvC6tjo6jCTMMmylxZUFhE1CulVu5l3AxU6ca9lrJDTQDVllF62LIxVSx5fuYL6LiZg==
 
 "@types/pretty-hrtime@^1.0.0":
   version "1.0.0"
@@ -13574,10 +13574,10 @@ webpack@^4.44.2:
     watchpack "^1.7.4"
     webpack-sources "^1.4.1"
 
-webpack@^5.1.0, webpack@^5.20.2:
-  version "5.20.2"
-  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.20.2.tgz#55a6e461e2a6e1ca7467a419886acf9c7b052d5f"
-  integrity sha512-gGPip54KK7DznaaPHVuNGqym3LAXXL+bPkZ9SlLTCdHmmk+m5x+D4UZdhWvw32CMahYlZwZYPsioFIw36/txYQ==
+webpack@^5.1.0, webpack@^5.21.0:
+  version "5.21.0"
+  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.21.0.tgz#0dac2d97a2b274f2bd14c043d60cba11e0eb2198"
+  integrity sha512-DoFw0eAPbh2DXyBn0nP5lMnytPXlkLsdXOpBQyibf+1OCnThxUVPzMbth/+JS97HN0mfl7OhLmEKLw+kg0jmkg==
   dependencies:
     "@types/eslint-scope" "^3.7.0"
     "@types/estree" "^0.0.46"
