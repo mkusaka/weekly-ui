@@ -1158,6 +1158,6 @@
   },
   "homepage": "https://github.com/mkusaka/weekly-ui#readme",
   "optionalDependencies": {
-    "fsevents": "^2.3.0"
+    "fsevents": "^2.3.2"
   }
 }
