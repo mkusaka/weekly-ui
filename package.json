@@ -713,7 +713,7 @@
     "style-loader": "^2.0.0",
     "style-to-object": "^0.3.0",
     "supports-color": "^8.1.1",
-    "symbol.prototype.description": "^1.0.3",
+    "symbol.prototype.description": "^1.0.4",
     "tapable": "^2.2.0",
     "tar": "^6.1.0",
     "telejson": "^5.1.0",
