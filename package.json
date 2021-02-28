@@ -701,7 +701,7 @@
     "stream-each": "^1.2.3",
     "stream-http": "^3.1.1",
     "stream-shift": "^1.0.1",
-    "string-width": "^4.2.1",
+    "string-width": "^4.2.2",
     "string.prototype.matchall": "^4.0.4",
     "string.prototype.padend": "^3.1.2",
     "string.prototype.padstart": "^3.1.2",
