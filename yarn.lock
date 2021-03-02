@@ -5517,10 +5517,10 @@ camelcase@^6.2.0:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-6.2.0.tgz#924af881c9d525ac9d87f40d964e5cea982a1809"
   integrity sha512-c7wVvbw3f37nuobQNtgsgG9POC9qMbNuMQmTCqZv23b6MIz0fcYpBiOlv9gEN/hdLdnZTDQhg6e9Dq5M1vKvfg==
 
-caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001125, caniuse-lite@^1.0.30001181, caniuse-lite@^1.0.30001192:
-  version "1.0.30001192"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001192.tgz#b848ebc0ab230cf313d194a4775a30155d50ae40"
-  integrity sha512-63OrUnwJj5T1rUmoyqYTdRWBqFFxZFlyZnRRjDR8NSUQFB6A+j/uBORU/SyJ5WzDLg4SPiZH40hQCBNdZ/jmAw==
+caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001125, caniuse-lite@^1.0.30001181, caniuse-lite@^1.0.30001194:
+  version "1.0.30001194"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001194.tgz#3d16ff3d734a5a7d9818402c28b1f636c5be5bed"
+  integrity sha512-iDUOH+oFeBYk5XawYsPtsx/8fFpndAPUQJC7gBTfxHM8xw5nOZv7ceAD4frS1MKCLUac7QL5wdAJiFQlDRjXlA==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -6587,10 +6587,10 @@ ejs@^3.1.2, ejs@^3.1.6:
   dependencies:
     jake "^10.6.1"
 
-electron-to-chromium@^1.3.564, electron-to-chromium@^1.3.649, electron-to-chromium@^1.3.676:
-  version "1.3.676"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.676.tgz#18b2336239b6cdc68c57ce96bf73daf80bab9eba"
-  integrity sha512-t0eEgYCP+XEbH/KwxWYZDY0XKwzmokDAsjFJ2rBstp2XuwuBCUZ+ni5qXI6XDRNkvDpVJcAOp2aJxkSkshKkmw==
+electron-to-chromium@^1.3.564, electron-to-chromium@^1.3.649, electron-to-chromium@^1.3.677:
+  version "1.3.677"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.677.tgz#b5d586b0d1976c97cc7e95262677ac5944199513"
+  integrity sha512-Tcmk+oKQgpjcM+KYanlkd76ZtpzalkpUULnlJDP6vjHtR7UU564IM9Qv5DxqHZNBQjzXm6mkn7Y8bw2OoE3FmQ==
 
 element-resize-detector@^1.2.1, element-resize-detector@^1.2.2:
   version "1.2.2"
@@ -6632,10 +6632,10 @@ emoji-regex@^8.0.0:
   resolved "https://registry.yarnpkg.com/emoji-regex/-/emoji-regex-8.0.0.tgz#e818fd69ce5ccfcb404594f842963bf53164cc37"
   integrity sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==
 
-emoji-regex@^9.2.1:
-  version "9.2.1"
-  resolved "https://registry.yarnpkg.com/emoji-regex/-/emoji-regex-9.2.1.tgz#c9b25604256bb3428964bead3ab63069d736f7ee"
-  integrity sha512-117l1H6U4X3Krn+MrzYrL57d5H7siRHWraBs7s+LjRuFK7Fe7hJqnJ0skWlinqsycVLU5YAo6L8CsEYQ0V5prg==
+emoji-regex@^9.2.2:
+  version "9.2.2"
+  resolved "https://registry.yarnpkg.com/emoji-regex/-/emoji-regex-9.2.2.tgz#840c8803b0d8047f4ff0cf963176b32d4ef3ed72"
+  integrity sha512-L18DaJsXSUk2+42pv8mLs5jJT2hqFkFE4j21wOmgbUqsZ2hL72NsUU785g9RXgo3s0ZNgVl42TiHp3ZtOv/Vyg==
 
 emojis-list@^3.0.0:
   version "3.0.0"
