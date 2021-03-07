@@ -962,7 +962,7 @@
     "@types/is-alphanumerical": "^1.0.0",
     "@types/is-buffer": "^2.0.0",
     "@types/is-callable": "^1.1.0",
-    "@types/is-ci": "^2.0.0",
+    "@types/is-ci": "^3.0.0",
     "@types/is-date-object": "^1.0.1",
     "@types/is-function": "^1.0.0",
     "@types/is-glob": "^4.0.1",
