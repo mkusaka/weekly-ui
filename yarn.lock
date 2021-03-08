@@ -12234,10 +12234,10 @@ state-toggle@^1.0.0:
   resolved "https://registry.yarnpkg.com/state-toggle/-/state-toggle-1.0.3.tgz#e123b16a88e143139b09c6852221bc9815917dfe"
   integrity sha512-d/5Z4/2iiCnHw6Xzghyhb+GcmF89bxwgXG60wjIiZaxnymbyOmI8Hk4VqHXiVVp6u2ysaskFfXg3ekCj4WNftQ==
 
-state-toggle@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/state-toggle/-/state-toggle-2.0.0.tgz#98716780fe8b455900d29d682ff441fd4630d924"
-  integrity sha512-J2nteh+zBEhSUqRktA7ydfWu1+JunqTeu5+6bd1pEIU8AAkmZns16HGKyt9Nh/59K212xaMBaD0VTbRdOFjxsw==
+state-toggle@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/state-toggle/-/state-toggle-2.0.1.tgz#b708973c60cad711616b8e7cf89aca2010acea0d"
+  integrity sha512-puv0ljwzguJyddkZysjf+WEZ99xbwSPiiPomzztJKc9EEj+ZClYIokItWYxHNVldAeVEUjoXtbHH9ZLfIl9Mqw==
 
 static-extend@^0.1.1, static-extend@^0.1.2:
   version "0.1.2"
@@ -13492,10 +13492,10 @@ webpack@^4.44.2:
     watchpack "^1.7.4"
     webpack-sources "^1.4.1"
 
-webpack@^5.1.0, webpack@^5.24.3:
-  version "5.24.3"
-  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.24.3.tgz#6ec0f5059f8d7c7961075fa553cfce7b7928acb3"
-  integrity sha512-x7lrWZ7wlWAdyKdML6YPvfVZkhD1ICuIZGODE5SzKJjqI9A4SpqGTjGJTc6CwaHqn19gGaoOR3ONJ46nYsn9rw==
+webpack@^5.1.0, webpack@^5.24.4:
+  version "5.24.4"
+  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.24.4.tgz#37d8cf95841dd23c809ea02931294b3455d74a59"
+  integrity sha512-RXOdxF9hFFFhg47BryCgyFrEyyu7Y/75/uiI2DoUiTMqysK+WczVSTppvkR47oZcmI/DPaXCiCiaXBP8QjkNpA==
   dependencies:
     "@types/eslint-scope" "^3.7.0"
     "@types/estree" "^0.0.46"
