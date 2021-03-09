@@ -185,7 +185,7 @@
     "crypto-browserify": "^3.12.0",
     "css-loader": "^5.1.1",
     "css-select": "^3.1.2",
-    "css-what": "^4.0.0",
+    "css-what": "^5.0.0",
     "cssesc": "^3.0.0",
     "csstype": "^3.0.7",
     "cyclist": "^1.0.1",
