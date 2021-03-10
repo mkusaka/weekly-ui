@@ -13704,7 +13704,12 @@ yocto-queue@^0.1.0:
   resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-0.1.0.tgz#0294eb3dee05028d31ee1a5fa2c556a6aaf10a1b"
   integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
 
-zwitch@^1.0.0, zwitch@^1.0.5:
+zwitch@^1.0.0:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/zwitch/-/zwitch-1.0.5.tgz#d11d7381ffed16b742f6af7b3f223d5cd9fe9920"
   integrity sha512-V50KMwwzqJV0NpZIZFwfOD5/lyny3WlSzRiXgA0G7VUnRlqttta1L6UQIHzd6EuBY/cHGfwTIck7w1yH6Q5zUw==
+
+zwitch@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/zwitch/-/zwitch-2.0.0.tgz#0404abe6597a1927a87e1ea9bdd90ed71b5681e2"
+  integrity sha512-RZOigZnU/+mHcJT7Wr1aenc2pOk+uDui8cquBce+v2NVZcmQpqYXuskqTzJ3c2jny7EQJ5HCsXGphl/FDXmy0w==
