@@ -6623,10 +6623,10 @@ ejs@^3.1.2, ejs@^3.1.6:
   dependencies:
     jake "^10.6.1"
 
-electron-to-chromium@^1.3.564, electron-to-chromium@^1.3.649, electron-to-chromium@^1.3.685:
-  version "1.3.685"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.685.tgz#f636d17c9c232c925f8bbfbff4f86303da091ff9"
-  integrity sha512-C3oFZNkJ8lz85ADqr3hzpjBc2ciejMRN2SCd/D0hwcqpr6MGxfdN/j89VN6l+ERTuCUvhg0VYsf40Q4qTz4bhQ==
+electron-to-chromium@^1.3.564, electron-to-chromium@^1.3.649, electron-to-chromium@^1.3.686:
+  version "1.3.686"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.686.tgz#6c5bea31e463c45509b5a0c551b414bb4897cff0"
+  integrity sha512-SOJT3m00NX/gT3sD6E3PcZX6u3+zUmQq4+yp8QCKLOwf2ECnmh9eAY+eonhC/AAu5Gg2WrtUU2m7/+e85O0l6A==
 
 element-resize-detector@^1.2.1, element-resize-detector@^1.2.2:
   version "1.2.2"
@@ -10755,10 +10755,10 @@ postcss-loader@^3.0.0:
     postcss-load-config "^2.0.0"
     schema-utils "^1.0.0"
 
-postcss-loader@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/postcss-loader/-/postcss-loader-5.1.0.tgz#8a36f18b8989bee94172626b25f2b9cc6160fb43"
-  integrity sha512-tGgKZF6Ntn16zIWXt7yKV19L0rISaozHPCfdPt+aHOnTZrreeqVR6hCkFhZYfJ6KgpyIFRkKuW8ygHtUid4GlA==
+postcss-loader@^5.2.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/postcss-loader/-/postcss-loader-5.2.0.tgz#ccd6668a778902d653602289c765a8bc481986dc"
+  integrity sha512-uSuCkENFeUaOYsKrXm0eNNgVIxc71z8RcckLMbVw473rGojFnrUeqEz6zBgXsH2q1EIzXnO/4pEz9RhALjlITA==
   dependencies:
     cosmiconfig "^7.0.0"
     klona "^2.0.4"
@@ -13501,10 +13501,10 @@ webpack-log@^2.0.0:
     ansi-colors "^3.0.0"
     uuid "^3.3.2"
 
-webpack-log@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/webpack-log/-/webpack-log-3.0.1.tgz#647c42231b6f74d7cc3c3a66510370e635d066ea"
-  integrity sha512-mX/6BJPPpxco6BGCFZJ96NjgnwBrLQx6d7Kxe1PaJ7KvjI3LFmJK9QgRPCAr9tXrPVawPN1cuM8hJ2Vadnwm+Q==
+webpack-log@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/webpack-log/-/webpack-log-3.0.2.tgz#edf64fe4cabffeb04a03ca44d89f9908a4a9d238"
+  integrity sha512-ijm2zgqTY2omtlxRNrtDqxAQOrfAGMxWg9fQB/kuFSeZjx/OkYnfYLqsjf/JkrWOHINMzqxaJDXaog6Mx9KaHg==
   dependencies:
     chalk "^2.4.2"
     loglevelnext "^3.0.1"
