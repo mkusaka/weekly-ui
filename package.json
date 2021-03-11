@@ -404,7 +404,7 @@
     "is-string": "^1.0.5",
     "is-symbol": "^1.0.3",
     "is-typedarray": "^1.0.0",
-    "is-whitespace-character": "^1.0.4",
+    "is-whitespace-character": "^2.0.0",
     "is-window": "^1.0.2",
     "is-windows": "^1.0.2",
     "is-word-character": "^1.0.4",
