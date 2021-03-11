@@ -8905,10 +8905,15 @@ is-windows@^1.0.2:
   resolved "https://registry.yarnpkg.com/is-windows/-/is-windows-1.0.2.tgz#d1850eb9791ecd18e6182ce12a30f396634bb19d"
   integrity sha512-eXK1UInq2bPmjyX6e3VHIzMLobc4J94i4AWn+Hpq3OU5KkrRC96OAcR3PRJ/pGu6m8TRnBHP9dkXQVsT/COVIA==
 
-is-word-character@^1.0.0, is-word-character@^1.0.4:
+is-word-character@^1.0.0:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/is-word-character/-/is-word-character-1.0.4.tgz#ce0e73216f98599060592f62ff31354ddbeb0230"
   integrity sha512-5SMO8RVennx3nZrqtKwCGyyetPE9VDba5ugvKLaD4KopPG5kR4mQ7tNt/r7feL5yt5h3lpuBbIUmCOG2eSzXHA==
+
+is-word-character@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/is-word-character/-/is-word-character-2.0.0.tgz#75bfed343248d513aff08ab651baf9188ccca8cd"
+  integrity sha512-6KCEATc30I6sPT/ymHHIRhfpMyRTVgZkv7xNSFw9dSF2R2Q4S1qtsqJ/J5x7+tSMjSND8cuYPlyLmho8517roA==
 
 is-wsl@^1.1.0:
   version "1.1.0"
