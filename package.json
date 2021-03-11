@@ -371,7 +371,7 @@
     "ipaddr.js": "^2.0.0",
     "is-absolute-url": "^3.0.3",
     "is-accessor-descriptor": "^3.0.1",
-    "is-alphabetical": "^1.0.4",
+    "is-alphabetical": "^2.0.0",
     "is-alphanumerical": "^1.0.4",
     "is-arguments": "^1.1.0",
     "is-arrayish": "^0.3.2",
