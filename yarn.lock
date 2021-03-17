@@ -5053,10 +5053,15 @@ babel-plugin-transform-undefined-to-void@^6.9.4:
     babel-plugin-transform-undefined-to-void "^6.9.4"
     lodash "^4.17.11"
 
-bail@^1.0.0, bail@^1.0.5:
+bail@^1.0.0:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/bail/-/bail-1.0.5.tgz#b6fa133404a392cbc1f8c4bf63f5953351e7a776"
   integrity sha512-xFbRxM1tahm08yHBP16MMjVUAvDaBMD38zsM9EMAUN61omwLmKlOpB/Zku5QkjZ8TZ4vn53pj+t518cH0S03RQ==
+
+bail@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/bail/-/bail-2.0.0.tgz#b5d7fdc5d2f86628ae3e8b7abedcfd4a241f77b9"
+  integrity sha512-gDVgiGDYuUZIKTak7IJfuZjtzmQjAsnBa/YUaGLiwWX48PXU3ZUgp2lokSlvZc7+KD2MNh7ZEhyQsYFIosiEYA==
 
 balanced-match@^1.0.0:
   version "1.0.0"
