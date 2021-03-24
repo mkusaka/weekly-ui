@@ -4391,12 +4391,12 @@ ansi-colors@^4.1.1:
   resolved "https://registry.yarnpkg.com/ansi-colors/-/ansi-colors-4.1.1.tgz#cbb9ae256bf750af1eab344f229aa27fe94ba348"
   integrity sha512-JoX0apGbHaUJBNl6yF+p6JAFYZ666/hhCGKN5t9QFjbJQKUU/g8MNbFDbvfrgKXvI1QpZplPOnwIo99lX/AAmA==
 
-ansi-escapes@^4.2.1, ansi-escapes@^4.3.1:
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/ansi-escapes/-/ansi-escapes-4.3.1.tgz#a5c47cc43181f1f38ffd7076837700d395522a61"
-  integrity sha512-JWF7ocqNrp8u9oqpgV+wH5ftbt+cfvv+PTjOvKLT3AdYly/LmORARfEVT1iyjwN+4MqE5UmVKoAdIBqeoCHgLA==
+ansi-escapes@^4.2.1, ansi-escapes@^4.3.2:
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/ansi-escapes/-/ansi-escapes-4.3.2.tgz#6b2291d1db7d98b6521d5f1efa42d0f3a9feb65e"
+  integrity sha512-gKXj5ALrKWQLsYG9jlTRmR/xKluxHV+Z9QEwNIgCfM1/uwPMCuzVVnh5mwTd+OuBZcwSIMbqssNWRm1lE51QaQ==
   dependencies:
-    type-fest "^0.11.0"
+    type-fest "^0.21.3"
 
 ansi-html@0.0.7, ansi-html@^0.0.7:
   version "0.0.7"
@@ -6169,10 +6169,10 @@ css-loader@^3.5.3:
     schema-utils "^2.7.0"
     semver "^6.3.0"
 
-css-loader@^5.1.3:
-  version "5.1.3"
-  resolved "https://registry.yarnpkg.com/css-loader/-/css-loader-5.1.3.tgz#87f6fc96816b20debe3cf682f85c7e56a963d0d1"
-  integrity sha512-CoPZvyh8sLiGARK3gqczpfdedbM74klGWurF2CsNZ2lhNaXdLIUks+3Mfax3WBeRuHoglU+m7KG/+7gY6G4aag==
+css-loader@^5.1.4:
+  version "5.1.4"
+  resolved "https://registry.yarnpkg.com/css-loader/-/css-loader-5.1.4.tgz#1f6d278f041d512ad410df7168f0bdae97f55950"
+  integrity sha512-3Fz3B+7nIw6N/rw/sEBxiZsOnYedKvT3w7gicEjAVc73k7gfYN0v2iyBxq4brQvv/Dt6haze4m0BbPd71/OAFw==
   dependencies:
     camelcase "^6.2.0"
     cssesc "^3.0.0"
@@ -6628,10 +6628,10 @@ ejs@^3.1.2, ejs@^3.1.6:
   dependencies:
     jake "^10.6.1"
 
-electron-to-chromium@^1.3.564, electron-to-chromium@^1.3.649, electron-to-chromium@^1.3.697:
-  version "1.3.697"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.697.tgz#4ba8af135d72d06534bd78f68d1be0dca3d2c590"
-  integrity sha512-VTAS+IWwGlfaL7VtfUMzFeV55PT/HglNFqQ6eW9E3PfjvPqhZfqJj+8dd9zrqrJYcouUfCgQw0OIse85Dz9V9Q==
+electron-to-chromium@^1.3.564, electron-to-chromium@^1.3.649, electron-to-chromium@^1.3.698:
+  version "1.3.698"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.698.tgz#5de813960f23581a268718a0058683dffa15d221"
+  integrity sha512-VEXDzYblnlT+g8Q3gedwzgKOso1evkeJzV8lih7lV8mL8eAnGVnKyC3KsFT6S+R5PQO4ffdr1PI16/ElibY/kQ==
 
 element-resize-detector@^1.2.1, element-resize-detector@^1.2.2:
   version "1.2.2"
@@ -6979,10 +6979,10 @@ evp_bytestokey@^1.0.0, evp_bytestokey@^1.0.3:
     md5.js "^1.3.4"
     safe-buffer "^5.1.1"
 
-exec-sh@^0.3.2, exec-sh@^0.3.5:
-  version "0.3.5"
-  resolved "https://registry.yarnpkg.com/exec-sh/-/exec-sh-0.3.5.tgz#1b46bd6bcbf54fdc1e926a4f3d90126d42cec3df"
-  integrity sha512-0hzpaUazv4mEccxdn3TXC+HWNeVXNKMCJRK6E7Xyg+LwGAYI3yFag6jTkd4injV+kChYDQS1ftqDhnDVWNhU8A==
+exec-sh@^0.3.2, exec-sh@^0.3.6:
+  version "0.3.6"
+  resolved "https://registry.yarnpkg.com/exec-sh/-/exec-sh-0.3.6.tgz#ff264f9e325519a60cb5e273692943483cca63bc"
+  integrity sha512-nQn+hI3yp+oD0huYhKwvYI32+JFeq+XkNcD1GAo3Y/MjxsfVGmrrzrnzjWiNY6f+pUCP440fThsFh5gZrRAU/w==
 
 execa@^1.0.0:
   version "1.0.0"
@@ -12922,10 +12922,10 @@ trough@^1.0.0, trough@^1.0.5:
   resolved "https://registry.yarnpkg.com/trough/-/trough-1.0.5.tgz#b8b639cefad7d0bb2abd37d433ff8293efa5f406"
   integrity sha512-rvuRbTarPXmMb79SmzEp8aqXNKcK+y0XaB298IXueQ8I2PsrATcPBCSPyK/dDNa2iWOhKlfNnOjdAOTBU/nkFA==
 
-ts-dedent@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/ts-dedent/-/ts-dedent-2.0.0.tgz#47c5eb23d9096f3237cc413bc82d387d36dbe690"
-  integrity sha512-DfxKjSFQfw9+uf7N9Cy8Ebx9fv5fquK4hZ6SD3Rzr+1jKP6AVA6H8+B5457ZpUs0JKsGpGqIevbpZ9DMQJDp1A==
+ts-dedent@^2.0.0, ts-dedent@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/ts-dedent/-/ts-dedent-2.1.0.tgz#2df17a997ee5310a96d2be7adca0ba7c3eabf36a"
+  integrity sha512-HbmrG+lCgk5W8LQTALxBxQRBDeAhQKRzdqVhHLUkVd5nYT+b6zDzbRMjiA8wqrWDa33X09WdnW4zEsdwQArTaw==
 
 ts-essentials@^2.0.3:
   version "2.0.12"
@@ -12981,15 +12981,15 @@ type-check@~0.3.2:
   dependencies:
     prelude-ls "~1.1.2"
 
-type-fest@^0.11.0:
-  version "0.11.0"
-  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.11.0.tgz#97abf0872310fed88a5c466b25681576145e33f1"
-  integrity sha512-OdjXJxnCN1AvyLSzeKIgXTXxV+99ZuXl3Hpo9XpJAv9MBcHrrJOQ5kV7ypXOuQie+AmWG25hLbiKdwYTifzcfQ==
-
 type-fest@^0.20.2:
   version "0.20.2"
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.20.2.tgz#1bf207f4b28f91583666cb5fbd327887301cd5f4"
   integrity sha512-Ne+eE4r0/iWnpAxD852z3A+N0Bt5RN//NjJwRd2VFHEmrywxf5vsZlh4R6lixl6B+wz/8d+maTSAkN1FIkI3LQ==
+
+type-fest@^0.21.3:
+  version "0.21.3"
+  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.21.3.tgz#d260a24b0198436e133fa26a524a6d65fa3b2e37"
+  integrity sha512-t0rzBq87m3fVcduHDUFhKmyyX+9eo6WQjZvf51Ea/M0Q7+T374Jp1aUiyUl0GKxp8M/OETVHSDvmkyPgvX+X2w==
 
 type-fest@^0.8.1:
   version "0.8.1"
@@ -13604,10 +13604,10 @@ webpack@^4.44.2:
     watchpack "^1.7.4"
     webpack-sources "^1.4.1"
 
-webpack@^5.1.0, webpack@^5.27.2:
-  version "5.27.2"
-  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.27.2.tgz#44442219e1469ebe00292703b848580faae03f07"
-  integrity sha512-brNF3N/EdvMzkaZ/Xzb8sqPn5Si3iw6meqCnmNFtcnkorZsFZCBFMa2ElpIMjx6sKWYsnUpBO2dnX+7xgj+mjg==
+webpack@^5.1.0, webpack@^5.28.0:
+  version "5.28.0"
+  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.28.0.tgz#0de8bcd706186b26da09d4d1e8cbd3e4025a7c2f"
+  integrity sha512-1xllYVmA4dIvRjHzwELgW4KjIU1fW4PEuEnjsylz7k7H5HgPOctIq7W1jrt3sKH9yG5d72//XWzsHhfoWvsQVg==
   dependencies:
     "@types/eslint-scope" "^3.7.0"
     "@types/estree" "^0.0.46"
