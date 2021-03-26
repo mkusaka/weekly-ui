@@ -538,7 +538,7 @@
     "param-case": "^3.0.4",
     "parent-module": "^2.0.0",
     "parse-asn1": "^5.1.6",
-    "parse-entities": "^2.0.0",
+    "parse-entities": "^3.0.0",
     "parse-json": "^5.2.0",
     "parse-srcset": "^1.0.2",
     "parse5": "^6.0.1",
