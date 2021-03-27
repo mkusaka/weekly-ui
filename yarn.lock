@@ -4368,10 +4368,10 @@ ajv-keywords@^4.0.1:
   resolved "https://registry.yarnpkg.com/ajv-keywords/-/ajv-keywords-4.0.1.tgz#3fcd1988846b741ec958b2555c96ccecce2b3a59"
   integrity sha512-vPmwZT6AL4R7kKrjKOMoKgnompJJS8MUgTB7dPBEknSSv4ahKgu046H+bGOH2eMRbAcz5pYz3fwaSwrCGNvuxA==
 
-ajv@*, ajv@^7.2.4:
-  version "7.2.4"
-  resolved "https://registry.yarnpkg.com/ajv/-/ajv-7.2.4.tgz#8e239d4d56cf884bccca8cca362f508446dc160f"
-  integrity sha512-nBeQgg/ZZA3u3SYxyaDvpvDtgZ/EZPF547ARgZBrG9Bhu1vKDwAIjtIf+sDtJUKa2zOcEbmRLBRSyMraS/Oy1A==
+ajv@*, ajv@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/ajv/-/ajv-8.0.0.tgz#392f0aee6a4b6ee8367f5b0bf516e43210762ae7"
+  integrity sha512-AgKgeO3Y58RMZoi3S+6OYqGjndt8VlrCwGM3bQEMtbGTLOO+VrymV1Fb0TnffzG4gSwa6MEgIreOn9y3Q9rt+A==
   dependencies:
     fast-deep-equal "^3.1.1"
     json-schema-traverse "^1.0.0"
