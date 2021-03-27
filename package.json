@@ -11,7 +11,7 @@
     "address": "^1.1.2",
     "aggregate-error": "^3.1.0",
     "airbnb-js-shims": "^2.2.1",
-    "ajv": "^7.2.4",
+    "ajv": "^8.0.0",
     "ajv-errors": "^2.0.1",
     "ajv-keywords": "^4.0.1",
     "ansi-align": "^3.0.0",
