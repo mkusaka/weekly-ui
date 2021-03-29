@@ -584,7 +584,7 @@
     "promise.allsettled": "^1.0.4",
     "promise.prototype.finally": "^3.1.2",
     "prop-types": "^15.7.2",
-    "property-information": "^5.6.0",
+    "property-information": "^6.0.0",
     "proxy-addr": "^2.0.6",
     "prr": "^1.0.1",
     "public-encrypt": "^4.0.3",
