@@ -398,7 +398,7 @@
     "is-plain-obj": "^3.0.0",
     "is-plain-object": "^5.0.0",
     "is-regex": "^1.1.2",
-    "is-root": "^2.1.0",
+    "is-root": "^3.0.0",
     "is-set": "^2.0.2",
     "is-stream": "^2.0.0",
     "is-string": "^1.0.5",
