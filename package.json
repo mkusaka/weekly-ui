@@ -1102,7 +1102,7 @@
     "@types/statuses": "^2.0.0",
     "@types/stream-each": "^1.2.0",
     "@types/stream-shift": "^1.0.0",
-    "@types/supports-color": "^7.2.1",
+    "@types/supports-color": "^8.1.0",
     "@types/tapable": "^2.2.2",
     "@types/tar": "^4.0.4",
     "@types/terser-webpack-plugin": "^5.0.3",

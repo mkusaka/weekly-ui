@@ -3794,10 +3794,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/supports-color@^7.2.1":
-  version "7.2.1"
-  resolved "https://registry.yarnpkg.com/@types/supports-color/-/supports-color-7.2.1.tgz#58a6efe82d9eca92cf316b16112fcd2675ffa6c0"
-  integrity sha512-glb1BXM/pchMWTt9kg67CceKqyAW3NGBviNPKXN84JJhk3shqVpyi5d5MM4MWYoZHHk/Ioct7Yt1TNqQORiIAw==
+"@types/supports-color@^8.1.0":
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/@types/supports-color/-/supports-color-8.1.0.tgz#d25609c0c07a257dbc460cea4e693abf78fe6aef"
+  integrity sha512-yuaTiC8EqSvcb03zAsCXySH18CUcHNJFvOoqCJTMMKG3o5E4Jgnr1ycDR2v1BK9Cj56iMiYgjqX98eiWjRsBeg==
 
 "@types/tapable@*", "@types/tapable@^2.2.2":
   version "2.2.2"
