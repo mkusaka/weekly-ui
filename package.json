@@ -679,7 +679,7 @@
     "shelljs": "^0.8.4",
     "side-channel": "^1.0.4",
     "signal-exit": "^3.0.3",
-    "slash": "^3.0.0",
+    "slash": "^4.0.0",
     "snapdragon": "^0.12.1",
     "snapdragon-node": "^3.0.0",
     "snapdragon-util": "^5.0.1",
