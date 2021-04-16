@@ -7971,12 +7971,12 @@ has-ansi@^2.0.0:
   dependencies:
     ansi-regex "^2.0.0"
 
-has-ansi@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/has-ansi/-/has-ansi-4.0.1.tgz#f216a8c8d7b129e490dc15f4a62cc1cdb9603ce8"
-  integrity sha512-Qr4RtTm30xvEdqUXbSBVWDu+PrTokJOwe/FU+VdfJPk+MXAPoeOzKpRyrDTnZIJwAkQ4oBLTU53nu0HrkF/Z2A==
+has-ansi@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/has-ansi/-/has-ansi-5.0.0.tgz#186d10d61e1b9428a290926a86e00ab29c203191"
+  integrity sha512-196I6rrOXWxQKuYBuNGcQrj6CSUXHM4gNFT9lApuJjkryc4SlAAzv+xhdaQW9yCG1Mvuj3wBwiaqd2Y6R7Fxgg==
   dependencies:
-    ansi-regex "^4.1.0"
+    ansi-regex "^6.0.0"
 
 has-bigints@^1.0.0:
   version "1.0.1"
