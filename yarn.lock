@@ -4545,10 +4545,10 @@ ansi-styles@^4.0.0, ansi-styles@^4.1.0:
   dependencies:
     color-convert "^2.0.1"
 
-ansi-styles@^5.2.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-5.2.0.tgz#07449690ad45777d1924ac2abb2fc8895dba836b"
-  integrity sha512-Cxwpt2SfTzTtXcfOlzGEee8O+c+MmUgGrNiBcXnuWxuFJHe6a5Hz7qwhwe5OgaSYI0IJvkLqWX1ASG+cJOkEiA==
+ansi-styles@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-6.0.0.tgz#2dc5d239631857256fcc501cf052135f290e25b3"
+  integrity sha512-4nUCKPhvbhgqc4a1S0w446veDod0i6krCOMF/bPBbBq9eP11BKztPS4Mp5yxUXhr1PFEe6mYcUSAv1jfoMUuOg==
 
 ansi-to-html@^0.6.11, ansi-to-html@^0.6.14:
   version "0.6.14"
