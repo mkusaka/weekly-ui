@@ -531,7 +531,7 @@
     "p-finally": "^2.0.1",
     "p-limit": "^3.1.0",
     "p-locate": "^5.0.0",
-    "p-map": "^4.0.0",
+    "p-map": "^5.0.0",
     "p-try": "^2.2.0",
     "pako": "^2.0.3",
     "parallel-transform": "^1.2.0",
