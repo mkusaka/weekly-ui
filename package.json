@@ -356,7 +356,7 @@
     "import-fresh": "^3.3.0",
     "import-from": "^3.0.0",
     "imurmurhash": "^0.1.4",
-    "indent-string": "^4.0.0",
+    "indent-string": "^5.0.0",
     "indexes-of": "^1.0.1",
     "infer-owner": "^1.0.4",
     "inflight": "^1.0.6",
