@@ -13361,12 +13361,13 @@ unist-util-remove-position@^2.0.0:
   dependencies:
     unist-util-visit "^2.0.0"
 
-unist-util-remove-position@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/unist-util-remove-position/-/unist-util-remove-position-3.0.0.tgz#4cd19e82c8e665f462b6acfcfd0a8353235a88e9"
-  integrity sha512-17kIOuolVuK16LMb9KyMJlqdfCtlfQY5FjY3Sdo9iC7F5wqdXhNjMq0PBvMpkVNNnAmHxXssUW+rZ9T2zbP0Rg==
+unist-util-remove-position@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/unist-util-remove-position/-/unist-util-remove-position-4.0.0.tgz#53f3ad9308d12f67d679e0a02a168a6da61ce1b5"
+  integrity sha512-72MT/sa7kFttEMXFt+m/6BZ4EueZbDSJ/SUTmh7hdNVGH2NRK2JbHcnAG44wHawojvHBUiG0KYRPgAgeDj/VMg==
   dependencies:
-    unist-util-visit "^2.0.0"
+    "@types/unist" "^2.0.0"
+    unist-util-visit "^3.0.0"
 
 unist-util-remove@^2.0.0:
   version "2.1.0"
@@ -13421,6 +13422,15 @@ unist-util-visit@2.0.3, unist-util-visit@^2.0.0, unist-util-visit@^2.0.3:
     "@types/unist" "^2.0.0"
     unist-util-is "^4.0.0"
     unist-util-visit-parents "^3.0.0"
+
+unist-util-visit@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/unist-util-visit/-/unist-util-visit-3.0.0.tgz#a8e239038f7b29aadc649a6080f42bc85ea1a7bc"
+  integrity sha512-RbFwAZhMekKPZxlAhUIiBwim8NogwUtwLbIjvZehaGORYRDWcApsnGI1VDUHr/Jo6yW1u8VOqO/djbd7Hpz88A==
+  dependencies:
+    "@types/unist" "^2.0.0"
+    unist-util-is "^5.0.0"
+    unist-util-visit-parents "^4.0.0"
 
 universalify@^0.1.0:
   version "0.1.2"
