@@ -770,7 +770,7 @@
     "unist-util-remove": "^3.0.0",
     "unist-util-remove-position": "^4.0.0",
     "unist-util-stringify-position": "^3.0.0",
-    "unist-util-visit": "^2.0.3",
+    "unist-util-visit": "^3.0.0",
     "unist-util-visit-parents": "^4.0.0",
     "universalify": "^2.0.0",
     "unpipe": "^1.0.0",
