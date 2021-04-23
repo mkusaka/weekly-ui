@@ -9604,6 +9604,14 @@ mdast-squeeze-paragraphs@^4.0.0:
   dependencies:
     unist-util-remove "^2.0.0"
 
+mdast-squeeze-paragraphs@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/mdast-squeeze-paragraphs/-/mdast-squeeze-paragraphs-5.0.0.tgz#50dd3ebe0a90f9bce4c7ec649464016f08800db4"
+  integrity sha512-NoYwk6jSmqzqwXMcK/GeCv+WI6lcFfKAcI8isk7VZV9LIgHG43iBTovp0sUg6ptStbItLVIKCtbBX/7WJD9gqw==
+  dependencies:
+    "@types/unist" "^2.0.0"
+    unist-util-remove "^3.0.0"
+
 mdast-util-definitions@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/mdast-util-definitions/-/mdast-util-definitions-4.0.0.tgz#c5c1a84db799173b4dcf7643cda999e440c24db2"
