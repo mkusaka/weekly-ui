@@ -458,7 +458,7 @@
     "mdast-squeeze-paragraphs": "^5.0.0",
     "mdast-util-definitions": "^5.0.0",
     "mdast-util-to-hast": "^10.2.0",
-    "mdast-util-to-string": "^2.0.0",
+    "mdast-util-to-string": "^3.0.0",
     "mdurl": "^1.0.1",
     "media-typer": "^1.1.0",
     "memoizerific": "^1.11.3",
