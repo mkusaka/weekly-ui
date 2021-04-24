@@ -9619,6 +9619,15 @@ mdast-util-definitions@^4.0.0:
   dependencies:
     unist-util-visit "^2.0.0"
 
+mdast-util-definitions@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/mdast-util-definitions/-/mdast-util-definitions-5.0.0.tgz#b87133465cab6cfebf385db313dfad9a431dcc4d"
+  integrity sha512-TECPwsQ3xAFs+uFoZxN6HNrU46KK+Ct2j2KQbZA5JEYtxpFGOOW4U04p7b/jLuoRh+wYw/Iu83cIZxPdOOP0Bw==
+  dependencies:
+    "@types/mdast" "^3.0.0"
+    "@types/unist" "^2.0.0"
+    unist-util-visit "^3.0.0"
+
 mdast-util-footnote@^0.1.0:
   version "0.1.3"
   resolved "https://registry.yarnpkg.com/mdast-util-footnote/-/mdast-util-footnote-0.1.3.tgz#6e4120f890427b3d88c412c8aa10723cb28f56e0"
