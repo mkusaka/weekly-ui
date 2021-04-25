@@ -9187,10 +9187,10 @@ js-tokens@^3.0.2:
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-3.0.2.tgz#9866df395102130e38f7f996bceb65443209c25b"
   integrity sha1-mGbfOVECEw449/mWvOtlRDIJwls=
 
-js-tokens@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-6.0.0.tgz#3c29d3a851d4bd92f86415e65997b4b46b3665cc"
-  integrity sha512-QJUTLeNZNFl/w4MmhHztb1I1UzV42KV/L/zNwNVGlCNc+zl8g01Nve0hPDGU+j2N7ctFZdLot49lUSi78L7WGg==
+js-tokens@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-7.0.0.tgz#5b847c7f3e16c89dbc90fac34a8be947907a5a72"
+  integrity sha512-mstB8Fdp1t7raP2i4IsewoD8l572hutCSwqE9OU9WjKsYxlSdkyX1bgzU60dXrVvhCoZtrcz0DQlW0/T7y57uA==
 
 js-yaml@^3.13.1:
   version "3.14.1"
