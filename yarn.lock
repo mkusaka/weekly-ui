@@ -2613,10 +2613,10 @@
   dependencies:
     "@types/events" "*"
 
-"@types/file-loader@^4.2.1":
-  version "4.2.1"
-  resolved "https://registry.yarnpkg.com/@types/file-loader/-/file-loader-4.2.1.tgz#f41154dc90d578002df8ae94db80c315e844720e"
-  integrity sha512-ImtIwnIEEMgyE7DK1JduhiDv+8WzfRWb3BPuf6RiBD1ySz05vyDRhGiKvIcuUPxUzMNBRZHN0pB+bWXSX3+t1w==
+"@types/file-loader@^5.0.0":
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/@types/file-loader/-/file-loader-5.0.0.tgz#c7d06c14a8fc0224661e9a29c4035ba47db826df"
+  integrity sha512-evodFzM0PLOXmMZy8DhPN+toP6QgJiIteF6e8iD9T0xGBUllQA/DAb1nZwCIoNh7vuLvqCGPUdsLf3GSbcHd4g==
   dependencies:
     "@types/webpack" "^4"
 
@@ -2725,10 +2725,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/has-ansi@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@types/has-ansi/-/has-ansi-3.0.0.tgz#636403dc4e0b2649421c4158e5c404416f3f0330"
-  integrity sha512-H3vFOwfLlFEC0MOOrcSkus8PCnMCzz4N0EqUbdJZCdDhBTfkAu86aRYA+MTxjKW6jCpUvxcn4715US8g+28BMA==
+"@types/has-ansi@^5.0.0":
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/@types/has-ansi/-/has-ansi-5.0.0.tgz#aa95db284f7a54991e3597c71fd0747f48fcfa65"
+  integrity sha512-1mwAilzr9t7E+h+KHaOE3Jxio9G3c2DSQTcjz/JV/xJ9DUuQastSiYmjJz4D07Vh12+tKM4owiFOe2+XOmvEig==
 
 "@types/hast@^2.0.0":
   version "2.3.1"
