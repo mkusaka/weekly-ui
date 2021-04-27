@@ -8213,6 +8213,17 @@ hastscript@^6.0.0:
     property-information "^5.0.0"
     space-separated-tokens "^1.0.0"
 
+hastscript@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/hastscript/-/hastscript-7.0.0.tgz#16566674c1c888415ba13a601b563864d7d80446"
+  integrity sha512-yyIOWsE/FKjYn7LZ5rqm2L9XO9rZtmJ+vMa0O4Yj0MqilneePsMzEUiGvdVKqdnCjqh3c8I/s1AneMzoy5+P+g==
+  dependencies:
+    "@types/hast" "^2.0.0"
+    comma-separated-tokens "^2.0.0"
+    hast-util-parse-selector "^3.0.0"
+    property-information "^6.0.0"
+    space-separated-tokens "^2.0.0"
+
 he@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/he/-/he-1.2.0.tgz#84ae65fa7eafb165fddb61566ae14baf05664f0f"
