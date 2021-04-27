@@ -332,7 +332,7 @@
     "hast-util-parse-selector": "^3.0.0",
     "hast-util-raw": "^6.1.0",
     "hast-util-to-parse5": "^6.0.0",
-    "hastscript": "^6.0.0",
+    "hastscript": "^7.0.0",
     "he": "^1.2.0",
     "highlight.js": "^10.7.2",
     "hmac-drbg": "^1.0.1",
