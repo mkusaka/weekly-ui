@@ -654,7 +654,7 @@
     "rsvp": "^4.8.5",
     "run-async": "^2.4.1",
     "run-queue": "^2.0.1",
-    "rxjs": "^6.6.7",
+    "rxjs": "^7.0.0",
     "safe-buffer": "^5.2.1",
     "safe-regex": "^2.1.1",
     "safer-buffer": "^2.1.2",
