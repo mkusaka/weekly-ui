@@ -4687,10 +4687,10 @@ array-uniq@^1.0.1:
   resolved "https://registry.yarnpkg.com/array-uniq/-/array-uniq-1.0.3.tgz#af6ac877a25cc7f74e058894753858dfdb24fdb6"
   integrity sha1-r2rId6Jcx/dOBYiUdThY39sk/bY=
 
-array-uniq@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/array-uniq/-/array-uniq-2.1.0.tgz#46603d5e28e79bfd02b046fcc1d77c6820bd8e98"
-  integrity sha512-bdHxtev7FN6+MXI1YFW0Q8mQ8dTJc2S8AMfju+ZR77pbg2yAdVyDlwkaUI7Har0LyOMRFPHrJ9lYdyjZZswdlQ==
+array-uniq@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/array-uniq/-/array-uniq-3.0.0.tgz#78e5b7d36375ba570e26aebcb8640aced9be5090"
+  integrity sha512-T/3qyw9JTDHjj+aIo4uQyHCAoG1DkFqFViq0e6uPzkXwT74MEPsmQ30rxx8x9+yjBQ3KJ2bXOb2bBKC1FwEjdw==
 
 array-unique@^0.3.2:
   version "0.3.2"
