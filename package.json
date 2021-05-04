@@ -794,7 +794,7 @@
     "vary": "^1.1.2",
     "vfile": "^5.0.0",
     "vfile-location": "^3.2.0",
-    "vfile-message": "^2.0.4",
+    "vfile-message": "^3.0.0",
     "vm-browserify": "^1.1.2",
     "walker": "^1.0.7",
     "warning": "^4.0.3",
