@@ -13757,7 +13757,15 @@ vfile-message@^2.0.0, vfile-message@^2.0.4:
     "@types/unist" "^2.0.0"
     unist-util-stringify-position "^2.0.0"
 
-vfile@^4.0.0, vfile@^4.2.1:
+vfile-message@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/vfile-message/-/vfile-message-3.0.0.tgz#1a9aa8b5c2ae3ba7b9d7ec1abd0b54c86be8f0ec"
+  integrity sha512-inWuts+N+7QSWL1nVCcHlPCtSnihal/E36M2N0M5Xs8smyI5M6883G4spd5W7YE/Rno9yWgGr3z7avsdVGGSjw==
+  dependencies:
+    "@types/unist" "^2.0.0"
+    unist-util-stringify-position "^3.0.0"
+
+vfile@^4.0.0:
   version "4.2.1"
   resolved "https://registry.yarnpkg.com/vfile/-/vfile-4.2.1.tgz#03f1dce28fc625c625bc6514350fbdb00fa9e624"
   integrity sha512-O6AE4OskCG5S1emQ/4gl8zK586RqA3srz3nfK/Viy0UPToBc5Trp9BVFb1u0CjsKrAWwnpr4ifM/KBXPWwJbCA==
@@ -13766,6 +13774,16 @@ vfile@^4.0.0, vfile@^4.2.1:
     is-buffer "^2.0.0"
     unist-util-stringify-position "^2.0.0"
     vfile-message "^2.0.0"
+
+vfile@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/vfile/-/vfile-5.0.0.tgz#0a7d36198069c8cfcb8ff77cb2252279c65bd745"
+  integrity sha512-7RQI2eGterrF7M0c3bOCS49bpnrt1t+f/rpDPyBEpuLFy4jzUiWkftgjTAy/aO/RGxJys79NX1qslU35gL5xFw==
+  dependencies:
+    "@types/unist" "^2.0.0"
+    is-buffer "^2.0.0"
+    unist-util-stringify-position "^3.0.0"
+    vfile-message "^3.0.0"
 
 vm-browserify@^1.0.1, vm-browserify@^1.1.2:
   version "1.1.2"
