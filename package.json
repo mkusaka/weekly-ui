@@ -380,7 +380,7 @@
     "is-callable": "^1.2.3",
     "is-ci": "^3.0.0",
     "is-data-descriptor": "^2.0.0",
-    "is-date-object": "^1.0.2",
+    "is-date-object": "^1.0.3",
     "is-decimal": "^2.0.0",
     "is-descriptor": "^3.0.0",
     "is-directory": "^0.3.1",
