@@ -4047,10 +4047,10 @@
   resolved "https://registry.yarnpkg.com/@types/y18n/-/y18n-4.0.0.tgz#b203524486723b94bcf193186dd5e975dbc4bc6d"
   integrity sha512-pf+872F4Rxv9LfdsIcWyREfXranwQGEp45RxR1jjgXehVLvoVf2r0kZWKzEWOuOoLlCLmRuVCU5zfRPGpDVvKw==
 
-"@types/yallist@^3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@types/yallist/-/yallist-3.0.1.tgz#3f43dac55d779e3058ba10334659d9fbb373807c"
-  integrity sha512-nky1uSaFye8rZctRgEd+hC0rNZuDDH49DwOHdSIvgiRZPERVvcEFfV3kUReE60GMFNjG1z8x9ncSb+WKj3cMcA==
+"@types/yallist@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@types/yallist/-/yallist-4.0.0.tgz#05488d55ffe0105dc93a0ff6bf970ca6068efe43"
+  integrity sha512-NDr62wWXirlxRSnd3HhMu8dODy2gjs+I+KzAc8AN4W3uyCcTxnoBYOheBqGjyvkZVBCvh0F9bTcM4xHsHt10sA==
 
 "@types/yaml@^1.9.7":
   version "1.9.7"
