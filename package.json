@@ -402,7 +402,7 @@
     "is-set": "^2.0.2",
     "is-stream": "^2.0.0",
     "is-string": "^1.0.6",
-    "is-symbol": "^1.0.3",
+    "is-symbol": "^1.0.4",
     "is-typedarray": "^1.0.0",
     "is-whitespace-character": "^2.0.0",
     "is-window": "^1.0.2",
