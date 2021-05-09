@@ -3956,13 +3956,14 @@
     "@types/node" "*"
     chokidar "^2.1.2"
 
-"@types/webpack-dev-middleware@^4.1.2":
-  version "4.1.2"
-  resolved "https://registry.yarnpkg.com/@types/webpack-dev-middleware/-/webpack-dev-middleware-4.1.2.tgz#c683adc6a44d0b66e98f1932ab33d1c32d558142"
-  integrity sha512-SxXzPCqeZ03fJ2dg3iD7cSXvqZymmS5/2GD9fANRcyWN7HYK1H3ty6q7IInXZKvPrdUqij831G3RLIeKK6aGdw==
+"@types/webpack-dev-middleware@^4.1.3":
+  version "4.1.3"
+  resolved "https://registry.yarnpkg.com/@types/webpack-dev-middleware/-/webpack-dev-middleware-4.1.3.tgz#d3f33073efdc3509bca992599ef7c3ae970c6438"
+  integrity sha512-CB4GPQxcEl3G2f+ndj/Ky8J5ZGBDCiToLhUucaAKJkEo+6GhnuFPZZUWYvZ4/X3ETGUG5qdd+ds1aiajpTL3YA==
   dependencies:
     "@types/connect" "*"
-    "@types/webpack" "^4"
+    tapable "^2.2.0"
+    webpack "^5"
 
 "@types/webpack-dev-server@*":
   version "3.11.0"
