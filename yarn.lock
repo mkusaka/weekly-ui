@@ -8195,10 +8195,10 @@ hast-util-parse-selector@^2.0.0:
   resolved "https://registry.yarnpkg.com/hast-util-parse-selector/-/hast-util-parse-selector-2.2.5.tgz#d57c23f4da16ae3c63b3b6ca4616683313499c3a"
   integrity sha512-7j6mrk/qqkSehsM92wQjdIgWM2/BW61u/53G6xmC8i1OmEdKLHbk419QKQUjz6LglWsfqoiHmyMRkP1BGjecNQ==
 
-hast-util-parse-selector@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/hast-util-parse-selector/-/hast-util-parse-selector-3.0.0.tgz#097b6fac2dcb98bacc71f7e59cf42bbd4cf9de7e"
-  integrity sha512-wEXyQobLs5+kkj4UPNXYv7/vIDtvss7rPvyAQ8U7DY4dg/klXy0cUpysY/qn/9ypIsPHKOUCK82wNh9tUWi+7g==
+hast-util-parse-selector@^3.0.0, hast-util-parse-selector@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/hast-util-parse-selector/-/hast-util-parse-selector-3.1.0.tgz#a519e27e8b61bd5a98fad494ed06131ce68d9c3f"
+  integrity sha512-AyjlI2pTAZEOeu7GeBPZhROx0RHBnydkQIXlhnFzDi0qfXTmGUWoCYZtomHbrdrheV4VFUlPcfJ6LMF5T6sQzg==
   dependencies:
     "@types/hast" "^2.0.0"
 
