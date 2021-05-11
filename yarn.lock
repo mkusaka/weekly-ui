@@ -3058,10 +3058,10 @@
   resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.168.tgz#fe24632e79b7ade3f132891afff86caa5e5ce008"
   integrity sha512-oVfRvqHV/V6D1yifJbVRU3TMp8OT6o6BG+U9MkwuJ3U8/CsDHvalRpsxBqivn71ztOFZBTfJMvETbqHiaNSj7Q==
 
-"@types/lowlight@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@types/lowlight/-/lowlight-0.0.1.tgz#221bc67a6c517bae71e6f200fa1cad0feaeeb965"
-  integrity sha512-yPpbpV1KfpFOZ0ZZbsgwWumraiAKoX7/Ng75Ah//w+ZBt4j0xwrQ2aHSlk2kPzQVK4LiPbNFE1LjC00IL4nl/A==
+"@types/lowlight@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@types/lowlight/-/lowlight-0.0.2.tgz#bb517f1486477a8c59dea11be0dfaf96d629d35d"
+  integrity sha512-37DldsUs2l4rXI2YQgVn+NKVEaaUbBIzJg3eYzAXimGrtre8vxqE65wAGqYs9W6IsoOfgj74se/rBc9yoRXOHQ==
 
 "@types/lru-cache@^5.1.0":
   version "5.1.0"
