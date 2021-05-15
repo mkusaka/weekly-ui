@@ -2010,10 +2010,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/argparse@^2.0.5":
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/@types/argparse/-/argparse-2.0.5.tgz#5192f160931442a32c1c23e9480fff3f8d7cd0e4"
-  integrity sha512-m0CQ4TzFW+JdAN875vqqNO7H92jnN9hrH0bxEjJStePjfSfBDNgIlH+ieZQvBH9CuSPguFpjEzXcJHqV+fJqOQ==
+"@types/argparse@^2.0.6":
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/@types/argparse/-/argparse-2.0.6.tgz#919ebfe3561c73cfdd5f23b21fbafca78c5cc421"
+  integrity sha512-vgrJdZP0x7xCZ8YpdbDLSpn5hoszSaZk5vpPsAxkt+s3XxNr+ebjurmUDY5ED9TdIbeTY4D4woBYTRmpIBTIrQ==
 
 "@types/arr-diff@^4.0.0":
   version "4.0.0"
