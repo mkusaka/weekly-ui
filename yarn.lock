@@ -12952,10 +12952,10 @@ tar@^6.0.2, tar@^6.1.0:
     mkdirp "^1.0.3"
     yallist "^4.0.0"
 
-telejson@^5.1.0, telejson@^5.2.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/telejson/-/telejson-5.2.0.tgz#c587d0f23c50c9b8749404604e0f9e64589ff180"
-  integrity sha512-5ALKeIIpOyu0qoKJVsCXufWwh40HrxLasi75xK8KhMDzUHLzD7Cb9epdLjnncE+el0NENIN8sHLaRVOvjbN6ug==
+telejson@^5.1.0, telejson@^5.3.0:
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/telejson/-/telejson-5.3.0.tgz#ecda346ee90b89f6078ddfb702c4689a49dcc697"
+  integrity sha512-ddwGFqXmSPKZouZJPVs3yo3+YxsNdwVBS11Oraw+Cv0DDw51Z5OH+HsOkPLMn1h7+PtOG9nGdn+Jpy/rbZt6CA==
   dependencies:
     "@types/is-function" "^1.0.0"
     global "^4.4.0"
