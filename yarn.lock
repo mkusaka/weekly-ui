@@ -5869,10 +5869,10 @@ clean-stack@^2.0.0:
   resolved "https://registry.yarnpkg.com/clean-stack/-/clean-stack-2.2.0.tgz#ee8472dbb129e727b31e8a10a427dee9dfe4008b"
   integrity sha512-4diC9HaTE+KRAMWhDhrGOECgWZxoevMc5TlkObMqNSsVU62PYzXZ/SMTjzyGAFF1YusgxGcSWTEXBhp0CPwQ1A==
 
-clean-stack@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/clean-stack/-/clean-stack-4.0.0.tgz#33272018b8a76e80c6f9b1162687b402f7c11b71"
-  integrity sha512-MonulJftObGAfadTeQ1Do359xzN6cLyQRIYrdhvhHkrIg7xRrg2fiML443Q1ANke3ANu1GB3XkROVX6ili2uog==
+clean-stack@^4.0.0, clean-stack@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/clean-stack/-/clean-stack-4.0.1.tgz#e093c9b116ced18e89c85b8a1154e23286bd5549"
+  integrity sha512-LJYF2LDkag7svHYnzWnlWHrnlxhBGtE5o+xRwRZdN+B6Gw0WRlC7oAdKuCAly5CGF9OMNO+nlwR/Ru57kzzbvQ==
   dependencies:
     escape-string-regexp "5.0.0"
 
@@ -12952,10 +12952,10 @@ tar@^6.0.2, tar@^6.1.0:
     mkdirp "^1.0.3"
     yallist "^4.0.0"
 
-telejson@^5.1.0, telejson@^5.3.1:
-  version "5.3.1"
-  resolved "https://registry.yarnpkg.com/telejson/-/telejson-5.3.1.tgz#456418a05a8d5b0de7d5244feadcfe1d280dc088"
-  integrity sha512-je5hys3IpAWmf270iaxJgeboUgJL+pGNeZykvn58nbKhCGbTtiMZpzkCx6cKhsXaqAXS6uNOBOoaw/ttp+nuOw==
+telejson@^5.1.0, telejson@^5.3.2:
+  version "5.3.2"
+  resolved "https://registry.yarnpkg.com/telejson/-/telejson-5.3.2.tgz#e9d64ee142fc2d59e4c6927f72a8146fc5613b7f"
+  integrity sha512-lvtKMZ2ONxgwcMrhUs2W6zT9Z/IwUY8ZZ6D4DvUtLMl7txBNmtY0GnbMBCQ3JevQpkwxYZ5Zu0a+AR7xCzJJnQ==
   dependencies:
     "@types/is-function" "^1.0.0"
     global "^4.4.0"
@@ -13297,10 +13297,10 @@ type-fest@^0.8.1:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.8.1.tgz#09e249ebde851d3b1e48d27c105444667f17b83d"
   integrity sha512-4dbzIzqvjtgiM5rw1k5rEHtBANKmdudhGyBEajN01fEyhaAIhsoKNy6y7+IN93IfpFtwY9iqi7kD+xwKhQsNJA==
 
-type-fest@^1.0.2, type-fest@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-1.1.1.tgz#210251e7f57357a1457269e6b34837fed067ac2c"
-  integrity sha512-RPDKc5KrIyKTP7Fk75LruUagqG6b+OTgXlCR2Z0aQDJFeIvL4/mhahSEtHmmVzXu4gmA0srkF/8FCH3WOWxTWA==
+type-fest@^1.0.2, type-fest@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-1.1.2.tgz#0de29c10ea673e089eb8d4afb788928a72ed7594"
+  integrity sha512-q++CYzCt8xYVqKnPfJi5o3rMx83MxN4h+hqp/4+5+J7MrbmV5qwVk6epQ4tKp7pGIF9TDmbmunHSW8UtacKnBQ==
 
 type-is@^1.6.18, type-is@~1.6.17, type-is@~1.6.18:
   version "1.6.18"
