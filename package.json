@@ -1087,7 +1087,7 @@
     "@types/serialize-javascript": "^5.0.0",
     "@types/serve-favicon": "^2.5.2",
     "@types/serve-static": "^1.13.9",
-    "@types/set-value": "^2.0.0",
+    "@types/set-value": "^4.0.0",
     "@types/setimmediate": "^1.0.2",
     "@types/sha.js": "^2.4.0",
     "@types/shallowequal": "^1.1.1",
