@@ -554,7 +554,7 @@
     "path-to-regexp": "^6.2.0",
     "path-type": "^5.0.0",
     "pbkdf2": "^3.1.2",
-    "picomatch": "^2.2.3",
+    "picomatch": "^2.3.0",
     "pify": "^5.0.0",
     "pirates": "^4.0.1",
     "pkg-dir": "^5.0.0",
