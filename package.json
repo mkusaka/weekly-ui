@@ -346,7 +346,7 @@
     "htmlparser2": "^6.1.0",
     "http-errors": "^1.8.0",
     "https-browserify": "^1.0.0",
-    "iconv-lite": "^0.6.2",
+    "iconv-lite": "^0.6.3",
     "icss-utils": "^5.1.0",
     "ieee754": "^1.2.1",
     "iferr": "^1.0.2",
