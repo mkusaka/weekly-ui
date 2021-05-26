@@ -1069,7 +1069,7 @@
     "@types/readable-stream": "^2.3.10",
     "@types/rechoir": "^0.6.1",
     "@types/recursive-readdir": "^2.2.0",
-    "@types/refractor": "^3.0.0",
+    "@types/refractor": "^3.0.1",
     "@types/relateurl": "^0.2.28",
     "@types/repeat-element": "^1.1.0",
     "@types/repeat-string": "^1.6.0",
