@@ -306,7 +306,7 @@
     "glob": "^7.1.7",
     "glob-base": "^0.3.0",
     "glob-parent": "^6.0.0",
-    "glob-promise": "^4.1.0",
+    "glob-promise": "^4.2.0",
     "glob-to-regexp": "^0.4.1",
     "global": "^4.4.0",
     "global-modules": "^2.0.0",
