@@ -977,7 +977,7 @@
     "@types/jake": "^1.0.26-alpha",
     "@types/js-string-escape": "^1.0.0",
     "@types/js-yaml": "^4.0.1",
-    "@types/jsesc": "^2.5.1",
+    "@types/jsesc": "^3.0.0",
     "@types/json-parse-better-errors": "^1.0.0",
     "@types/json-schema-traverse": "^0.4.0",
     "@types/json5": "^0.0.30",

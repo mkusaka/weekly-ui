@@ -2996,10 +2996,10 @@
   resolved "https://registry.yarnpkg.com/@types/js-yaml/-/js-yaml-4.0.1.tgz#5544730b65a480b18ace6b6ce914e519cec2d43b"
   integrity sha512-xdOvNmXmrZqqPy3kuCQ+fz6wA0xU5pji9cd1nDrflWaAWtYLLGk5ykW0H6yg5TVyehHP1pfmuuSaZkhP+kspVA==
 
-"@types/jsesc@^2.5.1":
-  version "2.5.1"
-  resolved "https://registry.yarnpkg.com/@types/jsesc/-/jsesc-2.5.1.tgz#c34defc608ec94b68dc6a12a581b440942c6d503"
-  integrity sha512-9VN+6yxLOPLOav+7PwjZbxiID2bVaeq0ED4qSQmdQTdjnXJSaCVKTR58t15oqH1H5t8Ng2ZX1SabJVoN9Q34bw==
+"@types/jsesc@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@types/jsesc/-/jsesc-3.0.0.tgz#56983a9bf1bf3d19c6bc736b3fb5eb841eec607a"
+  integrity sha512-zcwBQyIczoTfJW6WGHmyTEe3Yg2DY3w1Y41MhaLSRrc5tOvbBJfVfJxY5EB3Ud9lQ1eIbdCsOtPbyJ4qjdXCcg==
 
 "@types/json-parse-better-errors@^1.0.0":
   version "1.0.0"
