@@ -2139,10 +2139,10 @@
   resolved "https://registry.yarnpkg.com/@types/base64-js/-/base64-js-1.3.0.tgz#c939fdba49846861caf5a246b165dbf5698a317c"
   integrity sha512-ZmI0sZGAUNXUfMWboWwi4LcfpoVUYldyN6Oe0oJ5cCsHDU/LlRq8nQKPXhYLOx36QYSW9bNIb1vvRrD6K7Llgw==
 
-"@types/big.js@^6.1.0":
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/@types/big.js/-/big.js-6.1.0.tgz#b0ac668074fe3263d54a76d498bc00713d13210f"
-  integrity sha512-tP9A3sPGV0lttlPRVBOEJisNL5iYzNzH2aCU/IE06i+fq6ON8gAiNXaUac8Z2B6XL5QewSljkuWeCUdjzDnOkg==
+"@types/big.js@^6.1.1":
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/@types/big.js/-/big.js-6.1.1.tgz#c2be5e81e0cf0c1c31704e3b12f750712f647414"
+  integrity sha512-Zns+nT0hj96ie+GDbL5NeHxhL4wNz8QMxCHqBvxgc4x0hhgQ/o92rPwqxvPBhY3ZYnH8TJGw/8oCkjhOy2Rfzw==
 
 "@types/bindings@^1.5.0":
   version "1.5.0"
@@ -13401,10 +13401,10 @@ ts-essentials@^2.0.3:
   resolved "https://registry.yarnpkg.com/ts-essentials/-/ts-essentials-2.0.12.tgz#c9303f3d74f75fa7528c3d49b80e089ab09d8745"
   integrity sha512-3IVX4nI6B5cc31/GFFE+i8ey/N2eA0CZDbo6n0yrz0zDX8ZJ8djmU1p+XRz7G3is0F3bB3pu2pAroFdAWQKU3w==
 
-ts-essentials@^7.0.1:
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/ts-essentials/-/ts-essentials-7.0.1.tgz#d205508cae0cdadfb73c89503140cf2228389e2d"
-  integrity sha512-8lwh3QJtIc1UWhkQtr9XuksXu3O0YQdEE5g79guDfhCaU1FWTDIEDZ1ZSx4HTHUmlJZ8L812j3BZQ4a0aOUkSA==
+ts-essentials@^7.0.2:
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/ts-essentials/-/ts-essentials-7.0.2.tgz#e21142df8034dbd444cb9573ed204d0b85fc64fb"
+  integrity sha512-qWPVC1xZGdefbsgFP7tPo+bsgSA2ZIXL1XeEe5M2WoMZxIOr/HbsHxP/Iv75IFhiMHMDGL7cOOwi5SXcgx9mHw==
 
 ts-pnp@^1.1.6, ts-pnp@^1.2.0:
   version "1.2.0"
