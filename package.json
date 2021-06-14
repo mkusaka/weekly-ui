@@ -801,7 +801,7 @@
     "watchpack": "^2.2.0",
     "watchpack-chokidar2": "^2.0.1",
     "web-namespaces": "^2.0.0",
-    "webpack": "^5.38.1",
+    "webpack": "^5.39.0",
     "webpack-dev-middleware": "^5.0.0",
     "webpack-hot-middleware": "^2.25.0",
     "webpack-log": "^3.0.2",
@@ -822,7 +822,7 @@
     "zwitch": "^2.0.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.14.5",
+    "@babel/core": "^7.14.6",
     "@storybook/addon-actions": "^6.2.9",
     "@storybook/addon-essentials": "^6.2.9",
     "@storybook/addon-links": "^6.2.9",
