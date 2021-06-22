@@ -417,7 +417,7 @@
     "iterate-iterator": "^1.0.1",
     "iterate-value": "^1.0.2",
     "jake": "^10.8.2",
-    "jest-haste-map": "^27.0.2",
+    "jest-haste-map": "^27.0.5",
     "jest-regex-util": "^27.0.1",
     "jest-serializer": "^27.0.1",
     "jest-util": "^27.0.2",
