@@ -342,7 +342,7 @@
     "html-minifier-terser": "^5.1.1",
     "html-tags": "^3.1.0",
     "html-void-elements": "^2.0.0",
-    "html-webpack-plugin": "^5.3.1",
+    "html-webpack-plugin": "^5.3.2",
     "htmlparser2": "^6.1.0",
     "http-errors": "^1.8.0",
     "https-browserify": "^1.0.0",
