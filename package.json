@@ -1053,7 +1053,7 @@
     "@types/pumpify": "^1.4.1",
     "@types/punycode": "^2.1.0",
     "@types/qs": "^6.9.6",
-    "@types/ramda": "^0.27.40",
+    "@types/ramda": "^0.27.41",
     "@types/randombytes": "^2.0.0",
     "@types/range-parser": "^1.2.3",
     "@types/react": "^17.0.11",
