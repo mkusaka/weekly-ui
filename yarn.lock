@@ -13289,10 +13289,10 @@ trough@^1.0.0:
   resolved "https://registry.yarnpkg.com/trough/-/trough-1.0.5.tgz#b8b639cefad7d0bb2abd37d433ff8293efa5f406"
   integrity sha512-rvuRbTarPXmMb79SmzEp8aqXNKcK+y0XaB298IXueQ8I2PsrATcPBCSPyK/dDNa2iWOhKlfNnOjdAOTBU/nkFA==
 
-trough@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/trough/-/trough-2.0.0.tgz#206b18ee20661b857dc44589e01666740cfddf81"
-  integrity sha512-uNkB9RaA7/gX0rcohbu90uUO9MK2sTjj67c/lneRHHDAp9FYmQ+JhCGP5g8i42ONVuTIKtSbaHWdKBB1QObv9Q==
+trough@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/trough/-/trough-2.0.1.tgz#1146715df4c4e5d96003610041bcec4ad809854b"
+  integrity sha512-UNLEdjmGsgR9iuaqBbPEBB+KLTE1/FfeNDOUIhWUu3RjpQNCONP1BlTMqKsjyT6fkQneoHO2I8Vp8V601FsBqQ==
 
 ts-dedent@^2.0.0, ts-dedent@^2.1.1:
   version "2.1.1"

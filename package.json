@@ -740,7 +740,7 @@
     "trim": "^1.0.1",
     "trim-lines": "^2.0.0",
     "trim-trailing-lines": "^2.0.0",
-    "trough": "^2.0.0",
+    "trough": "^2.0.1",
     "ts-dedent": "^2.1.1",
     "ts-essentials": "^7.0.2",
     "ts-pnp": "^1.2.0",
