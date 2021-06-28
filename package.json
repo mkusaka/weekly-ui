@@ -658,7 +658,7 @@
     "safe-buffer": "^5.2.1",
     "safe-regex": "^2.1.1",
     "safer-buffer": "^2.1.2",
-    "sane": "^4.1.0",
+    "sane": "^5.0.1",
     "scheduler": "^0.20.2",
     "schema-utils": "^3.0.0",
     "select": "^1.1.2",
