@@ -1037,7 +1037,7 @@
     "@types/pbkdf2": "^3.1.0",
     "@types/pify": "^5.0.0",
     "@types/postcss-load-config": "^2.0.1",
-    "@types/postcss-modules-extract-imports": "^2.0.0",
+    "@types/postcss-modules-extract-imports": "^3.0.0",
     "@types/postcss-modules-local-by-default": "^1.2.0",
     "@types/postcss-modules-scope": "^1.1.0",
     "@types/postcss-modules-values": "^3.0.0",
