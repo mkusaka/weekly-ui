@@ -2089,10 +2089,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/argparse@^2.0.8":
-  version "2.0.8"
-  resolved "https://registry.yarnpkg.com/@types/argparse/-/argparse-2.0.8.tgz#14bebdb0479b610bf11fae8b2d59d6a1a09dc1e5"
-  integrity sha512-H/YVlchGvyHN2LSD3gRueCe8mo5zC0lU505LYqpQL75SMOIIZmtyronj/tETOCUVRzeMp4PHW02BaGWMSuNcxA==
+"@types/argparse@^2.0.9":
+  version "2.0.9"
+  resolved "https://registry.yarnpkg.com/@types/argparse/-/argparse-2.0.9.tgz#2ddce345054773ff506dc5bc5976b357dc00f701"
+  integrity sha512-N0xPomsUd8y40WVcz5oyKgKe6hYKe9sEkugwA+d4g1VjM4nCGx8eScqBOrWt61gFu8ZIMRK+zW9Ls0r7sDzZTA==
 
 "@types/arr-diff@^4.0.0":
   version "4.0.0"
