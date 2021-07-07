@@ -3244,34 +3244,34 @@
   resolved "https://registry.yarnpkg.com/@types/minimalistic-assert/-/minimalistic-assert-1.0.1.tgz#b10f03bf534b806a1e38970075a08d29f14624d0"
   integrity sha512-LjFxDeQtgj+MYOOFuV+BILc/w9ryfxd2eNLF0oJdOBud+xCj80ZAEkAwt6y0qx81QMZ632yAaWdvIMjEK2HcmA==
 
-"@types/minimatch@*", "@types/minimatch@^3.0.4":
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.4.tgz#f0ec25dbf2f0e4b18647313ac031134ca5b24b21"
-  integrity sha512-1z8k4wzFnNjVK/tlxvrWuK5WMt6mydWWP7+zvH5eFep4oj+UkrfiJTRtjCeBXNpwaA/FYqqtb4/QS4ianFpIRA==
+"@types/minimatch@*", "@types/minimatch@^3.0.5":
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.5.tgz#1001cc5e6a3704b83c236027e77f2f58ea010f40"
+  integrity sha512-Klz949h02Gz2uZCMGwDUSDS1YBlTdDDgbWHi+81l29tQALUtvz4rAYi5uoVhE5Lagoq6DeqAUlbrHvW/mXDgdQ==
 
-"@types/minimist@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.1.tgz#283f669ff76d7b8260df8ab7a4262cc83d988256"
-  integrity sha512-fZQQafSREFyuZcdWFAExYjBiCL7AUCdgsk80iO0q4yihYYdcIiH28CcuPTGFgLOCC8RlW49GSQxdHwZP+I7CNg==
+"@types/minimist@^1.2.2":
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.2.tgz#ee771e2ba4b3dc5b372935d549fd9617bf345b8c"
+  integrity sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==
 
-"@types/minipass@*", "@types/minipass@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@types/minipass/-/minipass-2.2.0.tgz#51ad404e8eb1fa961f75ec61205796807b6f9651"
-  integrity sha512-wuzZksN4w4kyfoOv/dlpov4NOunwutLA/q7uc00xU02ZyUY+aoM5PWIXEKBMnm0NHd4a+N71BMjq+x7+2Af1fg==
+"@types/minipass@*", "@types/minipass@^2.2.1":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@types/minipass/-/minipass-2.2.1.tgz#a52138867c493ff14f07616efcbe2af7662b76fb"
+  integrity sha512-0bI74UwEJ+JjGqzkyoiCxLVGK5C3Vy5MYdDB6VCtUAulcrulHvqhIrQP9lh/gvMgaNzvvJljMW97rRHVvbTe8Q==
   dependencies:
     "@types/node" "*"
 
-"@types/mkdirp@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@types/mkdirp/-/mkdirp-1.0.1.tgz#0930b948914a78587de35458b86c907b6e98bbf6"
-  integrity sha512-HkGSK7CGAXncr8Qn/0VqNtExEE+PHMWb+qlR1faHMao7ng6P3tAaoWWBMdva0gL5h4zprjIO89GJOLXsMcDm1Q==
-  dependencies:
-    "@types/node" "*"
-
-"@types/move-concurrently@^1.0.2":
+"@types/mkdirp@^1.0.2":
   version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@types/move-concurrently/-/move-concurrently-1.0.2.tgz#0216268baddff4318c4e3264290f4afa836f9a23"
-  integrity sha512-u//VhiV80/WrtfmvZ49VcVaSnsM5RBB9bYm5zR3DkQPLUv7EFMZjDWXalXYktnFGV0VP4SlurYA6GyVe6TNExQ==
+  resolved "https://registry.yarnpkg.com/@types/mkdirp/-/mkdirp-1.0.2.tgz#8d0bad7aa793abe551860be1f7ae7f3198c16666"
+  integrity sha512-o0K1tSO0Dx5X6xlU5F1D6625FawhC3dU3iqr25lluNv/+/QIVH8RLNEiVokgIZo+mz+87w/3Mkg/VvQS+J51fQ==
+  dependencies:
+    "@types/node" "*"
+
+"@types/move-concurrently@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@types/move-concurrently/-/move-concurrently-1.0.3.tgz#3f4afd44d78efa9678c9b7a4502d713e7af60021"
+  integrity sha512-q4Jl7V3Cf6JeShOyvpgj9wyIKfMcukfDom1L4Z1U7YfbE5DJERXFA1kXM6ufAKplhdei+gUz86NXahIeQTZZcA==
 
 "@types/ms@^0.7.31":
   version "0.7.31"
@@ -3288,10 +3288,10 @@
   resolved "https://registry.yarnpkg.com/@types/nice-try/-/nice-try-2.1.0.tgz#6f044b4fd2a8a878154c77d5fca0a2f4aea8b774"
   integrity sha512-pJaR/8Ijp4SbMJfzNLc/BgvkfbYTIvDiaheb5yGrdF4AeqPPQJq2K/Gk2tL4WasRITUAWXSa6+MvB8yyjQQnlQ==
 
-"@types/node-fetch@^2.5.10", "@types/node-fetch@^2.5.7":
-  version "2.5.10"
-  resolved "https://registry.yarnpkg.com/@types/node-fetch/-/node-fetch-2.5.10.tgz#9b4d4a0425562f9fcea70b12cb3fcdd946ca8132"
-  integrity sha512-IpkX0AasN44hgEad0gEF/V6EgR5n69VEqPEgnmoM8GsIGro3PowbWs4tR6IhxUTyPLpOn+fiGG6nrQhcmoCuIQ==
+"@types/node-fetch@^2.5.11", "@types/node-fetch@^2.5.7":
+  version "2.5.11"
+  resolved "https://registry.yarnpkg.com/@types/node-fetch/-/node-fetch-2.5.11.tgz#ce22a2e65fc8999f4dbdb7ddbbcf187d755169e4"
+  integrity sha512-2upCKaqVZETDRb8A2VTaRymqFBEgH8u6yr96b/u3+1uQEPDRo3mJLEiPk7vdXBHRtjwkjqzFYMJXrt0Z9QsYjQ==
   dependencies:
     "@types/node" "*"
     form-data "^3.0.0"
