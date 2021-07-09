@@ -2414,10 +2414,10 @@
   resolved "https://registry.yarnpkg.com/@types/content-disposition/-/content-disposition-0.5.4.tgz#de48cf01c79c9f1560bcfd8ae43217ab028657f8"
   integrity sha512-0mPF08jn9zYI0n0Q/Pnz7C4kThdSt+6LD4amsrYDDpgBfrVWa3TcCOxKX1zkGgYniGagRv8heN2cbh+CAn+uuQ==
 
-"@types/content-type@^1.1.4":
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/@types/content-type/-/content-type-1.1.4.tgz#fbbad10da69ea754f8270ada7421bd3554a8fb46"
-  integrity sha512-IifnIjNa42pJz1IS5lfvOwJew+zwFkrfq1Sj0uCDCuJhpEMH6qBVXdCab5g7JKoWoLLngsh+3DH/0JEEinyqKg==
+"@types/content-type@^1.1.5":
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/@types/content-type/-/content-type-1.1.5.tgz#aa02dca40864749a9e2bf0161a6216da57e3ede5"
+  integrity sha512-dgMN+syt1xb7Hk8LU6AODOfPlvz5z1CbXpPuJE5ZrX9STfBOIXF09pEB8N7a97WT9dbngt3ksDCm6GW6yMrxfQ==
 
 "@types/convert-source-map@^1.5.2":
   version "1.5.2"
@@ -3451,24 +3451,24 @@
     cosmiconfig "^6.0.0"
     postcss "^7.0.0"
 
-"@types/postcss-modules-extract-imports@^3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@types/postcss-modules-extract-imports/-/postcss-modules-extract-imports-3.0.1.tgz#24a7934737eae3b7bf92c8625737c3142bffe378"
-  integrity sha512-TEHHDFIuLGcCldN2UwpKbFIHDM/U9Gtv/n/7m0bOwQDH9WTnpXpDG35T8sPawQs+k1lck7BOL2edQL9ILR8agw==
+"@types/postcss-modules-extract-imports@^3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@types/postcss-modules-extract-imports/-/postcss-modules-extract-imports-3.0.2.tgz#dd1bb776a583297e610f0ae037fedf525347cf25"
+  integrity sha512-w9WrPL5+Re98Jw7Bbtm4oprmp0wFbtCJBfEAjpEE9XX8gs10pLH4AdrYqAzzPL7oSjZUoNTaW9WOFYojejN+FA==
   dependencies:
     postcss "^8.1"
 
-"@types/postcss-modules-local-by-default@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@types/postcss-modules-local-by-default/-/postcss-modules-local-by-default-1.2.1.tgz#ff3cbb1e4e9ff90f14261c7c55f9e37ef47a560a"
-  integrity sha512-9s5wLE50OYtziAQjYx1jVpUkwH2/ZtvoOKaal6rz8vwqSO91YiWDgmbrYE6ZmKIcKo9X8lqs45hLtSJRoG/23g==
+"@types/postcss-modules-local-by-default@^1.2.2":
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@types/postcss-modules-local-by-default/-/postcss-modules-local-by-default-1.2.2.tgz#b6bd30e1828ee983571a87de48fdfad5ed10301a"
+  integrity sha512-E5ktyDv+AxUdlDMJAB91GKRIA5agick/X8usrWGWJDoW3huVBEQNVrYbIdqK6QYHPhqaJDf/oVqwu8jVbNNwUQ==
   dependencies:
     postcss "7.x.x"
 
-"@types/postcss-modules-scope@^1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@types/postcss-modules-scope/-/postcss-modules-scope-1.1.1.tgz#df752c039fca04dce52dd7cc727ee7281df80cb5"
-  integrity sha512-Zq7aXGD0MPiAsvzGFtoI6SrIE0tfS2wxgQZhYRmWAP/Ct6eZWkuFGHLqfRK5ZusU2c+WiQ3ydp5Jc2VctVBMaw==
+"@types/postcss-modules-scope@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@types/postcss-modules-scope/-/postcss-modules-scope-1.1.2.tgz#5f488fdcf707ee54eb9c5f8dedc87205cd03a20a"
+  integrity sha512-3JpyNpMU9VRBtDU2uBUgeM5+urVkV1dGpL9Qo/kR1YWXHbKseUiSzDAjAS8Y67LzzEPhoMG71bhIQciRbUcpiQ==
   dependencies:
     postcss "7.x.x"
 
