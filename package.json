@@ -967,7 +967,7 @@
     "@types/is-function": "^1.0.0",
     "@types/is-glob": "^4.0.2",
     "@types/is-number": "^7.0.1",
-    "@types/is-object": "^1.0.1",
+    "@types/is-object": "^1.0.2",
     "@types/is-typedarray": "^1.0.0",
     "@types/is-windows": "^1.0.0",
     "@types/isarray": "^2.0.0",
