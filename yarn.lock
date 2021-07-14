@@ -3701,10 +3701,10 @@
   resolved "https://registry.yarnpkg.com/@types/repeat-element/-/repeat-element-1.1.0.tgz#beda9018be3290943e769e348ef185604b3446c5"
   integrity sha512-/Z+sIdxwLEbvwtg3rTrisPdZNYS1y1bUHvprBMpmcpYkJXe72uafudVsTCPplQWqoFbEBYUE5oOD//Me/goOjA==
 
-"@types/repeat-string@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@types/repeat-string/-/repeat-string-1.6.0.tgz#79fa5c9e9b5fad3247b497ca67b021f78cacfdf2"
-  integrity sha512-Nwr4xMZBJKzluvdF9QPKjqFi8EpR63jk0mQPBEXB/+kevUPBftRQrbt24m+NkRh0C9ftrNIqnnsDw9iyQv/j7g==
+"@types/repeat-string@^1.6.1":
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@types/repeat-string/-/repeat-string-1.6.1.tgz#8bb5686e662ce1d962271b0b043623bf51404cdc"
+  integrity sha512-vdna8kjLGljgtPnYN6MBD2UwX62QE0EFLj9QlLXvg6dEu66NksXB900BNguBCMZZY2D9SSqncUskM23vT3uvWQ==
 
 "@types/replace-ext@^2.0.0":
   version "2.0.0"
