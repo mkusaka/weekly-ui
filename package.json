@@ -758,7 +758,7 @@
     "unicode-match-property-ecmascript": "^1.0.4",
     "unicode-match-property-value-ecmascript": "^1.2.0",
     "unicode-property-aliases-ecmascript": "^1.1.0",
-    "unified": "^9.2.1",
+    "unified": "^9.2.2",
     "union-value": "^2.0.1",
     "uniq": "^1.0.1",
     "unique-filename": "^1.1.1",
