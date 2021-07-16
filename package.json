@@ -753,7 +753,7 @@
     "typedarray": "^0.0.6",
     "typedarray-to-buffer": "^4.0.0",
     "unfetch": "^4.2.0",
-    "unherit": "^2.0.0",
+    "unherit": "^3.0.0",
     "unicode-canonical-property-names-ecmascript": "^1.0.4",
     "unicode-match-property-ecmascript": "^1.0.4",
     "unicode-match-property-value-ecmascript": "^1.2.0",
