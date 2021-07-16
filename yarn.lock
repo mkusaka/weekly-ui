@@ -13503,12 +13503,10 @@ unherit@^1.0.4:
     inherits "^2.0.0"
     xtend "^4.0.0"
 
-unherit@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/unherit/-/unherit-2.0.0.tgz#eae9ba759ae8fb50ee5843487a54322d9e5e820c"
-  integrity sha512-x6hHM3Jl6xprdiHfnGlNG1KnjY5qSmB0Khj4wzneu/AKbgT4/ooHi06xzhYngLMg3OroElJJBiYXzXwaZjpXhg==
-  dependencies:
-    inherits "^2.0.0"
+unherit@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/unherit/-/unherit-3.0.0.tgz#83d69af9d8e3afd28fa51cff9ee84de7a1d82a6b"
+  integrity sha512-UmvIQZGEc9qdLIQ8mv8/61n6PiMgfbOoASPKHpCvII5srShCQSa6jSjBjlZOR4bxt2XnT6uo6csmPKRi+zQ0Jg==
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
