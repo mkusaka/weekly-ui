@@ -5768,10 +5768,10 @@ camelcase@^6.2.0:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-6.2.0.tgz#924af881c9d525ac9d87f40d964e5cea982a1809"
   integrity sha512-c7wVvbw3f37nuobQNtgsgG9POC9qMbNuMQmTCqZv23b6MIz0fcYpBiOlv9gEN/hdLdnZTDQhg6e9Dq5M1vKvfg==
 
-caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001125, caniuse-lite@^1.0.30001219, caniuse-lite@^1.0.30001243, caniuse-lite@^1.0.30001245:
-  version "1.0.30001245"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001245.tgz#45b941bbd833cb0fa53861ff2bae746b3c6ca5d4"
-  integrity sha512-768fM9j1PKXpOCKws6eTo3RHmvTUsG9UrpT4WoREFeZgJBTi4/X9g565azS/rVUGtqb8nt7FjLeF5u4kukERnA==
+caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001125, caniuse-lite@^1.0.30001219, caniuse-lite@^1.0.30001243, caniuse-lite@^1.0.30001246:
+  version "1.0.30001246"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001246.tgz#fe17d9919f87124d6bb416ef7b325356d69dc76c"
+  integrity sha512-Tc+ff0Co/nFNbLOrziBXmMVtpt9S2c2Y+Z9Nk9Khj09J+0zR9ejvIW5qkZAErCbOrVODCx/MN+GpB5FNBs5GFA==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -6826,10 +6826,10 @@ duplexify@^3.4.2, duplexify@^3.6.0:
     readable-stream "^2.0.0"
     stream-shift "^1.0.0"
 
-duplexify@^4.0.0, duplexify@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/duplexify/-/duplexify-4.1.1.tgz#7027dc374f157b122a8ae08c2d3ea4d2d953aa61"
-  integrity sha512-DY3xVEmVHTv1wSzKNbwoU6nVjzI369Y6sPoqfYr0/xlx3IdX2n94xIszTcjPO8W8ZIv0Wb0PXNcjuZyT4wiICA==
+duplexify@^4.0.0, duplexify@^4.1.1, duplexify@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/duplexify/-/duplexify-4.1.2.tgz#18b4f8d28289132fa0b9573c898d9f903f81c7b0"
+  integrity sha512-fz3OjcNCHmRP12MJoZMPglx8m4rrFP8rovnk4vT8Fs+aonZoCwGg10dSsQsfP/E62eZcPTMSMP6686fu9Qlqtw==
   dependencies:
     end-of-stream "^1.4.1"
     inherits "^2.0.3"
@@ -13543,10 +13543,10 @@ unified@9.2.0:
     trough "^1.0.0"
     vfile "^4.0.0"
 
-unified@^10.0.0:
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/unified/-/unified-10.0.0.tgz#e391bf4e8745422902fdbedcb59732647f5ee438"
-  integrity sha512-6d3q5HdD4GVTZU9S/9yNiziL8chISFxnZtW1lietmYfglJiPxa5oVWwkb8kA3S7A4Wqubju+uvcYjmDUASXFDw==
+unified@^10.0.1:
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/unified/-/unified-10.0.1.tgz#2c1ea2e9990307fa83edcd55eff4a12a542964ff"
+  integrity sha512-jaGLXHUAxokkOJAy4a+iE3EXpmrkOw7d21XKt+/hzmBb29J/4b1mQ4ZIbUFO/gsEiq7Sjrs5yWsGQrJHylj+YQ==
   dependencies:
     "@types/unist" "^2.0.0"
     bail "^2.0.0"
