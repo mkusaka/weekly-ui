@@ -4655,10 +4655,10 @@ ansi-to-html@^0.6.11:
   dependencies:
     entities "^2.0.0"
 
-ansi-to-html@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/ansi-to-html/-/ansi-to-html-0.7.0.tgz#bd048451a43b5c5abe03272f5e40aaede3a158e6"
-  integrity sha512-XYAN+0+3Bi+nmTQBq717bGToQVpzq2AoukAaDnQQvpmqIbedjsdSDuGD7+YLYOPBh7rjc7A6ko5cLLDp06QNjw==
+ansi-to-html@^0.7.1:
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/ansi-to-html/-/ansi-to-html-0.7.1.tgz#22411b5840c929a747b1bb6ced718fbba5154a14"
+  integrity sha512-PPpOy/TeLE6xERG5CNNpm1cLTIW1IeWULleeVc089paF45zfz5gzNPXeSQyxt1sUiKVIYZlY86AYx3fsMdIr5w==
   dependencies:
     entities "^2.2.0"
 
@@ -6848,10 +6848,10 @@ ejs@^3.1.6:
   dependencies:
     jake "^10.6.1"
 
-electron-to-chromium@^1.3.564, electron-to-chromium@^1.3.723, electron-to-chromium@^1.3.781:
-  version "1.3.781"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.781.tgz#aeb54595edc0ae56721ff6428ffeb4c885c09e57"
-  integrity sha512-l2adP72hnTZANALhjUDLm0zt1fY8Cm+kEU0Ikfy3sP/99BNsOGnnPf2nfCO/3fIL4LwmTcbQD+Ap2Deeuwe9yQ==
+electron-to-chromium@^1.3.564, electron-to-chromium@^1.3.723, electron-to-chromium@^1.3.782:
+  version "1.3.782"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.782.tgz#522740fe6b4b5255ca754c68d9c406a17b0998e2"
+  integrity sha512-6AI2se1NqWA1SBf/tlD6tQD/6ZOt+yAhqmrTlh4XZw4/g0Mt3p6JhTQPZxRPxPZiOg0o7ss1EBP/CpYejfnoIA==
 
 element-resize-detector@^1.2.2, element-resize-detector@^1.2.3:
   version "1.2.3"
