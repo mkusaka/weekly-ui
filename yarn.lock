@@ -3288,10 +3288,10 @@
   resolved "https://registry.yarnpkg.com/@types/nice-try/-/nice-try-2.1.0.tgz#6f044b4fd2a8a878154c77d5fca0a2f4aea8b774"
   integrity sha512-pJaR/8Ijp4SbMJfzNLc/BgvkfbYTIvDiaheb5yGrdF4AeqPPQJq2K/Gk2tL4WasRITUAWXSa6+MvB8yyjQQnlQ==
 
-"@types/node-fetch@^2.5.11", "@types/node-fetch@^2.5.7":
-  version "2.5.11"
-  resolved "https://registry.yarnpkg.com/@types/node-fetch/-/node-fetch-2.5.11.tgz#ce22a2e65fc8999f4dbdb7ddbbcf187d755169e4"
-  integrity sha512-2upCKaqVZETDRb8A2VTaRymqFBEgH8u6yr96b/u3+1uQEPDRo3mJLEiPk7vdXBHRtjwkjqzFYMJXrt0Z9QsYjQ==
+"@types/node-fetch@^2.5.12", "@types/node-fetch@^2.5.7":
+  version "2.5.12"
+  resolved "https://registry.yarnpkg.com/@types/node-fetch/-/node-fetch-2.5.12.tgz#8a6f779b1d4e60b7a57fb6fd48d84fb545b9cc66"
+  integrity sha512-MKgC4dlq4kKNa/mYrwpKfzQMB5X3ee5U6fSprkKpToBqBmX4nFZL9cW5jl6sWn+xpRJ7ypWh2yyqqr8UUCstSw==
   dependencies:
     "@types/node" "*"
     form-data "^3.0.0"

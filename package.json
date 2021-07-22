@@ -1012,7 +1012,7 @@
     "@types/ms": "^0.7.31",
     "@types/negotiator": "^0.6.1",
     "@types/nice-try": "^2.1.0",
-    "@types/node-fetch": "^2.5.11",
+    "@types/node-fetch": "^2.5.12",
     "@types/node-int64": "^0.4.29",
     "@types/normalize-path": "^3.0.0",
     "@types/npmlog": "^4.1.3",
