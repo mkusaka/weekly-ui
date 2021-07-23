@@ -1082,7 +1082,7 @@
     "@types/safer-buffer": "^2.1.0",
     "@types/sane": "^2.0.1",
     "@types/scheduler": "^0.16.2",
-    "@types/semver": "^7.3.7",
+    "@types/semver": "^7.3.8",
     "@types/send": "^0.17.1",
     "@types/serialize-javascript": "^5.0.1",
     "@types/serve-favicon": "^2.5.3",
