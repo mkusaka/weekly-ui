@@ -330,7 +330,7 @@
     "hast-to-hyperscript": "^10.0.1",
     "hast-util-from-parse5": "^7.1.0",
     "hast-util-parse-selector": "^3.1.0",
-    "hast-util-raw": "^7.0.0",
+    "hast-util-raw": "^7.1.0",
     "hast-util-to-parse5": "^7.0.0",
     "hastscript": "^7.0.1",
     "he": "^1.2.0",
