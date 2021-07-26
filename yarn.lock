@@ -9927,15 +9927,14 @@ mdast-util-to-hast@10.0.1:
     unist-util-position "^3.0.0"
     unist-util-visit "^2.0.0"
 
-mdast-util-to-hast@^11.1.1:
-  version "11.1.1"
-  resolved "https://registry.yarnpkg.com/mdast-util-to-hast/-/mdast-util-to-hast-11.1.1.tgz#91effb7944b9c274d76632764d1ba8514f3bced1"
-  integrity sha512-F6/H+OeYjlGYYgHN8iBYCB2rJaBwEDKbV9mNdqfvGenjP1pdUrZ6joSBHnXZ5CzLF8oE1tH9xf9rJIpZQOx4vg==
+mdast-util-to-hast@^11.2.0:
+  version "11.2.0"
+  resolved "https://registry.yarnpkg.com/mdast-util-to-hast/-/mdast-util-to-hast-11.2.0.tgz#54d76f1539be21a6559b2aa36e97bb07d2ab43ab"
+  integrity sha512-KSYbg4PA9wk5YwoCZCPxbUAjdYunNN5TqTXoZp/9taRDGQS65cL2fFgKc78l0f3deg4p1LP9xdhmMuUrhAUSZA==
   dependencies:
     "@types/hast" "^2.0.0"
     "@types/mdast" "^3.0.0"
     "@types/mdurl" "^1.0.0"
-    "@types/unist" "^2.0.0"
     mdast-util-definitions "^5.0.0"
     mdurl "^1.0.0"
     unist-builder "^3.0.0"
