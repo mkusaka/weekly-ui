@@ -472,7 +472,7 @@
     "miller-rabin": "^4.0.1",
     "mime": "^2.5.2",
     "mime-db": "^1.49.0",
-    "mime-types": "^2.1.31",
+    "mime-types": "^2.1.32",
     "mimic-fn": "^4.0.0",
     "min-document": "^2.19.0",
     "minimalistic-assert": "^1.0.1",
