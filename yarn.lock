@@ -14131,6 +14131,11 @@ webpack-sources@^2.3.1:
     source-list-map "^2.0.1"
     source-map "^0.6.1"
 
+webpack-sources@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-3.0.0.tgz#aa8fbdbc6beee44e4131c3c3fb90dcbccec01631"
+  integrity sha512-RGfE5xRC0HIUTj8flXbBJWONiKRndwZGcMX6WgD1VwdT9FJqARhxx1sdZvMiox0e28jAb4jIKLQxFSCVz/mD5A==
+
 webpack-virtual-modules@^0.2.2:
   version "0.2.2"
   resolved "https://registry.yarnpkg.com/webpack-virtual-modules/-/webpack-virtual-modules-0.2.2.tgz#20863dc3cb6bb2104729fff951fbe14b18bd0299"
