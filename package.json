@@ -884,7 +884,7 @@
     "@types/convert-source-map": "^1.5.2",
     "@types/cookie": "^0.4.1",
     "@types/cookie-signature": "^1.0.3",
-    "@types/core-js": "^2.5.4",
+    "@types/core-js": "^2.5.5",
     "@types/create-hash": "^1.2.2",
     "@types/create-hmac": "^1.1.0",
     "@types/cross-spawn": "^6.0.2",
