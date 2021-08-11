@@ -715,7 +715,7 @@
     "supports-color": "^9.0.2",
     "symbol.prototype.description": "^1.0.4",
     "tapable": "^2.2.0",
-    "tar": "^6.1.7",
+    "tar": "^6.1.8",
     "telejson": "^5.3.3",
     "term-size": "^2.2.1",
     "terser": "^5.7.1",
