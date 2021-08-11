@@ -369,7 +369,7 @@
     "invariant": "^2.2.4",
     "ip": "^1.1.5",
     "ipaddr.js": "^2.0.1",
-    "is-absolute-url": "^4.0.0",
+    "is-absolute-url": "^4.0.1",
     "is-accessor-descriptor": "^3.0.1",
     "is-alphabetical": "^2.0.0",
     "is-alphanumerical": "^2.0.0",
