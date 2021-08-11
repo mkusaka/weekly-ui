@@ -8787,10 +8787,15 @@ ipaddr.js@^2.0.1:
   resolved "https://registry.yarnpkg.com/ipaddr.js/-/ipaddr.js-2.0.1.tgz#eca256a7a877e917aeb368b0a7497ddf42ef81c0"
   integrity sha512-1qTgH9NG+IIJ4yfKs2e6Pp1bZg8wbDbKHT21HrLIeYBTRLgMYKnMTPAuI3Lcs61nfx5h1xlXnbJtH1kX5/d/ng==
 
-is-absolute-url@^3.0.0, is-absolute-url@^3.0.3:
+is-absolute-url@^3.0.0:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/is-absolute-url/-/is-absolute-url-3.0.3.tgz#96c6a22b6a23929b11ea0afb1836c36ad4a5d698"
   integrity sha512-opmNIX7uFnS96NtPmhWQgQx6/NYFgsUXYMllcfzwWKUMwfo8kku1TvE6hkNcH+Q1ts5cMVrsY7j0bxXQDciu9Q==
+
+is-absolute-url@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/is-absolute-url/-/is-absolute-url-4.0.0.tgz#0b889189f6c0bcf705bf2c6ad784addef6d3c2ca"
+  integrity sha512-6+2Kd9oMEx6d7XvVwbbHwn+HmddHeFEoDhWHnjMUFsMsghKwd4Imk6P6FJB2oAzOl6NGcNCx3zyenG6JVtPwnw==
 
 is-accessor-descriptor@^0.1.6:
   version "0.1.6"
