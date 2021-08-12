@@ -547,7 +547,7 @@
     "pascalcase": "^1.0.0",
     "path-browserify": "^1.0.1",
     "path-dirname": "^1.0.2",
-    "path-exists": "^4.0.0",
+    "path-exists": "^5.0.0",
     "path-is-absolute": "^2.0.0",
     "path-key": "^4.0.0",
     "path-parse": "^1.0.7",
