@@ -674,7 +674,7 @@
     "sha.js": "^2.4.11",
     "shallowequal": "^1.1.0",
     "shebang-command": "^2.0.0",
-    "shebang-regex": "^3.0.0",
+    "shebang-regex": "^4.0.0",
     "shell-quote": "^1.7.2",
     "shelljs": "^0.8.4",
     "side-channel": "^1.0.4",
