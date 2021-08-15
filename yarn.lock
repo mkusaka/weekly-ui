@@ -9796,10 +9796,10 @@ lowlight@^1.14.0, lowlight@^1.17.0:
     fault "^1.0.0"
     highlight.js "~10.7.0"
 
-lowlight@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/lowlight/-/lowlight-2.2.0.tgz#0fd5d3fe9a070afe1f2d60e0383742dc1ff7a84f"
-  integrity sha512-Rtgjv7dEmcvBU7IXvq6D5CgHUZZmrNJNsdAeNWUZB694nAaGJ+POzHAukfT+mHSAc6h8n8uAnw6EtTqtKpJ9vQ==
+lowlight@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/lowlight/-/lowlight-2.2.1.tgz#4cf69c29d7bd8450fb2d0e9e33858e38589cf956"
+  integrity sha512-KDl2wTuCDk1+aJx/gfi4FPAxRNZ4fDa1zHQ0zpSjEf6qxmBD+1Pk6KriHikaQBshbS9gMIkZ/XCDT6IKAEKDsg==
   dependencies:
     "@types/hast" "^2.0.0"
     fault "^2.0.0"
