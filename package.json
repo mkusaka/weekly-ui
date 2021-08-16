@@ -1001,7 +1001,7 @@
     "@types/micromatch": "^4.0.2",
     "@types/mime": "^2.0.3",
     "@types/mime-db": "^1.43.1",
-    "@types/mime-types": "^2.1.0",
+    "@types/mime-types": "^2.1.1",
     "@types/min-document": "^2.19.0",
     "@types/minimalistic-assert": "^1.0.1",
     "@types/minimatch": "^3.0.5",
