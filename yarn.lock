@@ -2551,10 +2551,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/ejs@^3.0.7":
-  version "3.0.7"
-  resolved "https://registry.yarnpkg.com/@types/ejs/-/ejs-3.0.7.tgz#4f2af032f65c54e2bc0b32abce0125af7923b143"
-  integrity sha512-AUxAGNIPr7wQmzdFMNhHy/RkR5kk8gSzAZIuCYY//6ZYJKHvnjezmoEYP34coPleUPnqrUWt03cCq7NzNaA/qg==
+"@types/ejs@^3.1.0":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@types/ejs/-/ejs-3.1.0.tgz#ab8109208106b5e764e5a6c92b2ba1c625b73020"
+  integrity sha512-DCg+Ka+uDQ31lJ/UtEXVlaeV3d6t81gifaVWKJy4MYVVgvJttyX/viREy+If7fz+tK/gVxTGMtyrFPnm4gjrVA==
 
 "@types/element-resize-detector@^1.1.3":
   version "1.1.3"
@@ -3054,10 +3054,10 @@
   dependencies:
     "@types/node" "4.0.27-alpha"
 
-"@types/js-string-escape@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@types/js-string-escape/-/js-string-escape-1.0.0.tgz#96738a64ea912f7d4b87ee097231d68fd1813332"
-  integrity sha512-UANTN9S09hivqbeR4unjVS7DrtgjYUFNK4UCmHGPuwMrHyMFeU3z9KMg0wja/fTflXo7fVl0BsAohlgRO4QowQ==
+"@types/js-string-escape@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@types/js-string-escape/-/js-string-escape-1.0.1.tgz#662b8795ac2842981f6c46dc2289c0a81940f605"
+  integrity sha512-s3Tz/P+u4X78n0TdgNR0l9Yu1jyH2dRwofi/DqGLpbbjiuIs0n6W8W4XfUI6+9K0lPK1fF4KHA5HcqtOsy1V0Q==
 
 "@types/js-yaml@^4.0.2":
   version "4.0.2"
