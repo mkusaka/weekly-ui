@@ -717,7 +717,7 @@
     "tapable": "^2.2.0",
     "tar": "^6.1.8",
     "telejson": "^5.3.3",
-    "term-size": "^2.2.1",
+    "term-size": "^3.0.0",
     "terser": "^5.7.1",
     "terser-webpack-plugin": "^5.1.4",
     "test-exclude": "^6.0.0",
