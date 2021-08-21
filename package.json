@@ -46,7 +46,7 @@
     "asynckit": "^0.4.0",
     "at-least-node": "^1.0.0",
     "atob": "^2.1.2",
-    "autoprefixer": "^10.3.1",
+    "autoprefixer": "^10.3.2",
     "babel-code-frame": "^6.26.0",
     "babel-helper-evaluate-path": "^0.5.0",
     "babel-helper-flip-expressions": "^0.4.3",
