@@ -8354,14 +8354,13 @@ hast-util-raw@6.0.1:
     xtend "^4.0.0"
     zwitch "^1.0.0"
 
-hast-util-raw@^7.1.1:
-  version "7.1.1"
-  resolved "https://registry.yarnpkg.com/hast-util-raw/-/hast-util-raw-7.1.1.tgz#0ba791c61248cffbc9fb37a1086193de6af73e5b"
-  integrity sha512-/y2HHAtmJGgYMNdeAkGs97YLrZd3TPqine7OuCwomIoWu0w0WPrQ2nzAxRcgtvSWXlUyW+xeWbK/fSdJhotl9A==
+hast-util-raw@^7.2.0:
+  version "7.2.0"
+  resolved "https://registry.yarnpkg.com/hast-util-raw/-/hast-util-raw-7.2.0.tgz#279fe5bc154f1c0b956f656781fa9ae1fdac7c70"
+  integrity sha512-K2ofsY59XqrtBNUAkvT2vPdyNPUchjj1Z0FxUOwBadS6R5h9O3LaRZqpukQ+YfgQ/IMy9GGMB/Nlpzpu+cuuMA==
   dependencies:
     "@types/hast" "^2.0.0"
     "@types/parse5" "^6.0.0"
-    "@types/unist" "^2.0.3"
     hast-util-from-parse5 "^7.0.0"
     hast-util-to-parse5 "^7.0.0"
     html-void-elements "^2.0.0"
@@ -12250,10 +12249,10 @@ remark-footnotes@2.0.0:
   resolved "https://registry.yarnpkg.com/remark-footnotes/-/remark-footnotes-2.0.0.tgz#9001c4c2ffebba55695d2dd80ffb8b82f7e6303f"
   integrity sha512-3Clt8ZMH75Ayjp9q4CorNeyjwIxHFcTkaektplKGl2A1jNGEUey8cKL0ZC5vJwfcD5GFGsNLImLG/NGzWIzoMQ==
 
-remark-footnotes@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/remark-footnotes/-/remark-footnotes-4.0.0.tgz#16deec1b6215fa97ec3550c20a7652431001baa9"
-  integrity sha512-8RqYK50eGX7h+ZnwQkEU+GcE8vBMWqzeaE/KcpQnmkij9kGuBCaV5xwoxrk/8TRTzpJfY9Ug1fSb7YQfSL4xHA==
+remark-footnotes@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/remark-footnotes/-/remark-footnotes-4.0.1.tgz#17d3c87ddc240924e8b4590b34a3d79aa8ede50c"
+  integrity sha512-He6YzQFk/Wu2KgfjI80EyPXjt/G+WFaYfUH+xapqPQBdm3aTdEyzosXXv9a2FbTxGqgOfJ4q/TCB46v+wofRpQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     mdast-util-footnote "^1.0.0"
