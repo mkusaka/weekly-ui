@@ -6647,12 +6647,10 @@ detab@2.0.4:
   dependencies:
     repeat-string "^1.5.4"
 
-detab@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/detab/-/detab-3.0.0.tgz#6f55dd99a3a71f240f5687982afa2cf2c6777b50"
-  integrity sha512-8czHjLdGPRgMLtV1Wb+LcuxcEDdA0wz3uKFVxgtAIAvRob96BHT1ietft23B3+GsOtbA73QkPLkBjwoZ+Hf41A==
-  dependencies:
-    repeat-string "^1.6.0"
+detab@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/detab/-/detab-3.0.1.tgz#2f1874ccee75b96858cb5efa30d41212a8657baf"
+  integrity sha512-T8gDOoz58xXMsXKLJkKxkyUTRkEpwOBL9w5nFFDJsD/XiFkajkBc2Yz99a/0kW7DGIYq/B1+oqqqru+fZetSvg==
 
 detect-port-alt@1.1.6, detect-port-alt@^1.1.6:
   version "1.1.6"
@@ -12362,7 +12360,7 @@ repeat-element@^1.1.2, repeat-element@^1.1.4:
   resolved "https://registry.yarnpkg.com/repeat-element/-/repeat-element-1.1.4.tgz#be681520847ab58c7568ac75fbfad28ed42d39e9"
   integrity sha512-LFiNfRcSu7KK3evMyYOuCzv3L10TW7yC1G2/+StMjK8Y6Vqd2MG7r/Qjw4ghtuCOjFvlnms/iMmLqpvW/ES/WQ==
 
-repeat-string@^1.5.4, repeat-string@^1.6.0, repeat-string@^1.6.1:
+repeat-string@^1.5.4, repeat-string@^1.6.1:
   version "1.6.1"
   resolved "https://registry.yarnpkg.com/repeat-string/-/repeat-string-1.6.1.tgz#8dcae470e1c88abc2d600fff4a776286da75e637"
   integrity sha1-jcrkcOHIirwtYA//Sndihtp15jc=
@@ -13766,10 +13764,10 @@ type-fest@^1.0.2:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-1.4.0.tgz#e9fb813fe3bf1744ec359d55d1affefa76f14be1"
   integrity sha512-yGSza74xk0UG8k+pLh5oeoYirvIiWo5t0/o3zHHAO2tRDiZcxWP7fywNlXhqb6/r6sWvwi+RsyQMWhVLe4BVuA==
 
-type-fest@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-2.0.0.tgz#e9daf5615e89f6d430f34117f88f4ee2cd5a2725"
-  integrity sha512-BoEUnckjP9oiudy3KxlGdudtBAdJQ74Wp7dYwVPkUzBn+cVHOsBXh2zD2jLyqgbuJ1KMNriczZCI7lTBA94dFg==
+type-fest@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-2.1.0.tgz#1f8b20ff51519f3b01b3188d50dea9f9ebfbf1b8"
+  integrity sha512-2wHUmKDy5wNLmebekbHx/zE9ElYAKOmz34psTLG7OwyEJHaIUr6jnaCd55EvgrawAvliwbwgbyH1LkxIfWFyNg==
 
 type-is@^1.6.18, type-is@~1.6.17, type-is@~1.6.18:
   version "1.6.18"
