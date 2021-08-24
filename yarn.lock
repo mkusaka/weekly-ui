@@ -2869,19 +2869,10 @@
   resolved "https://registry.yarnpkg.com/@types/http-errors/-/http-errors-1.8.1.tgz#e81ad28a60bee0328c6d2384e029aec626f1ae67"
   integrity sha512-e+2rjEwK6KDaNOm5Aa9wNGgyS9oSZU/4pfSMMPYNOfjvFI0WVXm29+ITRFr6aKDvvKo7uU1jV68MW4ScsfDi7Q==
 
-"@types/http-proxy-middleware@*":
-  version "0.19.3"
-  resolved "https://registry.yarnpkg.com/@types/http-proxy-middleware/-/http-proxy-middleware-0.19.3.tgz#b2eb96fbc0f9ac7250b5d9c4c53aade049497d03"
-  integrity sha512-lnBTx6HCOUeIJMLbI/LaL5EmdKLhczJY5oeXZpX/cXE4rRqb3RmV7VcMpiEfYkmTjipv3h7IAyIINe4plEv7cA==
-  dependencies:
-    "@types/connect" "*"
-    "@types/http-proxy" "*"
-    "@types/node" "*"
-
-"@types/http-proxy@*":
-  version "1.17.4"
-  resolved "https://registry.yarnpkg.com/@types/http-proxy/-/http-proxy-1.17.4.tgz#e7c92e3dbe3e13aa799440ff42e6d3a17a9d045b"
-  integrity sha512-IrSHl2u6AWXduUaDLqYpt45tLVCtYv7o4Z0s1KghBCDgIIS9oW5K1H8mZG/A2CfeLdEa7rTd1ACOiHBc1EMT2Q==
+"@types/http-proxy@^1.17.5":
+  version "1.17.7"
+  resolved "https://registry.yarnpkg.com/@types/http-proxy/-/http-proxy-1.17.7.tgz#30ea85cc2c868368352a37f0d0d3581e24834c6f"
+  integrity sha512-9hdj6iXH64tHSLTY+Vt2eYOGzSogC+JQ2H7bdPWkuh7KXP5qLllWx++t+K9Wk556c3dkDdPws/SpMRi0sdCT1w==
   dependencies:
     "@types/node" "*"
 
@@ -3587,16 +3578,16 @@
     "@types/react" "*"
     "@types/reactcss" "*"
 
-"@types/react-dev-utils@^9.0.7":
-  version "9.0.7"
-  resolved "https://registry.yarnpkg.com/@types/react-dev-utils/-/react-dev-utils-9.0.7.tgz#ebe054a9841297ba547a64ed5afbc163e30b4958"
-  integrity sha512-wylXXRiOHcVC3DasKc6mXQxwLFNzeRTc92NWPTnBvplLjvpd8KjBqijjqXEeOrbvjJUxhXmkX9UJk2+oZvi9Cg==
+"@types/react-dev-utils@^9.0.8":
+  version "9.0.8"
+  resolved "https://registry.yarnpkg.com/@types/react-dev-utils/-/react-dev-utils-9.0.8.tgz#7e4d63d1e1c71cd236c9055bc0c0dbaa3772bcf9"
+  integrity sha512-H/R8BvtCf9BUWPLL9a2agUWWBOKQQPkBIe5osdrgGaDJHZggQRiNN3emH16rQkzm5zi6TVuslOFrYrfMx+QTjw==
   dependencies:
     "@types/eslint" "*"
     "@types/express" "*"
     "@types/html-webpack-plugin" "*"
     "@types/webpack" "^4"
-    "@types/webpack-dev-server" "*"
+    "@types/webpack-dev-server" "^3"
 
 "@types/react-dom@^17.0.9":
   version "17.0.9"
@@ -4051,16 +4042,16 @@
     tapable "^2.1.1"
     webpack "^5.38.1"
 
-"@types/webpack-dev-server@*":
-  version "3.11.0"
-  resolved "https://registry.yarnpkg.com/@types/webpack-dev-server/-/webpack-dev-server-3.11.0.tgz#bcc3b85e7dc6ac2db25330610513f2228c2fcfb2"
-  integrity sha512-3+86AgSzl18n5P1iUP9/lz3G3GMztCp+wxdDvVuNhx1sr1jE79GpYfKHL8k+Vht3N74K2n98CuAEw4YPJCYtDA==
+"@types/webpack-dev-server@^3":
+  version "3.11.6"
+  resolved "https://registry.yarnpkg.com/@types/webpack-dev-server/-/webpack-dev-server-3.11.6.tgz#d8888cfd2f0630203e13d3ed7833a4d11b8a34dc"
+  integrity sha512-XCph0RiiqFGetukCTC3KVnY1jwLcZ84illFRMbyFzCcWl90B/76ew0tSqF46oBhnLC4obNDG7dMO0JfTN0MgMQ==
   dependencies:
     "@types/connect-history-api-fallback" "*"
     "@types/express" "*"
-    "@types/http-proxy-middleware" "*"
     "@types/serve-static" "*"
-    "@types/webpack" "*"
+    "@types/webpack" "^4"
+    http-proxy-middleware "^1.0.0"
 
 "@types/webpack-env@^1.16.0":
   version "1.16.0"
@@ -7169,6 +7160,11 @@ etag@^1.8.1, etag@~1.8.1:
   resolved "https://registry.yarnpkg.com/etag/-/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
   integrity sha1-Qa4u62XvpiJorr/qg6x9eSmbCIc=
 
+eventemitter3@^4.0.0:
+  version "4.0.7"
+  resolved "https://registry.yarnpkg.com/eventemitter3/-/eventemitter3-4.0.7.tgz#2de9b68f6528d5644ef5c59526a1b4a07306169f"
+  integrity sha512-8guHBZCwKnFhYdHr2ysuRWErTwhoN2X8XELRlrRwpmfeY2jjuUN4taQMsULKUVo1K4DvZl+0pgfyoysHxvmvEw==
+
 events@^3.0.0, events@^3.2.0, events@^3.3.0:
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/events/-/events-3.3.0.tgz#31a95ad0a924e2d2c419a813aeb2c4e878ea7400"
@@ -7616,6 +7612,11 @@ flush-write-stream@^2.0.0:
   dependencies:
     inherits "^2.0.3"
     readable-stream "^3.1.1"
+
+follow-redirects@^1.0.0:
+  version "1.14.2"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.2.tgz#cecb825047c00f5e66b142f90fed4f515dec789b"
+  integrity sha512-yLR6WaE2lbF0x4K2qE2p9PEXKLDjUjnR/xmjS3wHAYxtlsI9MLLBJUZirAHKzUZDGLxje7w/cXR49WOUo4rbsA==
 
 for-each@^0.3.3:
   version "0.3.3"
@@ -8582,6 +8583,26 @@ http-errors@^1.8.0:
     statuses ">= 1.5.0 < 2"
     toidentifier "1.0.0"
 
+http-proxy-middleware@^1.0.0:
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/http-proxy-middleware/-/http-proxy-middleware-1.3.1.tgz#43700d6d9eecb7419bf086a128d0f7205d9eb665"
+  integrity sha512-13eVVDYS4z79w7f1+NPllJtOQFx/FdUW4btIvVRMaRlUY9VGstAbo5MOhLEuUgZFRHn3x50ufn25zkj/boZnEg==
+  dependencies:
+    "@types/http-proxy" "^1.17.5"
+    http-proxy "^1.18.1"
+    is-glob "^4.0.1"
+    is-plain-obj "^3.0.0"
+    micromatch "^4.0.2"
+
+http-proxy@^1.18.1:
+  version "1.18.1"
+  resolved "https://registry.yarnpkg.com/http-proxy/-/http-proxy-1.18.1.tgz#401541f0534884bbf95260334e72f88ee3976549"
+  integrity sha512-7mz/721AbnJwIVbnaSv1Cz3Am0ZLT/UBwkC92VlxhXv/k/BBQfM2fXElQNC27BVGr0uwUpplYPQM9LnaBMR5NQ==
+  dependencies:
+    eventemitter3 "^4.0.0"
+    follow-redirects "^1.0.0"
+    requires-port "^1.0.0"
+
 https-browserify@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
@@ -9156,6 +9177,11 @@ is-plain-obj@^2.0.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/is-plain-obj/-/is-plain-obj-2.1.0.tgz#45e42e37fccf1f40da8e5f76ee21515840c09287"
   integrity sha512-YWnfyRwxL/+SsrWYfOpUtz5b3YD+nyfkHvjbcanzk8zgyO4ASD67uVMRt8k5bM4lLMDnXfriRhOpemw+NfT1eA==
+
+is-plain-obj@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/is-plain-obj/-/is-plain-obj-3.0.0.tgz#af6f2ea14ac5a646183a5bbdb5baabbc156ad9d7"
+  integrity sha512-gwsOE28k+23GP1B6vFl1oVh/WOzmawBrKwo5Ev6wMKzPkaXaCDIQKzLnvsA42DRlbVTWorkgTKIviAKCWkfUwA==
 
 is-plain-obj@^4.0.0:
   version "4.0.0"
@@ -12381,6 +12407,11 @@ require-from-string@^2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/require-from-string/-/require-from-string-2.0.2.tgz#89a7fdd938261267318eafe14f9c32e598c36909"
   integrity sha512-Xf0nWe6RseziFMu+Ap9biiUbmplq6S9/p+7w7YXP/JBHhrUDDUhwa+vANyubuqfZWTveU//DYVGsDG7RKL/vEw==
+
+requires-port@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/requires-port/-/requires-port-1.0.0.tgz#925d2601d39ac485e091cf0da5c6e694dc3dcaff"
+  integrity sha1-kl0mAdOaxIXgkc8NpcbmlNw9yv8=
 
 resolve-from@^4.0.0:
   version "4.0.0"
