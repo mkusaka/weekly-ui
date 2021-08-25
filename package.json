@@ -530,7 +530,7 @@
     "overlayscrollbars": "^1.13.1",
     "p-finally": "^2.0.1",
     "p-limit": "^4.0.0",
-    "p-locate": "^5.0.0",
+    "p-locate": "^6.0.0",
     "p-map": "^5.1.0",
     "p-try": "^2.2.0",
     "pako": "^2.0.4",
