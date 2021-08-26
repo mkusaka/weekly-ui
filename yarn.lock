@@ -2119,10 +2119,10 @@
   resolved "https://registry.yarnpkg.com/@types/array.prototype.flatmap/-/array.prototype.flatmap-1.2.2.tgz#9041c2dc907d583ffb80b8882a782b42436d57c1"
   integrity sha512-dto5M/8GxPzjaScvQeft2IG0EkoZZfPg2+1noM2BWiU1VR2zsGHf76LonTOnLQKDuJlKDLzKaru4b+5Sci0Yhg==
 
-"@types/assert@^1.5.5":
-  version "1.5.5"
-  resolved "https://registry.yarnpkg.com/@types/assert/-/assert-1.5.5.tgz#b2f7b92c7228058a0f3deed962a521ce4539136b"
-  integrity sha512-myz5KWf6ox66Ou1m0KiLZpitk7W6Vly2LFRx7AXHSLeMUM6bmDIStIBk0xd7I2vXcAQEuhegdpjPuypmP5ui0Q==
+"@types/assert@^1.5.6":
+  version "1.5.6"
+  resolved "https://registry.yarnpkg.com/@types/assert/-/assert-1.5.6.tgz#a8b5a94ce5fb8f4ba65fdc37fc9507609114189e"
+  integrity sha512-Y7gDJiIqb9qKUHfBQYOWGngUpLORtirAVPuj/CWJrU2C6ZM4/y3XLwuwfGMF8s7QzW746LQZx23m0+1FSgjfug==
 
 "@types/async@^3.2.7":
   version "3.2.7"
@@ -2925,10 +2925,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/invariant@^2.2.34":
-  version "2.2.34"
-  resolved "https://registry.yarnpkg.com/@types/invariant/-/invariant-2.2.34.tgz#05e4f79f465c2007884374d4795452f995720bbe"
-  integrity sha512-lYUtmJ9BqUN688fGY1U1HZoWT1/Jrmgigx2loq4ZcJpICECm/Om3V314BxdzypO0u5PORKGMM6x0OXaljV1YFg==
+"@types/invariant@^2.2.35":
+  version "2.2.35"
+  resolved "https://registry.yarnpkg.com/@types/invariant/-/invariant-2.2.35.tgz#cd3ebf581a6557452735688d8daba6cf0bd5a3be"
+  integrity sha512-DxX1V9P8zdJPYQat1gHyY0xj3efl8gnMVjiM9iCY6y27lj+PoQWkgjt8jDqmovPqULkKVpKRg8J36iQiA+EtEg==
 
 "@types/ip@^1.1.0":
   version "1.1.0"
