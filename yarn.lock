@@ -7579,6 +7579,14 @@ find-up@^5.0.0:
     locate-path "^6.0.0"
     path-exists "^4.0.0"
 
+find-up@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/find-up/-/find-up-6.0.0.tgz#7e321c34ecfea17dfffc4d78017bb025b9dfff71"
+  integrity sha512-NU20P/qRR4fbjbfQgf5SL6L7AbQbUG69OmBJ3o+DEmHwSwKaaeZ+9ok/zuE5Z8pyFSGPerTen16gLZTs1v1zjQ==
+  dependencies:
+    locate-path "^7.0.0"
+    path-exists "^5.0.0"
+
 flat-cache@^3.0.4:
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/flat-cache/-/flat-cache-3.0.4.tgz#61b0338302b2fe9f957dcc32fc2a87f1c3048b11"
