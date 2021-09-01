@@ -7076,10 +7076,10 @@ es-to-primitive@^1.2.1:
     is-date-object "^1.0.1"
     is-symbol "^1.0.2"
 
-es5-shim@^4.5.13, es5-shim@^4.6.1:
-  version "4.6.1"
-  resolved "https://registry.yarnpkg.com/es5-shim/-/es5-shim-4.6.1.tgz#b5bd089b2c260c0d6e3613dbb5397d36a3d10ff3"
-  integrity sha512-nCQCqErA3XF7R0fEBPg0rR2Ln7yuxqiC+GDGPIA0p0I/OV/mgipwAkCq/dUzgsOhvByR9fSdugbFil2aRLPb8w==
+es5-shim@^4.5.13, es5-shim@^4.6.2:
+  version "4.6.2"
+  resolved "https://registry.yarnpkg.com/es5-shim/-/es5-shim-4.6.2.tgz#827cdd0c6fb5beb26fd368d65430e8b5eaeba942"
+  integrity sha512-n0XTVMGps+Deyr38jtqKPR5F5hb9owYeRQcKJW39eFvzUk/u/9Ww315werRzbiNMnHCUw/YHDPBphTlEnzdi+A==
 
 es6-object-assign@^1.1.0:
   version "1.1.0"
