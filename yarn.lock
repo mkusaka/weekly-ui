@@ -6880,10 +6880,10 @@ ejs@^3.1.6:
   dependencies:
     jake "^10.6.1"
 
-electron-to-chromium@^1.3.564, electron-to-chromium@^1.3.811, electron-to-chromium@^1.3.825:
-  version "1.3.825"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.825.tgz#5d361eeaaf591bb2ce06cfeff86354b429d662b8"
-  integrity sha512-BO3FfWVeH8GQ0DBbi4HCL09OPgvN+0goqWlgKOCmCXcnrlgL5GA69nb7ZyjpWgpFUacBftg8BrXU2WLOSuHAxQ==
+electron-to-chromium@^1.3.564, electron-to-chromium@^1.3.811, electron-to-chromium@^1.3.826:
+  version "1.3.826"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.826.tgz#dbe356b1546b39d83bcd47e675a9c5f61dadaed2"
+  integrity sha512-bpLc4QU4B8PYmdO4MSu2ZBTMD8lAaEXRS43C09lB31BvYwuk9UxgBRXbY5OJBw7VuMGcg2MZG5FyTaP9u4PQnw==
 
 element-resize-detector@^1.2.2, element-resize-detector@^1.2.3:
   version "1.2.3"
@@ -7076,10 +7076,10 @@ es-to-primitive@^1.2.1:
     is-date-object "^1.0.1"
     is-symbol "^1.0.2"
 
-es5-shim@^4.5.13, es5-shim@^4.5.15:
-  version "4.5.15"
-  resolved "https://registry.yarnpkg.com/es5-shim/-/es5-shim-4.5.15.tgz#6a26869b261854a3b045273f5583c52d390217fe"
-  integrity sha512-FYpuxEjMeDvU4rulKqFdukQyZSTpzhg4ScQHrAosrlVpR6GFyaw14f74yn2+4BugniIS0Frpg7TvwZocU4ZMTw==
+es5-shim@^4.5.13, es5-shim@^4.6.1:
+  version "4.6.1"
+  resolved "https://registry.yarnpkg.com/es5-shim/-/es5-shim-4.6.1.tgz#b5bd089b2c260c0d6e3613dbb5397d36a3d10ff3"
+  integrity sha512-nCQCqErA3XF7R0fEBPg0rR2Ln7yuxqiC+GDGPIA0p0I/OV/mgipwAkCq/dUzgsOhvByR9fSdugbFil2aRLPb8w==
 
 es6-object-assign@^1.1.0:
   version "1.1.0"
