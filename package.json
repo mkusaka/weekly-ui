@@ -124,7 +124,7 @@
     "camel-case": "^4.1.2",
     "camelcase": "^6.2.0",
     "camelcase-css": "^2.0.1",
-    "caniuse-lite": "^1.0.30001252",
+    "caniuse-lite": "^1.0.30001254",
     "capture-exit": "^2.0.0",
     "case-sensitive-paths-webpack-plugin": "^2.4.0",
     "ccount": "^2.0.0",
@@ -822,7 +822,7 @@
     "zwitch": "^2.0.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.15.4",
+    "@babel/core": "^7.15.5",
     "@storybook/addon-actions": "^6.3.8",
     "@storybook/addon-essentials": "^6.3.8",
     "@storybook/addon-links": "^6.3.8",
