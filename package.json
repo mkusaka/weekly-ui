@@ -729,7 +729,7 @@
     "tiny-emitter": "^2.1.0",
     "tinycolor2": "^1.4.2",
     "tmp": "^0.2.1",
-    "tmpl": "^1.0.4",
+    "tmpl": "^1.0.5",
     "to-arraybuffer": "^1.0.1",
     "to-fast-properties": "^4.0.0",
     "to-object-path": "^0.3.0",
