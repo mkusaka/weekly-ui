@@ -5811,10 +5811,10 @@ camelcase@^6.2.0:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-6.2.0.tgz#924af881c9d525ac9d87f40d964e5cea982a1809"
   integrity sha512-c7wVvbw3f37nuobQNtgsgG9POC9qMbNuMQmTCqZv23b6MIz0fcYpBiOlv9gEN/hdLdnZTDQhg6e9Dq5M1vKvfg==
 
-caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001125, caniuse-lite@^1.0.30001252, caniuse-lite@^1.0.30001254, caniuse-lite@^1.0.30001255:
-  version "1.0.30001255"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001255.tgz#f3b09b59ab52e39e751a569523618f47c4298ca0"
-  integrity sha512-F+A3N9jTZL882f/fg/WWVnKSu6IOo3ueLz4zwaOPbPYHNmM/ZaDUyzyJwS1mZhX7Ex5jqTyW599Gdelh5PDYLQ==
+caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001125, caniuse-lite@^1.0.30001252, caniuse-lite@^1.0.30001254, caniuse-lite@^1.0.30001256:
+  version "1.0.30001256"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001256.tgz#182410b5f024e0ab99c72ec648f234a9986bd548"
+  integrity sha512-QirrvMLmB4txNnxiaG/xbm6FSzv9LqOZ3Jp9VtCYb3oPIfCHpr/oGn38pFq0udwlkctvXQgPthaXqJ76DaYGnA==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -13879,10 +13879,10 @@ type-fest@^1.0.2:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-1.4.0.tgz#e9fb813fe3bf1744ec359d55d1affefa76f14be1"
   integrity sha512-yGSza74xk0UG8k+pLh5oeoYirvIiWo5t0/o3zHHAO2tRDiZcxWP7fywNlXhqb6/r6sWvwi+RsyQMWhVLe4BVuA==
 
-type-fest@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-2.3.1.tgz#80170f6f74929fef59251107d2e4175faf743a50"
-  integrity sha512-gaUs9+6d/aNSYsgC/aNnuporKL2Ic7ckfoNoaWAextvwr0K/QMq4fiEhhawensM7AysdmUZDRjcDgbFF7XQL2w==
+type-fest@^2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-2.3.2.tgz#bb91f7ff24788ed81e28463eb94e5a1306f5bab3"
+  integrity sha512-cfvZ1nOC/VqAt8bVOIlFz8x+HdDASpiFYrSi0U0nzcAFlOnzzQ/gsPg2PP1uqjreO7sQCtraYJHMduXSewQsSA==
 
 type-is@^1.6.18, type-is@~1.6.17, type-is@~1.6.18:
   version "1.6.18"
