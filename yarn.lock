@@ -6179,10 +6179,10 @@ commander@^6.2.1:
   resolved "https://registry.yarnpkg.com/commander/-/commander-6.2.1.tgz#0792eb682dfbc325999bb2b84fddddba110ac73c"
   integrity sha512-U7VdrJFnJgo4xjrHpTzu0yrHPGImdsmD95ZlgYSEajAn2JKzDhDTPG9kBTefmObL2w/ngeZnilk+OV9CG3d7UA==
 
-commander@^8.1.0:
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-8.1.0.tgz#db36e3e66edf24ff591d639862c6ab2c52664362"
-  integrity sha512-mf45ldcuHSYShkplHHGKWb4TrmwQadxOn7v4WuhDJy0ZVoY5JFajaRDKD0PNe5qXzBX0rhovjTnP6Kz9LETcuA==
+commander@^8.1.0, commander@^8.2.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-8.2.0.tgz#37fe2bde301d87d47a53adeff8b5915db1381ca8"
+  integrity sha512-LLKxDvHeL91/8MIyTAD5BFMNtoIwztGPMiM/7Bl8rIPmHCZXRxmSWr91h57dpOpnQ6jIUqEWdXE/uBYMfiVZDA==
 
 commondir@^1.0.1:
   version "1.0.1"
@@ -13879,10 +13879,10 @@ type-fest@^1.0.2:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-1.4.0.tgz#e9fb813fe3bf1744ec359d55d1affefa76f14be1"
   integrity sha512-yGSza74xk0UG8k+pLh5oeoYirvIiWo5t0/o3zHHAO2tRDiZcxWP7fywNlXhqb6/r6sWvwi+RsyQMWhVLe4BVuA==
 
-type-fest@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-2.2.0.tgz#046d9b65ab5083e691ac4c7c264b54207046a755"
-  integrity sha512-T/HWTs/P20wqgy3GoIDv80tAB3Xvgk2vpxnS1vF8oVboipjrSB1hP5f1gFhCVt5QuMvOsALSwBBd02J94P51lg==
+type-fest@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-2.3.1.tgz#80170f6f74929fef59251107d2e4175faf743a50"
+  integrity sha512-gaUs9+6d/aNSYsgC/aNnuporKL2Ic7ckfoNoaWAextvwr0K/QMq4fiEhhawensM7AysdmUZDRjcDgbFF7XQL2w==
 
 type-is@^1.6.18, type-is@~1.6.17, type-is@~1.6.18:
   version "1.6.18"
@@ -14586,10 +14586,10 @@ webpack@4:
     watchpack "^1.7.4"
     webpack-sources "^1.4.1"
 
-webpack@^5, webpack@^5.1.0, webpack@^5.38.1, webpack@^5.52.0:
-  version "5.52.0"
-  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.52.0.tgz#88d997c2c3ebb62abcaa453d2a26e0fd917c71a3"
-  integrity sha512-yRZOat8jWGwBwHpco3uKQhVU7HYaNunZiJ4AkAVQkPCUGoZk/tiIXiwG+8HIy/F+qsiZvSOa+GLQOj3q5RKRYg==
+webpack@^5, webpack@^5.1.0, webpack@^5.38.1, webpack@^5.52.1:
+  version "5.52.1"
+  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.52.1.tgz#2dc1d9029ecb7acfb80da7bf67baab67baa517a7"
+  integrity sha512-wkGb0hLfrS7ML3n2xIKfUIwHbjB6gxwQHyLmVHoAqEQBw+nWo+G6LoHL098FEXqahqximsntjBLuewStrnJk0g==
   dependencies:
     "@types/eslint-scope" "^3.7.0"
     "@types/estree" "^0.0.50"
