@@ -413,7 +413,7 @@
     "isexe": "^2.0.0",
     "isobject": "^4.0.0",
     "istanbul-lib-coverage": "^3.0.0",
-    "istanbul-lib-instrument": "^4.0.3",
+    "istanbul-lib-instrument": "^5.0.2",
     "iterate-iterator": "^1.0.1",
     "iterate-value": "^1.0.2",
     "jake": "^10.8.2",
