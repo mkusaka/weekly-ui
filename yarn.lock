@@ -6147,10 +6147,10 @@ colorette@^1.2.1, colorette@^1.2.2:
   resolved "https://registry.yarnpkg.com/colorette/-/colorette-1.4.0.tgz#5190fbb87276259a86ad700bff2c6d6faa3fca40"
   integrity sha512-Y2oEozpomLn7Q3HFP7dpww7AtMJplbM9lGZP6RDfHqmbeRjiwRg4n6VM6j4KLmRke85uWEI7JqF17f3pqdRA0g==
 
-colorette@^2.0.5:
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/colorette/-/colorette-2.0.5.tgz#e9257d0a938e2340d3d4942bde308b1016721c84"
-  integrity sha512-rPmg56Y2iDrBBoQN9A8TwkXpIKtk0dWo2PZvIK1AcY6SLdIbgg0mtLm+o0MQFHZhiMQ6cVgL+wkTEO9XPPM4Wg==
+colorette@^2.0.7:
+  version "2.0.7"
+  resolved "https://registry.yarnpkg.com/colorette/-/colorette-2.0.7.tgz#0173393a8f1045c3b66fc8201036ef38ed0d1e7e"
+  integrity sha512-wSXeeDPxoi5xKvjvOGxyYlyqB3J+tbowaSsFm1rEsDsDE942aTLftbOE3XMqf3XaYC7QUtcd/3qadNAIEIsAYw==
 
 colors@^1.1.2, colors@^1.4.0:
   version "1.4.0"
@@ -12280,10 +12280,10 @@ refractor@^3.1.0, refractor@^3.2.0:
     parse-entities "^2.0.0"
     prismjs "~1.23.0"
 
-refractor@^4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/refractor/-/refractor-4.2.0.tgz#59e12002776d4fbc873045e21f485715383085d8"
-  integrity sha512-buRZLI62WEbuLqFizFo/yhc9X9MT7GwKp6fWUtM0cL42aFgkIDB63WmoVTjaVNbDyPGwDEP0XL9+jS0U8RtoQw==
+refractor@^4.2.1:
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/refractor/-/refractor-4.2.1.tgz#3ea2810b0090d2ef95b101f0cd9c07769c8f553f"
+  integrity sha512-UhtiILJUJiKquZZPtPokJZAKu2a35cT6gPBXyv2FJj+3T+AC8fyUzVUvA0lyiiYNl9m2ShCW/SSDC9us/FsuvQ==
   dependencies:
     "@types/hast" "^2.0.0"
     "@types/prismjs" "^1.0.0"
