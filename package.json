@@ -294,7 +294,7 @@
     "fs-write-stream-atomic": "^1.0.10",
     "fs.realpath": "^1.0.0",
     "function-bind": "^1.1.1",
-    "function.prototype.name": "^1.1.4",
+    "function.prototype.name": "^1.1.5",
     "functions-have-names": "^1.2.2",
     "fuse.js": "^6.4.6",
     "gauge": "^3.0.1",
