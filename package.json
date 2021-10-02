@@ -557,7 +557,7 @@
     "picomatch": "^2.3.0",
     "pify": "^5.0.0",
     "pirates": "^4.0.1",
-    "pkg-dir": "^5.0.0",
+    "pkg-dir": "^6.0.0",
     "pkg-up": "^3.1.0",
     "pnp-webpack-plugin": "^1.7.0",
     "polished": "^4.1.3",
