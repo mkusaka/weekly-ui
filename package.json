@@ -500,7 +500,7 @@
     "node-int64": "^0.4.0",
     "node-libs-browser": "^2.2.1",
     "node-modules-regexp": "^1.0.0",
-    "node-releases": "^1.1.76",
+    "node-releases": "^1.1.77",
     "normalize-path": "^3.0.0",
     "normalize-range": "^0.1.2",
     "npm-run-path": "^4.0.1",
