@@ -532,7 +532,7 @@
     "p-limit": "^4.0.0",
     "p-locate": "^6.0.0",
     "p-map": "^5.1.0",
-    "p-try": "^2.2.0",
+    "p-try": "^3.0.0",
     "pako": "^2.0.4",
     "parallel-transform": "^1.2.0",
     "param-case": "^3.0.4",
