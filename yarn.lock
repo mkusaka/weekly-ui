@@ -5770,6 +5770,13 @@ caller-callsite@^4.1.0:
   dependencies:
     callsites "^3.1.0"
 
+caller-callsite@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/caller-callsite/-/caller-callsite-5.0.0.tgz#e95f38263a0aa0c74ed339bc417ef5281647bdd5"
+  integrity sha512-l3+xZHsuNlFjchy1nl1kpQwi7PhKHgtQ7MOx5ijHwlouAjnwRNjq3AlxH8SGuWiF5XAhb/mSH+c90LIDFjJKtA==
+  dependencies:
+    callsites "^4.0.0"
+
 caller-path@^3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/caller-path/-/caller-path-3.0.1.tgz#bc932ecec3f943e10c2f8922146e23b132f932e4"
