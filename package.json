@@ -279,7 +279,7 @@
     "finalhandler": "^1.1.2",
     "find-cache-dir": "^3.3.2",
     "find-root": "^1.1.0",
-    "find-up": "^6.1.0",
+    "find-up": "^6.2.0",
     "flush-write-stream": "^2.0.0",
     "for-in": "^1.0.2",
     "fork-ts-checker-webpack-plugin": "^6.3.4",
