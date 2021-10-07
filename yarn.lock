@@ -4146,10 +4146,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/xtend@^4.0.3":
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/@types/xtend/-/xtend-4.0.3.tgz#51515d40ecbb1121f89fdbd733f735d0a04f47a7"
-  integrity sha512-oM0rfS5+IDDHYaJPtO6ULb6xkoY/m010LQDKHXIxjAfMQrDqVozn+/MI7R8yUBf0UNvYnpFP8FbJoUcfTFa8HQ==
+"@types/xtend@^4.0.4":
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/@types/xtend/-/xtend-4.0.4.tgz#9925747903b4d23063a785f8656e7ee7cec83131"
+  integrity sha512-e4KBNjOgQbAbC7uM1e3x16xo4hQqRv8iCHrD1vLT+mxxHsQ5338AF98dd4SD+E0xihlXtvcd2KWz0Vt6J5sA4g==
 
 "@types/y18n@^4.0.0":
   version "4.0.0"
