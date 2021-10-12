@@ -5473,18 +5473,18 @@ boxen@^4.2.0:
     type-fest "^0.8.1"
     widest-line "^3.1.0"
 
-boxen@^6.2.0:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/boxen/-/boxen-6.2.0.tgz#965e80a7fcb38797d713451440ccb78853a886f8"
-  integrity sha512-RgnYHtLIlz3VcoShtCMgcgDg5ZTW4wUhDYyQ8C1ovvfxZfbtCvb/X0wcoH/GTiC1XHDEGgJKMF0uQI3hzeanWw==
+boxen@^6.2.1:
+  version "6.2.1"
+  resolved "https://registry.yarnpkg.com/boxen/-/boxen-6.2.1.tgz#b098a2278b2cd2845deef2dff2efc38d329b434d"
+  integrity sha512-H4PEsJXfFI/Pt8sjDWbHlQPx4zL/bvSQjcilJmaulGt5mLDorHOHpmdXAJcBcmru7PhYSp/cDMWRko4ZUMFkSw==
   dependencies:
     ansi-align "^3.0.1"
     camelcase "^6.2.0"
     chalk "^4.1.2"
     cli-boxes "^3.0.0"
     string-width "^5.0.1"
-    type-fest "^2.3.4"
-    widest-line "^4.0.0"
+    type-fest "^2.5.0"
+    widest-line "^4.0.1"
     wrap-ansi "^8.0.1"
 
 brace-expansion@^1.1.7:
@@ -13355,7 +13355,7 @@ string-width@^4.0.0, string-width@^4.1.0, string-width@^4.2.0:
     is-fullwidth-code-point "^3.0.0"
     strip-ansi "^6.0.0"
 
-string-width@^5.0.0, string-width@^5.0.1:
+string-width@^5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-5.0.1.tgz#0d8158335a6cfd8eb95da9b6b262ce314a036ffd"
   integrity sha512-5ohWO/M4//8lErlUUtrFy3b11GtNOuMOU0ysKCDXFcfXuuvUXu95akgj/i8ofmaGdN0hCqyl6uu9i8dS/mQp5g==
@@ -13925,10 +13925,10 @@ type-fest@^1.0.2:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-1.4.0.tgz#e9fb813fe3bf1744ec359d55d1affefa76f14be1"
   integrity sha512-yGSza74xk0UG8k+pLh5oeoYirvIiWo5t0/o3zHHAO2tRDiZcxWP7fywNlXhqb6/r6sWvwi+RsyQMWhVLe4BVuA==
 
-type-fest@^2.3.4:
-  version "2.3.4"
-  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-2.3.4.tgz#59bd28c5715a7ea39f8fb0d7e424355ae231a24e"
-  integrity sha512-2UdQc7cx8F4Ky81Xj7NYQKPhZVtDFbtorrkairIW66rW7xQj5msAhioXa04HqEdP4MD4K2G6QAF7Zyiw/Hju1Q==
+type-fest@^2.5.0:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-2.5.0.tgz#e5d0ef818d565e8fc442414194a4ac3afc4c42a7"
+  integrity sha512-wB5vE+XXZ2g2mDRo18yZMae1joUhquomLTm+BkxeuRHnwmrNWzVPNrFah9z7pjsKNiVAaJL33+uQbgbPSARyqw==
 
 type-is@^1.6.18, type-is@~1.6.17, type-is@~1.6.18:
   version "1.6.18"
@@ -14723,12 +14723,12 @@ widest-line@^3.1.0:
   dependencies:
     string-width "^4.0.0"
 
-widest-line@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/widest-line/-/widest-line-4.0.0.tgz#4b19a5da2b5c4f93704f34539395a0f4615da9ea"
-  integrity sha512-g8sERtbgIEyfLAAog9CDLWsV9zs3Zbp7InQUYheKGDd+J/0HRxsjzx5TVAJK8Xaa2obLCkK3kH+q9j/dukjb3A==
+widest-line@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/widest-line/-/widest-line-4.0.1.tgz#a0fc673aaba1ea6f0a0d35b3c2795c9a9cc2ebf2"
+  integrity sha512-o0cyEG0e8GPzT4iGHphIOh0cJOV8fivsXxddQasHPHfoZf1ZexrfeA21w2NaEN1RHE+fXlfISmOE8R9N3u3Qig==
   dependencies:
-    string-width "^5.0.0"
+    string-width "^5.0.1"
 
 word-wrap@^1.2.3, word-wrap@~1.2.3:
   version "1.2.3"
