@@ -898,7 +898,7 @@
     "@types/detect-port": "^1.3.1",
     "@types/diffie-hellman": "^5.0.0",
     "@types/dir-glob": "^2.0.1",
-    "@types/doctrine": "^0.0.4",
+    "@types/doctrine": "^0.0.5",
     "@types/domhandler": "^2.4.2",
     "@types/dotenv-webpack": "^7.0.3",
     "@types/duplexify": "^3.6.0",

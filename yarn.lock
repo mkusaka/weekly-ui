@@ -2537,10 +2537,10 @@
   resolved "https://registry.yarnpkg.com/@types/dir-glob/-/dir-glob-2.0.1.tgz#36da41b6ce0f21a8717cd7efe485e66ecac6c9ba"
   integrity sha512-4LClJMcgR7UaV55YKFtb1EiRA/+rVKyTb1LAHjdstSrI6+3+qRLgXrjPEG2OzDAiAutDqLBnxqE5gJ3cx+Jiag==
 
-"@types/doctrine@^0.0.4":
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@types/doctrine/-/doctrine-0.0.4.tgz#2d9ac2699f809dffe8f33ec28aa7de7f6d651214"
-  integrity sha512-5IEvUPe/pxCTCknr9XYydfaZBP7urNMcJZhclQrPWB3ExnktEWBchzIrG3BazegvW6bwOZSFSLlGuW+9MsSMkQ==
+"@types/doctrine@^0.0.5":
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/@types/doctrine/-/doctrine-0.0.5.tgz#9768264221e8fd422e4989c8cfdab2ff781f4eb6"
+  integrity sha512-JJwEeFy8Sl9ctiugU4h4DGN9hCB47oyhUkM2H8g8xZr4tHTEXtmV4U6krKrU8Ng0S7RlG/J7fkta1rGu3pq+YQ==
 
 "@types/domhandler@^2.4.2":
   version "2.4.2"
