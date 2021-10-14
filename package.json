@@ -876,7 +876,7 @@
     "@types/color-name": "^1.1.1",
     "@types/combined-stream": "^1.0.3",
     "@types/commondir": "^1.0.0",
-    "@types/component-emitter": "^1.2.10",
+    "@types/component-emitter": "^1.2.11",
     "@types/concat-map": "^0.0.1",
     "@types/concat-stream": "^1.6.1",
     "@types/content-disposition": "^0.5.4",
