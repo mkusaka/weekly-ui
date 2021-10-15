@@ -808,7 +808,7 @@
     "webpack-sources": "^3.2.1",
     "webpack-virtual-modules": "^0.4.3",
     "which": "^2.0.2",
-    "wide-align": "^1.1.3",
+    "wide-align": "^1.1.5",
     "widest-line": "^4.0.1",
     "word-wrap": "^1.2.3",
     "worker-farm": "^1.7.0",
