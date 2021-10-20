@@ -3118,10 +3118,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/klaw@^3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@types/klaw/-/klaw-3.0.2.tgz#ce9cf2c0566b806d4fe86eb07082b483ad1ee3f6"
-  integrity sha512-v8smJUQ5SuoCh1EZ5B429DTGFDE0URnC9ix3wJpTB8Ofk7Rgi5Hj/jm9GffavHiXPeYgPRe3ASBfB6LT6ytceg==
+"@types/klaw@^3.0.3":
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@types/klaw/-/klaw-3.0.3.tgz#68c02ecfe6b313ef5b93876d44ac5266808c6a01"
+  integrity sha512-mXlRDFbTLpVysvxahXUQav0hFctgu3Fqr2xmSrpf/ptO/FwOp7SFEGsJkEihwshMbof3/BIiVJ/o42cuOOuv6g==
   dependencies:
     "@types/node" "*"
 
@@ -3725,10 +3725,10 @@
   resolved "https://registry.yarnpkg.com/@types/repeat-element/-/repeat-element-1.1.0.tgz#beda9018be3290943e769e348ef185604b3446c5"
   integrity sha512-/Z+sIdxwLEbvwtg3rTrisPdZNYS1y1bUHvprBMpmcpYkJXe72uafudVsTCPplQWqoFbEBYUE5oOD//Me/goOjA==
 
-"@types/repeat-string@^1.6.1":
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/@types/repeat-string/-/repeat-string-1.6.1.tgz#8bb5686e662ce1d962271b0b043623bf51404cdc"
-  integrity sha512-vdna8kjLGljgtPnYN6MBD2UwX62QE0EFLj9QlLXvg6dEu66NksXB900BNguBCMZZY2D9SSqncUskM23vT3uvWQ==
+"@types/repeat-string@^1.6.2":
+  version "1.6.2"
+  resolved "https://registry.yarnpkg.com/@types/repeat-string/-/repeat-string-1.6.2.tgz#e2cafb4ec9f75baa802b7974b5decc6a62a20254"
+  integrity sha512-EaiC691ZkmWGzLfNhs0tFeAT6T3yAbF5QriSnkl6mCLeSsnEmnW0wyNjW0hvLZgI6mco6ChoEQXh393CqrHdxQ==
 
 "@types/replace-ext@^2.0.0":
   version "2.0.0"
