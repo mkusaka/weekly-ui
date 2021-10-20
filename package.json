@@ -438,7 +438,7 @@
     "levn": "^0.4.1",
     "lines-and-columns": "^1.1.6",
     "loader-runner": "^4.2.0",
-    "loader-utils": "^2.0.0",
+    "loader-utils": "^3.0.0",
     "locate-path": "^7.0.0",
     "lodash": "^4.17.21",
     "lodash.uniq": "^4.5.0",
