@@ -1104,7 +1104,7 @@
     "@types/stream-shift": "^1.0.0",
     "@types/supports-color": "^8.1.1",
     "@types/tapable": "^2.2.2",
-    "@types/tar": "^4.0.5",
+    "@types/tar": "^6.1.0",
     "@types/terser-webpack-plugin": "^5.0.4",
     "@types/text-table": "^0.2.2",
     "@types/throttle-debounce": "^2.1.0",
