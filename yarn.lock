@@ -8540,15 +8540,15 @@ html-entities@^2.1.0, html-entities@^2.3.2:
   resolved "https://registry.yarnpkg.com/html-entities/-/html-entities-2.3.2.tgz#760b404685cb1d794e4f4b744332e3b00dcfe488"
   integrity sha512-c3Ab/url5ksaT0WyleslpBEthOzWhrjQbg75y7XUsfSzi3Dgzt0l8w5e7DylRn15MTlMMD58dTfzddNS2kcAjQ==
 
-html-loader@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/html-loader/-/html-loader-2.1.2.tgz#17eb111441e863a9308071ed876b4ba861f143df"
-  integrity sha512-XB4O1+6mpLp4qy/3qg5+1QPZ/uXvWtO64hNAX87sKHwcHkp1LJGU7V3sJ9iVmRACElAZXQ4YOO/Lbkx5kYfl9A==
+html-loader@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/html-loader/-/html-loader-3.0.0.tgz#8be6dfd7d259b0ea83ab78b5ab6a6ef3879abf55"
+  integrity sha512-xcWiuZwxEs4Sh0D/I+KujHZtCdmA8hPS3nPp/bKXKO9zFouGTdgK8pt7nrh7tD2kIy1ND6OgOpXQUKa+xYIMmg==
   dependencies:
-    html-minifier-terser "^5.1.1"
+    html-minifier-terser "^6.0.2"
     parse5 "^6.0.1"
 
-html-minifier-terser@^5.0.1, html-minifier-terser@^5.1.1:
+html-minifier-terser@^5.0.1:
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/html-minifier-terser/-/html-minifier-terser-5.1.1.tgz#922e96f1f3bb60832c2634b79884096389b1f054"
   integrity sha512-ZPr5MNObqnV/T9akshPKbVgyOqLmy+Bxo7juKCfTfnjNniTAMdy4hz21YQqoofMBJD2kdREaqPPdThoR78Tgxg==
