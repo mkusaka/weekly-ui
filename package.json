@@ -1111,7 +1111,7 @@
     "@types/through": "^0.0.30",
     "@types/through2": "^2.0.36",
     "@types/tinycolor2": "^1.4.3",
-    "@types/tmp": "^0.2.1",
+    "@types/tmp": "^0.2.2",
     "@types/trim": "^0.1.1",
     "@types/type-check": "^0.3.27",
     "@types/type-is": "^1.6.3",
