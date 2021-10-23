@@ -575,7 +575,7 @@
     "postcss-value-parser": "^4.1.0",
     "prelude-ls": "^1.2.1",
     "prettier": "^2.4.1",
-    "pretty-error": "^3.0.4",
+    "pretty-error": "^4.0.0",
     "pretty-hrtime": "^1.0.3",
     "prismjs": "^1.25.0",
     "process": "^0.11.10",
