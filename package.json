@@ -976,7 +976,7 @@
     "@types/istanbul-lib-instrument": "^1.7.4",
     "@types/jake": "^1.0.26-alpha",
     "@types/js-string-escape": "^1.0.1",
-    "@types/js-yaml": "^4.0.3",
+    "@types/js-yaml": "^4.0.4",
     "@types/jsesc": "^3.0.1",
     "@types/json-parse-better-errors": "^1.0.0",
     "@types/json-schema-traverse": "^0.4.0",
