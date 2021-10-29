@@ -5878,11 +5878,6 @@ character-entities-legacy@^1.0.0:
   resolved "https://registry.yarnpkg.com/character-entities-legacy/-/character-entities-legacy-1.1.4.tgz#94bc1845dce70a5bb9d2ecc748725661293d8fc1"
   integrity sha512-3Xnr+7ZFS1uxeiUDvV02wQ+QDbc55o97tIV5zHScSPJpcLm/r0DFPcoY3tYRp+VZukxuMeKgXYmsXQHO05zQeA==
 
-character-entities-legacy@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/character-entities-legacy/-/character-entities-legacy-2.0.0.tgz#57f4d00974c696e8f74e9f493e7fcb75b44d7ee7"
-  integrity sha512-YwaEtEvWLpFa6Wh3uVLrvirA/ahr9fki/NUd/Bd4OR6EdJ8D22hovYQEOUCBfQfcqnC4IAMGMsHXY1eXgL4ZZA==
-
 character-entities-legacy@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/character-entities-legacy/-/character-entities-legacy-3.0.0.tgz#76bc83a90738901d7bc223a9e93759fdd560125b"
@@ -9868,10 +9863,10 @@ loader-utils@^1.2.3, loader-utils@^1.4.0:
     emojis-list "^3.0.0"
     json5 "^1.0.1"
 
-loader-utils@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/loader-utils/-/loader-utils-3.0.0.tgz#dfcd9d1101bc4512d4956e1d5d67577c647b47fe"
-  integrity sha512-ry4RE7qen73BFLgihlbyllGIW9SVWLUD5Cq9VWtzrqhntOMOJl8yEjA89d5mCUTT0puCnHo4EecO6bz+BOAS8w==
+loader-utils@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/loader-utils/-/loader-utils-3.1.0.tgz#5d6583148713e4c022b3dac9daac0efd9b6bca42"
+  integrity sha512-7YF6k8Q9xXFHkQhVaX76PyJVAIcPAKNk+7zJs5w2k/wVqkb8uq8O6MIWuY50BkuinY2WD5Ugmpu0oVipDexFkQ==
   dependencies:
     big.js "^6.1.1"
 
@@ -11303,13 +11298,14 @@ parse-entities@^2.0.0:
     is-decimal "^1.0.0"
     is-hexadecimal "^1.0.0"
 
-parse-entities@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/parse-entities/-/parse-entities-3.0.0.tgz#9ed6d6569b6cfc95ade058d683ddef239dad60dc"
-  integrity sha512-AJlcIFDNPEP33KyJLguv0xJc83BNvjxwpuUIcetyXUsLpVXAUCePJ5kIoYtEN2R1ac0cYaRu/vk9dVFkewHQhQ==
+parse-entities@^3.0.0, parse-entities@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/parse-entities/-/parse-entities-3.1.0.tgz#82b04f2c26f2b3604e4df1972beb231f20d207e2"
+  integrity sha512-xf2yeHbsfg1vJySsQelVwgtI/67eAndVU05skrr/XN6KFMoVVA95BYrW8y78OfW4jqcuHwB7tlMlLkvbq4WbHQ==
   dependencies:
+    "@types/unist" "^2.0.0"
     character-entities "^2.0.0"
-    character-entities-legacy "^2.0.0"
+    character-entities-legacy "^3.0.0"
     character-reference-invalid "^2.0.0"
     is-alphanumerical "^2.0.0"
     is-decimal "^2.0.0"
@@ -14658,10 +14654,10 @@ webpack@4:
     watchpack "^1.7.4"
     webpack-sources "^1.4.1"
 
-webpack@^5, webpack@^5.1.0, webpack@^5.38.1, webpack@^5.60.0:
-  version "5.60.0"
-  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.60.0.tgz#9c26f38a57c9688b0a8c5c885e05197344eae67d"
-  integrity sha512-OL5GDYi2dKxnwJPSOg2tODgzDxAffN0osgWkZaBo/l3ikCxDFP+tuJT3uF7GyBE3SDBpKML/+a8EobyWAQO3DQ==
+webpack@^5, webpack@^5.1.0, webpack@^5.38.1, webpack@^5.61.0:
+  version "5.61.0"
+  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.61.0.tgz#fa827f0ee9bdfd141dd73c3e891e955ebd52fe7f"
+  integrity sha512-fPdTuaYZ/GMGFm4WrPi2KRCqS1vDp773kj9S0iI5Uc//5cszsFEDgHNaX4Rj1vobUiU1dFIV3mA9k1eHeluFpw==
   dependencies:
     "@types/eslint-scope" "^3.7.0"
     "@types/estree" "^0.0.50"
