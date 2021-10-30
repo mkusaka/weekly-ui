@@ -638,7 +638,7 @@
     "remark-mdx": "^1.6.22",
     "remark-parse": "^10.0.0",
     "remark-slug": "^7.0.1",
-    "remark-squeeze-paragraphs": "^5.0.0",
+    "remark-squeeze-paragraphs": "^5.0.1",
     "remove-trailing-separator": "^1.1.0",
     "renderkid": "^3.0.0",
     "repeat-element": "^1.1.4",

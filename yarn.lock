@@ -12504,10 +12504,10 @@ remark-squeeze-paragraphs@4.0.0:
   dependencies:
     mdast-squeeze-paragraphs "^4.0.0"
 
-remark-squeeze-paragraphs@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/remark-squeeze-paragraphs/-/remark-squeeze-paragraphs-5.0.0.tgz#8bc34569213f360894c394e7d6f36bcb8d668545"
-  integrity sha512-w/AS3oqGIMxtwCDg94yFMYyaaKXg5jIw/akf8Uc5S/S2c8vYoENVs3EYBOprRYfO005J/zngOWJGq1cbK2fEmw==
+remark-squeeze-paragraphs@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/remark-squeeze-paragraphs/-/remark-squeeze-paragraphs-5.0.1.tgz#c15aae559c43cc6e1fe85e24d6ec3cca7ecc4fa9"
+  integrity sha512-VWPAoa1bAAtU/aQfSLRZ7vOrwH9I02RhZTSo+e0LT3fVO9RKNCq/bwobIEBhxvNCt00JoQ7GwR3sYGhmD2/y6Q==
   dependencies:
     "@types/mdast" "^3.0.0"
     mdast-squeeze-paragraphs "^5.0.0"
