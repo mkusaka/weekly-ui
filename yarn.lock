@@ -5736,17 +5736,17 @@ cache-base@^1.0.1:
     union-value "^1.0.0"
     unset-value "^1.0.0"
 
-cache-base@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/cache-base/-/cache-base-4.0.0.tgz#e9c181bd61443644bfcf98c583173301976eac61"
-  integrity sha512-Ou2dop27F3N1xwvdO0Y3QYM1uuhSgpHezJqIItIVmWtWhOXkRAM0k56gJZjTV+wbJwwA+hI4iq0Tl6HmFm0IzQ==
+cache-base@^4.0.0, cache-base@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/cache-base/-/cache-base-4.0.2.tgz#f76c1d2bdfcd61004a1915717f8b0641723eaadc"
+  integrity sha512-8alOavARe1mRna8xw6iSy3qClvWYLis1ZMKnqXD+xOL0Ly93k021OlzH6k4ZionPHo9iAmpqWpx6eSxDsHLw6g==
   dependencies:
     "@sellside/emitter" "^1.2.1"
     collection-visit "^1.0.0"
     get-value "^3.0.1"
     has-own-deep "^1.1.0"
     kind-of "^6.0.2"
-    set-value "^3.0.0"
+    set-value "^4.1.0"
     union-value "^1.0.0"
     unset-value "^1.0.0"
 
