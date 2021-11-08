@@ -622,7 +622,7 @@
     "readdirp": "^3.6.0",
     "rechoir": "^0.8.0",
     "recursive-readdir": "^2.2.2",
-    "refractor": "^4.2.1",
+    "refractor": "^4.2.2",
     "regenerate": "^1.4.2",
     "regenerate-unicode-properties": "^9.0.0",
     "regenerator-runtime": "^0.13.9",

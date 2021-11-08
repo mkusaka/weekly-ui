@@ -12323,10 +12323,10 @@ refractor@^3.1.0, refractor@^3.2.0:
     parse-entities "^2.0.0"
     prismjs "~1.23.0"
 
-refractor@^4.2.1:
-  version "4.2.1"
-  resolved "https://registry.yarnpkg.com/refractor/-/refractor-4.2.1.tgz#3ea2810b0090d2ef95b101f0cd9c07769c8f553f"
-  integrity sha512-UhtiILJUJiKquZZPtPokJZAKu2a35cT6gPBXyv2FJj+3T+AC8fyUzVUvA0lyiiYNl9m2ShCW/SSDC9us/FsuvQ==
+refractor@^4.2.2:
+  version "4.2.2"
+  resolved "https://registry.yarnpkg.com/refractor/-/refractor-4.2.2.tgz#9dfcb87645af35f61a502a3016735e32154836b6"
+  integrity sha512-pMCVw0+JQC0OSlp+pB4rTdojWGX3YxZeCRzqbZbWrJa9LU2O8kXGjQr9alNKMCArArcESBdBQZ5TIS8RWP2MdA==
   dependencies:
     "@types/hast" "^2.0.0"
     "@types/prismjs" "^1.0.0"
