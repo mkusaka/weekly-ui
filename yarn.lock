@@ -7184,10 +7184,10 @@ eslint-scope@^4.0.3:
     esrecurse "^4.1.0"
     estraverse "^4.1.1"
 
-eslint-scope@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-scope/-/eslint-scope-6.0.0.tgz#9cf45b13c5ac8f3d4c50f46a5121f61b3e318978"
-  integrity sha512-uRDL9MWmQCkaFus8RF5K9/L/2fn+80yoW3jkD53l4shjCh26fCtvJGasxjUqP5OT87SYTxCVA3BwTUzuELx9kA==
+eslint-scope@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/eslint-scope/-/eslint-scope-7.0.0.tgz#7028b1bccb4471d7310d8ae86305cb7c8b30903b"
+  integrity sha512-fquex2G7PGu/aqTwSa5dYYxDIRx9kWZ9hhx8ybhW1sdkieKuKLi8VRyS1LUmFvCMVHjnlSCopMGnPHRmwFOonQ==
   dependencies:
     esrecurse "^4.3.0"
     estraverse "^5.2.0"
