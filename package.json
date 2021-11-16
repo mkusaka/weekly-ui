@@ -504,7 +504,7 @@
     "normalize-path": "^3.0.0",
     "normalize-range": "^0.1.2",
     "npm-run-path": "^5.0.1",
-    "npmlog": "^5.0.1",
+    "npmlog": "^6.0.0",
     "nth-check": "^2.0.1",
     "num2fraction": "^1.2.2",
     "number-is-nan": "^2.0.0",
