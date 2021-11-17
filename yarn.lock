@@ -3609,10 +3609,10 @@
     "@types/react" "*"
     "@types/reactcss" "*"
 
-"@types/react-dev-utils@^9.0.8":
-  version "9.0.8"
-  resolved "https://registry.yarnpkg.com/@types/react-dev-utils/-/react-dev-utils-9.0.8.tgz#7e4d63d1e1c71cd236c9055bc0c0dbaa3772bcf9"
-  integrity sha512-H/R8BvtCf9BUWPLL9a2agUWWBOKQQPkBIe5osdrgGaDJHZggQRiNN3emH16rQkzm5zi6TVuslOFrYrfMx+QTjw==
+"@types/react-dev-utils@^9.0.9":
+  version "9.0.9"
+  resolved "https://registry.yarnpkg.com/@types/react-dev-utils/-/react-dev-utils-9.0.9.tgz#e56e583b25f239ff4ac263f346aea87201e62fe1"
+  integrity sha512-2vyH5Ag3OlqUGi0mxkxL6wQvkySSgsMeDDoDc/pxvbvd+C28WI7kUK4mLKKLLIQx1tHZUNHY7T7/rR1+LGvqCQ==
   dependencies:
     "@types/eslint" "*"
     "@types/express" "*"
@@ -4038,10 +4038,10 @@
   resolved "https://registry.yarnpkg.com/@types/utils-merge/-/utils-merge-0.0.28.tgz#4291080ac9e9d1979fbfa15e8040810ca5ac6bd8"
   integrity sha1-QpEICsnp0Zefv6FegECBDKWsa9g=
 
-"@types/uuid@^8.3.1":
-  version "8.3.1"
-  resolved "https://registry.yarnpkg.com/@types/uuid/-/uuid-8.3.1.tgz#1a32969cf8f0364b3d8c8af9cc3555b7805df14f"
-  integrity sha512-Y2mHTRAbqfFkpjldbkHGY8JIzRN6XqYRliG8/24FcHm2D2PwW24fl5xMRTVGdrb7iMrwCaIEbLWerGIkXuFWVg==
+"@types/uuid@^8.3.3":
+  version "8.3.3"
+  resolved "https://registry.yarnpkg.com/@types/uuid/-/uuid-8.3.3.tgz#c6a60686d953dbd1b1d45e66f4ecdbd5d471b4d0"
+  integrity sha512-0LbEEx1zxrYB3pgpd1M5lEhLcXjKJnYghvhTRgaBeUivLHMDM1TzF3IJ6hXU2+8uA4Xz+5BA63mtZo5DjVT8iA==
 
 "@types/vary@^1.1.0":
   version "1.1.0"
