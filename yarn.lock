@@ -6919,10 +6919,10 @@ ejs@^3.1.6:
   dependencies:
     jake "^10.6.1"
 
-electron-to-chromium@^1.3.564, electron-to-chromium@^1.3.896, electron-to-chromium@^1.3.901:
-  version "1.3.901"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.901.tgz#ce2c3157d61bce9f42f1e83225c17358ae9f4918"
-  integrity sha512-ToJdV2vzwT2jeAsw8zIggTFllJ4Kxvwghk39AhJEHHlIxor10wsFI3wo69p8nFc0s/ATWBqugPv/k3nW4Y9Mww==
+electron-to-chromium@^1.3.564, electron-to-chromium@^1.3.896, electron-to-chromium@^1.3.902:
+  version "1.3.902"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.902.tgz#926726705c17f9531be23bda545b819b35da665d"
+  integrity sha512-zFv5jbtyIr+V9FuT9o439isXbkXQ27mJqZfLXpBKzXugWE8+3RotHbXJlli0/r+Rvdlkut0OOMzeOWLAjH0jCw==
 
 element-resize-detector@^1.2.2, element-resize-detector@^1.2.3:
   version "1.2.3"
@@ -8260,7 +8260,7 @@ has-flag@^4.0.0:
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-4.0.0.tgz#944771fd9c81c81265c4d6941860da06bb59479b"
   integrity sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ==
 
-has-flag@^5.0.0, has-flag@^5.0.1:
+has-flag@^5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-5.0.1.tgz#5483db2ae02a472d1d0691462fc587d1843cd940"
   integrity sha512-CsNUt5x9LUdx6hnk/E2SZLsDyvfqANZSUq4+D3D8RzDJ2M+HDTIkF60ibS1vHaK55vzgiZw1bEPFG9yH7l33wA==
@@ -12497,10 +12497,10 @@ remark-parse@8.0.3:
     vfile-location "^3.0.0"
     xtend "^4.0.1"
 
-remark-parse@^10.0.0:
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/remark-parse/-/remark-parse-10.0.0.tgz#65e2b2b34d8581d36b97f12a2926bb2126961cb4"
-  integrity sha512-07ei47p2Xl7Bqbn9H2VYQYirnAFJPwdMuypdozWsSbnmrkgA2e2sZLZdnDNrrsxR4onmIzH/J6KXqKxCuqHtPQ==
+remark-parse@^10.0.1:
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/remark-parse/-/remark-parse-10.0.1.tgz#6f60ae53edbf0cf38ea223fe643db64d112e0775"
+  integrity sha512-1fUyHr2jLsVOkhbvPRBJ5zTKZZyD6yZzYaWCS6BPBdQ8vEMBCH+9zNCDA6tET/zHCi/jLqjCWtlJZUPk+DbnFw==
   dependencies:
     "@types/mdast" "^3.0.0"
     mdast-util-from-markdown "^1.0.0"
@@ -13035,10 +13035,10 @@ side-channel@^1.0.3, side-channel@^1.0.4:
     get-intrinsic "^1.0.2"
     object-inspect "^1.9.0"
 
-signal-exit@^3.0.0, signal-exit@^3.0.2, signal-exit@^3.0.5:
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.5.tgz#9e3e8cc0c75a99472b44321033a7702e7738252f"
-  integrity sha512-KWcOiKeQj6ZyXx7zq4YxSMgHRlod4czeBQZrPb8OKcohcqAXShm7E20kEMle9WBt26hFcAf0qLOcp5zmY7kOqQ==
+signal-exit@^3.0.0, signal-exit@^3.0.2, signal-exit@^3.0.5, signal-exit@^3.0.6:
+  version "3.0.6"
+  resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.6.tgz#24e630c4b0f03fea446a2bd299e62b4a6ca8d0af"
+  integrity sha512-sDl4qMFpijcGw22U5w63KmD3cZJfBuFlVNbVMKje2keoKML7X2UzWbc4XrmEbDwg0NXJc3yv4/ox7b+JWb57kQ==
 
 sisteransi@^1.0.5:
   version "1.0.5"
@@ -13588,12 +13588,10 @@ supports-color@^8.0.0:
   dependencies:
     has-flag "^4.0.0"
 
-supports-color@^9.0.2:
-  version "9.0.2"
-  resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-9.0.2.tgz#50f082888e4b0a4e2ccd2d0b4f9ef4efcd332485"
-  integrity sha512-ii6tc8ImGFrgMPYq7RVAMKkhPo9vk8uA+D3oKbJq/3Pk2YSMv1+9dUAesa9UxMbxBTvxwKTQffBahNVNxEvM8Q==
-  dependencies:
-    has-flag "^5.0.0"
+supports-color@^9.1.0:
+  version "9.1.0"
+  resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-9.1.0.tgz#558963681dafeff41ed68220488cbf438d29f351"
+  integrity sha512-lOCGOTmBSN54zKAoPWhHkjoqVQ0MqgzPE5iirtoSixhr0ZieR/6l7WZ32V53cvy9+1qghFnIk7k52p991lKd6g==
 
 symbol.prototype.description@^1.0.0, symbol.prototype.description@^1.0.5:
   version "1.0.5"
@@ -14084,10 +14082,10 @@ unified@9.2.0:
     trough "^1.0.0"
     vfile "^4.0.0"
 
-unified@^10.0.0, unified@^10.1.0:
-  version "10.1.0"
-  resolved "https://registry.yarnpkg.com/unified/-/unified-10.1.0.tgz#4e65eb38fc2448b1c5ee573a472340f52b9346fe"
-  integrity sha512-4U3ru/BRXYYhKbwXV6lU6bufLikoAavTwev89H5UxY8enDFaAT2VXmIXYNm6hb5oHPng/EXr77PVyDFcptbk5g==
+unified@^10.0.0, unified@^10.1.1:
+  version "10.1.1"
+  resolved "https://registry.yarnpkg.com/unified/-/unified-10.1.1.tgz#345e349e3ab353ab612878338eb9d57b4dea1d46"
+  integrity sha512-v4ky1+6BN9X3pQrOdkFIPWAaeDsHPE1svRDxq7YpTc2plkIqFMwukfqM+l0ewpP9EfwARlt9pPFAeWYhHm8X9w==
   dependencies:
     "@types/unist" "^2.0.0"
     bail "^2.0.0"
