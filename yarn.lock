@@ -2900,12 +2900,12 @@
   dependencies:
     "@types/node" "*"
 
-"@types/icss-utils@^4.1.0":
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/@types/icss-utils/-/icss-utils-4.1.0.tgz#1a66def84cdc8bfba2daaba47fb64b3c2fb3d9a0"
-  integrity sha512-OmLjTGEAgPTxGO8xy1ixbStAxG7aqetBtm7pFmreBqof6acWlrRpxePfPL+RQaBXTETTVYfR5O8FS0278U+V/A==
+"@types/icss-utils@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@types/icss-utils/-/icss-utils-5.1.0.tgz#ad13cf373d0d7f0fced79228e19da4327f7e982a"
+  integrity sha512-qSigeBAs4UO2ce/G5OuDoOmBbnY+DgnZr4yBXcyg9uEhIjgie+YE0LY01Va7UCognwdukycO0RlQpYwgXe84aA==
   dependencies:
-    postcss "^7.0.0"
+    postcss "^8.0.0"
 
 "@types/iferr@^1.0.2":
   version "1.0.2"
@@ -3482,26 +3482,26 @@
   dependencies:
     postcss "^8.1"
 
-"@types/postcss-modules-local-by-default@^1.2.2":
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/@types/postcss-modules-local-by-default/-/postcss-modules-local-by-default-1.2.2.tgz#b6bd30e1828ee983571a87de48fdfad5ed10301a"
-  integrity sha512-E5ktyDv+AxUdlDMJAB91GKRIA5agick/X8usrWGWJDoW3huVBEQNVrYbIdqK6QYHPhqaJDf/oVqwu8jVbNNwUQ==
+"@types/postcss-modules-local-by-default@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@types/postcss-modules-local-by-default/-/postcss-modules-local-by-default-4.0.0.tgz#5c141c9bd3a994ae1ebe23d2ae094b24d19538f5"
+  integrity sha512-0VLab/pcLTLcfbxi6THSIMVYcw9hEUBGvjwwaGpW77mMgRXfGF+a76t7BxTGyLh1y68tBvrffp8UWnqvm76+yg==
   dependencies:
-    postcss "7.x.x"
+    postcss "^8.0.0"
 
-"@types/postcss-modules-scope@^1.1.2":
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/@types/postcss-modules-scope/-/postcss-modules-scope-1.1.2.tgz#5f488fdcf707ee54eb9c5f8dedc87205cd03a20a"
-  integrity sha512-3JpyNpMU9VRBtDU2uBUgeM5+urVkV1dGpL9Qo/kR1YWXHbKseUiSzDAjAS8Y67LzzEPhoMG71bhIQciRbUcpiQ==
-  dependencies:
-    postcss "7.x.x"
-
-"@types/postcss-modules-values@^3.0.0":
+"@types/postcss-modules-scope@^3.0.0":
   version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@types/postcss-modules-values/-/postcss-modules-values-3.0.0.tgz#be9642f5949ae0f97fd80ce66f6aacc952acd8c3"
-  integrity sha512-PUO9onq/0rT5U27BShIOrgFcYzfCvJdHbT2NlhTT5uLaG9eQygPRPIfTIKDPbbadB9vpXfvdj80G1xYozYOaIg==
+  resolved "https://registry.yarnpkg.com/@types/postcss-modules-scope/-/postcss-modules-scope-3.0.0.tgz#b7950427a77b35054a15c87a6125bef73d63102c"
+  integrity sha512-aQd+/eZvbIK3XoCBMW6pwoCWlaoBm0+VRwUiJhIoPjHKpbjuJoBcfOsQrFXe5w7FxJf9mtebJXB/HZHHzW8lpQ==
   dependencies:
-    postcss "^7.0.0"
+    postcss "^8.0.0"
+
+"@types/postcss-modules-values@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@types/postcss-modules-values/-/postcss-modules-values-4.0.0.tgz#72bf19d19894fe013b88ce08a7afc8761498618f"
+  integrity sha512-+xtXRgdrJju53JIxDY5kN7kBHGsfzgaEGkDzK/1UCDff+TL8WLwxLDJDzZKUm+s7hHSNGeZs1SfZTcpQQOqnkg==
+  dependencies:
+    postcss "^8.0.0"
 
 "@types/prelude-ls@^1.1.29":
   version "1.1.29"
@@ -11726,7 +11726,7 @@ postcss@7.x.x, postcss@^7.0.0, postcss@^7.0.14, postcss@^7.0.26, postcss@^7.0.32
     source-map "^0.6.1"
     supports-color "^6.1.0"
 
-postcss@^8.1, postcss@^8.2.15, postcss@^8.3.11:
+postcss@^8.0.0, postcss@^8.1, postcss@^8.2.15, postcss@^8.3.11:
   version "8.3.11"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.3.11.tgz#c3beca7ea811cd5e1c4a3ec6d2e7599ef1f8f858"
   integrity sha512-hCmlUAIlUiav8Xdqw3Io4LcpA1DOt7h3LSTAC4G6JGHFFaWzI6qvFt9oilvl8BmkbBRX1IhM90ZAmpk68zccQA==
