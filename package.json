@@ -1066,7 +1066,7 @@
     "@types/react-syntax-highlighter": "^13.5.2",
     "@types/react-textarea-autosize": "^4.3.6",
     "@types/reactcss": "^1.2.6",
-    "@types/readable-stream": "^2.3.11",
+    "@types/readable-stream": "^2.3.12",
     "@types/rechoir": "^0.6.1",
     "@types/recursive-readdir": "^2.2.0",
     "@types/refractor": "^3.0.2",
