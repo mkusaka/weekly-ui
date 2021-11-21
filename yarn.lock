@@ -9839,10 +9839,10 @@ lilconfig@^2.0.3:
   resolved "https://registry.yarnpkg.com/lilconfig/-/lilconfig-2.0.3.tgz#68f3005e921dafbd2a2afb48379986aa6d2579fd"
   integrity sha512-EHKqr/+ZvdKCifpNrJCKxBTgk5XupZA3y/aCPY9mxfgBzmgh93Mt/WqjjQ38oMxXuvDokaKiM3lAgvSH2sjtHg==
 
-lines-and-columns@^1.1.6:
-  version "1.1.6"
-  resolved "https://registry.yarnpkg.com/lines-and-columns/-/lines-and-columns-1.1.6.tgz#1c00c743b433cd0a4e80758f7b64a57440d9ff00"
-  integrity sha1-HADHQ7QzzQpOgHWPe2SldEDZ/wA=
+lines-and-columns@^1.1.6, lines-and-columns@^1.2.3:
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/lines-and-columns/-/lines-and-columns-1.2.3.tgz#3360dbb0dfffd23a6ad0300135efacb50f50eb73"
+  integrity sha512-bQEvPBbeyPQGdQ/1H/tnLUz0479EH/9pHxCe3TGRQFxpg/PIbBeTUwpm7xyewdFfHjKLGidU/lSH1QkF+i8HUg==
 
 loader-runner@^2.4.0:
   version "2.4.0"
