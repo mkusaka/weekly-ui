@@ -946,7 +946,7 @@
     "@types/he": "^1.1.2",
     "@types/highlight.js": "^9.12.4",
     "@types/hoist-non-react-statics": "^3.3.1",
-    "@types/html-minifier-terser": "^6.0.0",
+    "@types/html-minifier-terser": "^6.1.0",
     "@types/html-void-elements": "^1.0.0",
     "@types/http-errors": "^1.8.1",
     "@types/icss-utils": "^5.1.0",
