@@ -712,7 +712,7 @@
     "strip-eof": "^2.0.0",
     "style-loader": "^3.3.1",
     "style-to-object": "^0.3.0",
-    "supports-color": "^9.1.0",
+    "supports-color": "^9.2.1",
     "symbol.prototype.description": "^1.0.5",
     "tapable": "^2.2.1",
     "tar": "^6.1.11",
