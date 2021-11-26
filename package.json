@@ -128,7 +128,7 @@
     "capture-exit": "^2.0.0",
     "case-sensitive-paths-webpack-plugin": "^2.4.0",
     "ccount": "^2.0.1",
-    "chalk": "^4.1.2",
+    "chalk": "^5.0.0",
     "character-entities": "^2.0.1",
     "character-entities-legacy": "^3.0.0",
     "character-reference-invalid": "^2.0.1",
