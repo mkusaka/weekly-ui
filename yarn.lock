@@ -12198,10 +12198,10 @@ react-fast-compare@^3.0.1, react-fast-compare@^3.2.0:
   resolved "https://registry.yarnpkg.com/react-fast-compare/-/react-fast-compare-3.2.0.tgz#641a9da81b6a6320f270e89724fb45a0b39e43bb"
   integrity sha512-rtGImPZ0YyLrscKI9xTpV8psd6I8VAtjKCzQDlzyDvqJA8XOW78TXYQwNRNd8g8JZnDu8q9Fu/1v4HPAVwVdHA==
 
-react-helmet-async@^1.0.7, react-helmet-async@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/react-helmet-async/-/react-helmet-async-1.2.1.tgz#f72d13e7a96950932f1c808b0228010b06c64e34"
-  integrity sha512-tsw8kbEQuidhACHH4OYOqt+q3ey10Lz1P4QxjlX9C2As4sY/XFTeM5yc4utExyEv5Z02M3jExYR6joVoIM5D0w==
+react-helmet-async@^1.0.7, react-helmet-async@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/react-helmet-async/-/react-helmet-async-1.2.2.tgz#38d58d32ebffbc01ba42b5ad9142f85722492389"
+  integrity sha512-XgSQezeCbLfCxdZhDA3T/g27XZKnOYyOkruopTLSJj8RvFZwdXnM4djnfYaiBSDzOidDgTo1jcEozoRu/+P9UQ==
   dependencies:
     "@babel/runtime" "^7.12.5"
     invariant "^2.2.4"
@@ -14646,10 +14646,10 @@ watchpack@^1.7.4:
     chokidar "^3.4.1"
     watchpack-chokidar2 "^2.0.0"
 
-watchpack@^2.2.0, watchpack@^2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-2.3.0.tgz#a41bca3da6afaff31e92a433f4c856a0c25ea0c4"
-  integrity sha512-MnN0Q1OsvB/GGHETrFeZPQaOelWh/7O+EiFlj8sM9GPjtQkis7k01aAxrg/18kTfoIVcLL+haEVFlXDaSRwKRw==
+watchpack@^2.2.0, watchpack@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-2.3.1.tgz#4200d9447b401156eeca7767ee610f8809bc9d25"
+  integrity sha512-x0t0JuydIo8qCNctdDrn1OzH/qDzk2+rdCOC3YzumZ42fiMqmQ7T3xQurykYMhYfHaPHTp4ZxAx2NfUo1K6QaA==
   dependencies:
     glob-to-regexp "^0.4.1"
     graceful-fs "^4.1.2"
@@ -14784,10 +14784,10 @@ webpack@4:
     watchpack "^1.7.4"
     webpack-sources "^1.4.1"
 
-webpack@^5, webpack@^5.1.0, webpack@^5.38.1, webpack@^5.64.4:
-  version "5.64.4"
-  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.64.4.tgz#e1454b6a13009f57cc2c78e08416cd674622937b"
-  integrity sha512-LWhqfKjCLoYJLKJY8wk2C3h77i8VyHowG3qYNZiIqD6D0ZS40439S/KVuc/PY48jp2yQmy0mhMknq8cys4jFMw==
+webpack@^5, webpack@^5.1.0, webpack@^5.38.1, webpack@^5.65.0:
+  version "5.65.0"
+  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.65.0.tgz#ed2891d9145ba1f0d318e4ea4f89c3fa18e6f9be"
+  integrity sha512-Q5or2o6EKs7+oKmJo7LaqZaMOlDWQse9Tm5l1WAfU/ujLGN5Pb0SqGeVkN/4bpPmEqEP5RnVhiqsOtWtUVwGRw==
   dependencies:
     "@types/eslint-scope" "^3.7.0"
     "@types/estree" "^0.0.50"
@@ -14811,7 +14811,7 @@ webpack@^5, webpack@^5.1.0, webpack@^5.38.1, webpack@^5.64.4:
     schema-utils "^3.1.0"
     tapable "^2.1.1"
     terser-webpack-plugin "^5.1.3"
-    watchpack "^2.3.0"
+    watchpack "^2.3.1"
     webpack-sources "^3.2.2"
 
 which-boxed-primitive@^1.0.1, which-boxed-primitive@^1.0.2:
