@@ -556,7 +556,7 @@
     "pbkdf2": "^3.1.2",
     "picomatch": "^2.3.0",
     "pify": "^5.0.0",
-    "pirates": "^4.0.1",
+    "pirates": "^4.0.4",
     "pkg-dir": "^6.0.1",
     "pkg-up": "^4.0.0",
     "pnp-webpack-plugin": "^1.7.0",
