@@ -12512,6 +12512,13 @@ regjsparser@^0.7.0:
   dependencies:
     jsesc "~0.5.0"
 
+regjsparser@^0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/regjsparser/-/regjsparser-0.8.0.tgz#7aad00fecb177dd5da40f7eed655485c6b2fcfef"
+  integrity sha512-Ib+1IAt56zjIVqDjyq8ACIU1mbe2V4PncFz8i9En/3062JJaFPkZPC7owK7v6/F6951xsMX1hYCh77wmVylEdQ==
+  dependencies:
+    jsesc "~0.5.0"
+
 relateurl@^0.2.7:
   version "0.2.7"
   resolved "https://registry.yarnpkg.com/relateurl/-/relateurl-0.2.7.tgz#54dbf377e51440aca90a4cd274600d3ff2d888a9"
