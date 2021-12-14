@@ -5706,10 +5706,10 @@ browserslist@4.14.2:
     escalade "^3.0.2"
     node-releases "^1.1.61"
 
-browserslist@^4.12.0, browserslist@^4.14.5, browserslist@^4.17.5, browserslist@^4.18.1, browserslist@^4.19.0:
-  version "4.19.0"
-  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.19.0.tgz#5f02742ac2b86dde56ae4cef7be2b003e47b1ee0"
-  integrity sha512-JGHzm73ei2OnAcobcQ61GXNnN6vDCg5Oz5MayudL+FyzjoLnCzUWnuLtDLMIYw8aXgQzzdCZMVky+fftD5jbtA==
+browserslist@^4.12.0, browserslist@^4.14.5, browserslist@^4.17.5, browserslist@^4.18.1, browserslist@^4.19.1:
+  version "4.19.1"
+  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.19.1.tgz#4ac0435b35ab655896c31d53018b6dd5e9e4c9a3"
+  integrity sha512-u2tbbG5PdKRTUoctO3NBD8FQ5HdPh1ZXPHzp1rwaa5jTc+RV9/+RlWiAIKmjRPQF+xbGM9Kklj5bZQFa2s/38A==
   dependencies:
     caniuse-lite "^1.0.30001286"
     electron-to-chromium "^1.4.17"
@@ -6624,18 +6624,18 @@ css-loader@^6.5.1:
     postcss-value-parser "^4.1.0"
     semver "^7.3.5"
 
-css-select@^4.1.3:
-  version "4.1.3"
-  resolved "https://registry.yarnpkg.com/css-select/-/css-select-4.1.3.tgz#a70440f70317f2669118ad74ff105e65849c7067"
-  integrity sha512-gT3wBNd9Nj49rAbmtFHj1cljIAOLYSX1nZ8CB7TBO3INYckygm5B7LISU/szY//YmdiSLbJvDLOx9VnMVpMBxA==
+css-select@^4.1.3, css-select@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/css-select/-/css-select-4.2.0.tgz#ab28276d3afb00cc05e818bd33eb030f14f57895"
+  integrity sha512-6YVG6hsH9yIb/si3Th/is8Pex7qnVHO6t7q7U6TIUnkQASGbS8tnUDBftnPynLNnuUl/r2+PTd0ekiiq7R0zJw==
   dependencies:
     boolbase "^1.0.0"
-    css-what "^5.0.0"
-    domhandler "^4.2.0"
-    domutils "^2.6.0"
-    nth-check "^2.0.0"
+    css-what "^5.1.0"
+    domhandler "^4.3.0"
+    domutils "^2.8.0"
+    nth-check "^2.0.1"
 
-css-what@^5.0.0, css-what@^5.1.0:
+css-what@^5.1.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/css-what/-/css-what-5.1.0.tgz#3f7b707aadf633baf62c2ceb8579b545bb40f7fe"
   integrity sha512-arSMRWIIFY0hV8pIxZMEfmMI47Wj3R/aWpZDDxWYCPEiOMv6tfOrnpDtgxBYPEQD4V0Y/958+1TdC3iWTFcUPw==
@@ -6919,7 +6919,7 @@ domhandler@^4.0.0, domhandler@^4.2.0, domhandler@^4.2.2, domhandler@^4.3.0:
   dependencies:
     domelementtype "^2.2.0"
 
-domutils@^2.5.2, domutils@^2.6.0, domutils@^2.8.0:
+domutils@^2.5.2, domutils@^2.8.0:
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/domutils/-/domutils-2.8.0.tgz#4437def5db6e2d1f5d6ee859bd95ca7d02048135"
   integrity sha512-w96Cjofp72M5IIhpjgobBimYEfoPjx1Vx0BSX9P30WBdZW2WIKU0T1Bd0kz2eNZ9ikjKgHbEyKx8BB6H1L3h3A==
@@ -7019,15 +7019,15 @@ ejs@^3.1.6:
   dependencies:
     jake "^10.6.1"
 
-electron-to-chromium@^1.3.564, electron-to-chromium@^1.4.17:
-  version "1.4.17"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.17.tgz#16ec40f61005582d5d41fac08400a254dccfb85f"
-  integrity sha512-zhk1MravPtq/KBhmGB7TLBILmXTgRG9TFSI3qS3DbgyfHzIl72iiTE37r/BHIbPCJJlWIo5rySyxiH4vWhu2ZA==
+electron-to-chromium@^1.3.564, electron-to-chromium@^1.4.17, electron-to-chromium@^1.4.18:
+  version "1.4.18"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.18.tgz#2fb282213937986a20a653315963070e8321b3f3"
+  integrity sha512-i7nKjGGBE1+YUIbfLObA1EZPmN7J1ITEllbhusDk+KIk6V6gUxN9PFe36v+Sd+8Cg0k3cgUv9lQhQZalr8rggw==
 
-element-resize-detector@^1.2.2, element-resize-detector@^1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/element-resize-detector/-/element-resize-detector-1.2.3.tgz#5078d9b99398fe4c589f8c8df94ff99e5d413ff3"
-  integrity sha512-+dhNzUgLpq9ol5tyhoG7YLoXL3ssjfFW+0gpszXPwRU6NjGr1fVHMEAF8fVzIiRJq57Nre0RFeIjJwI8Nh2NmQ==
+element-resize-detector@^1.2.2, element-resize-detector@^1.2.4:
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/element-resize-detector/-/element-resize-detector-1.2.4.tgz#3e6c5982dd77508b5fa7e6d5c02170e26325c9b1"
+  integrity sha512-Fl5Ftk6WwXE0wqCgNoseKWndjzZlDCwuPTcoVZfCP9R3EHQF8qUtr3YUPNETegRBOKqQKPW3n4kiIWngGi8tKg==
   dependencies:
     batch-processor "1.0.0"
 
@@ -11009,7 +11009,7 @@ npmlog@^6.0.0:
     gauge "^4.0.0"
     set-blocking "^2.0.0"
 
-nth-check@^2.0.0, nth-check@^2.0.1:
+nth-check@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/nth-check/-/nth-check-2.0.1.tgz#2efe162f5c3da06a28959fbd3db75dbeea9f0fc2"
   integrity sha512-it1vE95zF6dTT9lBsYbxvqh0Soy4SPowchj0UBGj/V6cTPnXXtQOPUbhZ6CmGzAD/rW22LQK6E96pcdJXk4A4w==
@@ -12598,10 +12598,10 @@ regjsparser@^0.7.0:
   dependencies:
     jsesc "~0.5.0"
 
-regjsparser@^0.8.1:
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/regjsparser/-/regjsparser-0.8.1.tgz#481f0b99dec8fa970095e99f5baac68f4d7b5552"
-  integrity sha512-5+Qk+a0D5G3uh+nftQjBPuuNXefC3bKZTRz6W4ZOwlv7Bw7WTYU8IzxfMCDyKgAVY+4TtJddtjpPZiLet6NEJw==
+regjsparser@^0.8.2:
+  version "0.8.2"
+  resolved "https://registry.yarnpkg.com/regjsparser/-/regjsparser-0.8.2.tgz#0eca797548189b06d62bc8685802686d87edeff9"
+  integrity sha512-/7yhmlBODOI+sdv3ThmD0b0wkFypkj4Kd+8GIwKK783NnY/1WCW0iAD/c1Z1LYGstXwozejtzHzDqMv6LmJkxg==
   dependencies:
     jsesc "~0.5.0"
 
