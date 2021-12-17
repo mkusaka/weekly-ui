@@ -224,7 +224,7 @@
     "duplexify": "^4.1.2",
     "ee-first": "^1.1.1",
     "ejs": "^3.1.6",
-    "electron-to-chromium": "^1.4.23",
+    "electron-to-chromium": "^1.4.24",
     "element-resize-detector": "^1.2.4",
     "elliptic": "^6.5.4",
     "emoji-regex": "^10.0.0",
