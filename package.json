@@ -696,7 +696,7 @@
     "state-toggle": "^2.0.1",
     "static-extend": "^0.1.2",
     "statuses": "^2.0.1",
-    "store2": "^2.13.0",
+    "store2": "^2.13.1",
     "stream-browserify": "^3.0.0",
     "stream-each": "^1.2.3",
     "stream-http": "^3.2.0",
