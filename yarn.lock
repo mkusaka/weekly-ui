@@ -7185,10 +7185,10 @@ es-to-primitive@^1.2.1:
     is-date-object "^1.0.1"
     is-symbol "^1.0.2"
 
-es5-shim@^4.5.13, es5-shim@^4.6.3:
-  version "4.6.3"
-  resolved "https://registry.yarnpkg.com/es5-shim/-/es5-shim-4.6.3.tgz#f755ced6d03d2398907bfc12adc82e0ff67cef83"
-  integrity sha512-7ttVzzuPEVLtXFe55w6jixugVMw4T8mMiZEwS35LRV90HHSNeaiDLXp//IalLqECqDLqsJVOj5hLpyUGM9EP2g==
+es5-shim@^4.5.13, es5-shim@^4.6.4:
+  version "4.6.4"
+  resolved "https://registry.yarnpkg.com/es5-shim/-/es5-shim-4.6.4.tgz#10ce5f06c7bccfdd60b4e08edf95c7e2fbc1dc2a"
+  integrity sha512-Z0f7OUYZ8JfqT12d3Tgh2ErxIH5Shaz97GE8qyDG9quxb2Hmh2vvFHlOFjx6lzyD0CRgvJfnNYcisjdbRp7MPw==
 
 es6-object-assign@^1.1.0:
   version "1.1.0"
