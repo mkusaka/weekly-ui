@@ -296,7 +296,7 @@
     "function-bind": "^1.1.1",
     "function.prototype.name": "^1.1.5",
     "functions-have-names": "^1.2.2",
-    "fuse.js": "^6.5.2",
+    "fuse.js": "^6.5.3",
     "gauge": "^4.0.0",
     "gensync": "^1.0.0-beta.2",
     "get-package-type": "^0.1.0",
