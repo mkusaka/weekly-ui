@@ -624,7 +624,7 @@
     "recursive-readdir": "^2.2.2",
     "refractor": "^4.3.0",
     "regenerate": "^1.4.2",
-    "regenerate-unicode-properties": "^9.0.0",
+    "regenerate-unicode-properties": "^10.0.0",
     "regenerator-runtime": "^0.13.9",
     "regenerator-transform": "^0.14.5",
     "regex-not": "^1.0.2",
