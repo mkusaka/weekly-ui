@@ -792,7 +792,7 @@
     "utils-merge": "^1.0.1",
     "uuid": "^8.3.2",
     "vary": "^1.1.2",
-    "vfile": "^5.2.0",
+    "vfile": "^5.2.1",
     "vfile-location": "^4.0.1",
     "vfile-message": "^3.1.0",
     "vm-browserify": "^1.1.2",
