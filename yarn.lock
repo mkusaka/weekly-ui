@@ -3699,16 +3699,16 @@
     "@types/react" "*"
     "@types/reactcss" "*"
 
-"@types/react-dev-utils@^9.0.9":
-  version "9.0.9"
-  resolved "https://registry.yarnpkg.com/@types/react-dev-utils/-/react-dev-utils-9.0.9.tgz#e56e583b25f239ff4ac263f346aea87201e62fe1"
-  integrity sha512-2vyH5Ag3OlqUGi0mxkxL6wQvkySSgsMeDDoDc/pxvbvd+C28WI7kUK4mLKKLLIQx1tHZUNHY7T7/rR1+LGvqCQ==
+"@types/react-dev-utils@^9.0.10":
+  version "9.0.10"
+  resolved "https://registry.yarnpkg.com/@types/react-dev-utils/-/react-dev-utils-9.0.10.tgz#92bcfb83b25c9788b124a1598673b6e11727fead"
+  integrity sha512-kkPY4YbdoEXwf4CZdrEKNEYPHshdRGwHiCixyqaWxmYSj337hMX3YD28+tZkNiV4XUmJ4NevKtgZNbylkLSQ+A==
   dependencies:
     "@types/eslint" "*"
     "@types/express" "*"
     "@types/html-webpack-plugin" "*"
     "@types/webpack" "^4"
-    "@types/webpack-dev-server" "^3"
+    "@types/webpack-dev-server" "3"
 
 "@types/react-dom@^17.0.11":
   version "17.0.11"
@@ -4163,7 +4163,7 @@
     tapable "^2.1.1"
     webpack "^5.38.1"
 
-"@types/webpack-dev-server@^3":
+"@types/webpack-dev-server@3":
   version "3.11.6"
   resolved "https://registry.yarnpkg.com/@types/webpack-dev-server/-/webpack-dev-server-3.11.6.tgz#d8888cfd2f0630203e13d3ed7833a4d11b8a34dc"
   integrity sha512-XCph0RiiqFGetukCTC3KVnY1jwLcZ84illFRMbyFzCcWl90B/76ew0tSqF46oBhnLC4obNDG7dMO0JfTN0MgMQ==
