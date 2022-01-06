@@ -6991,10 +6991,10 @@ ejs@^3.1.6:
   dependencies:
     jake "^10.6.1"
 
-electron-to-chromium@^1.3.564, electron-to-chromium@^1.4.17, electron-to-chromium@^1.4.36:
-  version "1.4.36"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.36.tgz#446c6184dbe5baeb5eae9a875490831e4bc5319a"
-  integrity sha512-MbLlbF39vKrXWlFEFpCgDHwdlz4O3LmHM5W4tiLRHjSmEUXjJjz8sZkMgWgvYxlZw3N1iDTmCEtOkkESb5TMCg==
+electron-to-chromium@^1.3.564, electron-to-chromium@^1.4.17, electron-to-chromium@^1.4.37:
+  version "1.4.37"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.37.tgz#eedd53cad229ae2d1632b958a92a3d7d7b27f553"
+  integrity sha512-XIvFB1omSAxYgHYX48sC+HR8i/p7lx7R+0cX9faElg1g++h9IilCrJ12+bQuY+d96Wp7zkBiJwMOv+AhLtLrTg==
 
 element-resize-detector@^1.2.2, element-resize-detector@^1.2.4:
   version "1.2.4"
@@ -8615,10 +8615,10 @@ highlight.js@^10.1.1, highlight.js@^10.4.1, highlight.js@~10.7.0:
   resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-10.7.2.tgz#89319b861edc66c48854ed1e6da21ea89f847360"
   integrity sha512-oFLl873u4usRM9K63j4ME9u3etNF0PLiJhSQ8rdfuL51Wn3zkD6drf9ZW0dOzjnZI22YYG24z30JcmfCZjMgYg==
 
-highlight.js@^11.3.1, highlight.js@~11.3.0:
-  version "11.3.1"
-  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-11.3.1.tgz#813078ef3aa519c61700f84fe9047231c5dc3291"
-  integrity sha512-PUhCRnPjLtiLHZAQ5A/Dt5F8cWZeMyj9KRsACsWT+OD6OP0x6dp5OmT5jdx0JgEyPxPZZIPQpRN2TciUT7occw==
+highlight.js@^11.4.0, highlight.js@~11.4.0:
+  version "11.4.0"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-11.4.0.tgz#34ceadd49e1596ee5aba3d99346cdfd4845ee05a"
+  integrity sha512-nawlpCBCSASs7EdvZOYOYVkJpGmAOKMYZgZtUqSRqodZE0GRVcFKwo1RcpeOemqh9hyttTdd5wDBwHkuSyUfnA==
 
 history@5.0.0:
   version "5.0.0"
@@ -10064,14 +10064,14 @@ lowlight@^1.14.0, lowlight@^1.17.0:
     fault "^1.0.0"
     highlight.js "~10.7.0"
 
-lowlight@^2.4.1:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/lowlight/-/lowlight-2.4.1.tgz#59ea891967ec83395f2d61de8cbfe3fa9cd401c7"
-  integrity sha512-mQkAG0zGQ9lcYecEft+hl9uV1fD6HpURA83/TYrsxKvb8xX2mfyB+aaV/A/aWmhhEcWVzr9Cc+l/fvUYfEUumw==
+lowlight@^2.5.0:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/lowlight/-/lowlight-2.5.0.tgz#723a39fc0d9b911731a395b320519cbb0790ab14"
+  integrity sha512-OXGUch9JZu4q5r4Ir6QlUp5pBXMxS7NHaclhRiUlxNRcOSK0gtXZcVrsGP4eM7bv0/KDHg/TXQagx/X35EULsA==
   dependencies:
     "@types/hast" "^2.0.0"
     fault "^2.0.0"
-    highlight.js "~11.3.0"
+    highlight.js "~11.4.0"
 
 lru-cache@^5.1.1:
   version "5.1.1"
@@ -11862,10 +11862,10 @@ pretty-hrtime@^1.0.3:
   resolved "https://registry.yarnpkg.com/pretty-hrtime/-/pretty-hrtime-1.0.3.tgz#b7e3ea42435a4c9b2759d99e0f201eb195802ee1"
   integrity sha1-t+PqQkNaTJsnWdmeDyAesZWALuE=
 
-prismjs@^1.21.0, prismjs@^1.25.0, prismjs@~1.25.0:
-  version "1.25.0"
-  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.25.0.tgz#6f822df1bdad965734b310b315a23315cf999756"
-  integrity sha512-WCjJHl1KEWbnkQom1+SzftbtXMKQoezOCYs5rECqMN+jP+apI7ftoflyqigqzopSO3hMhTEb0mFClA8lkolgEg==
+prismjs@^1.21.0, prismjs@^1.25.0, prismjs@^1.26.0, prismjs@~1.26.0:
+  version "1.26.0"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.26.0.tgz#16881b594828bb6b45296083a8cbab46b0accd47"
+  integrity sha512-HUoH9C5Z3jKkl3UunCyiD5jwk0+Hz0fIgQ2nbwU2Oo/ceuTAQAg+pPVnfdt2TJWRVLcxKh9iuoYDUSc8clb5UQ==
 
 prismjs@~1.23.0:
   version "1.23.0"
@@ -12460,16 +12460,16 @@ refractor@^3.1.0, refractor@^3.2.0:
     parse-entities "^2.0.0"
     prismjs "~1.23.0"
 
-refractor@^4.3.0:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/refractor/-/refractor-4.3.0.tgz#c33e4f5702d4a5b195db137d8b1e092ab3090cbb"
-  integrity sha512-avSi9ItM6ewXJJIid5KzAgGi7AWpGatAKvQYqLFqZYZsc9klJ7IZVBZv1ocbgZANnZQOVAX46geNd3XQZxWyuw==
+refractor@^4.4.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/refractor/-/refractor-4.4.0.tgz#093c3391c95e36e0fa1b630d7b13216cd7a0f643"
+  integrity sha512-JmpsdoB9Va7BxQAAsuFW4cvN6plRKmSVNua8vUjbB6uRv+9cwm5JDH67P8qYr0OAFXWE1D4WlrIAPzQNcyEaoQ==
   dependencies:
     "@types/hast" "^2.0.0"
     "@types/prismjs" "^1.0.0"
     hastscript "^7.0.0"
     parse-entities "^4.0.0"
-    prismjs "~1.25.0"
+    prismjs "~1.26.0"
 
 regenerate-unicode-properties@^10.0.1:
   version "10.0.1"
