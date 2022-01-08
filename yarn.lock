@@ -12720,7 +12720,7 @@ regexp.prototype.flags@^1.3.0, regexp.prototype.flags@^1.3.1:
     call-bind "^1.0.2"
     define-properties "^1.1.3"
 
-regexpu-core@^4.7.1, regexpu-core@^4.8.0:
+regexpu-core@^4.7.1:
   version "4.8.0"
   resolved "https://registry.yarnpkg.com/regexpu-core/-/regexpu-core-4.8.0.tgz#e5605ba361b67b1718478501327502f4479a98f0"
   integrity sha512-1F6bYsoYiz6is+oz70NWur2Vlh9KWtswuRuzJOfeYUrfPX2o8n74AnUVaOGDbUqVGO9fNHu48/pjJO4sNVwsOg==
@@ -12732,10 +12732,27 @@ regexpu-core@^4.7.1, regexpu-core@^4.8.0:
     unicode-match-property-ecmascript "^2.0.0"
     unicode-match-property-value-ecmascript "^2.0.0"
 
+regexpu-core@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/regexpu-core/-/regexpu-core-5.0.0.tgz#b207f96e06f3433f2b2577b15484df38a9c956e8"
+  integrity sha512-gybbrLKk7gxwYygiKbfv4iw0KrWUr7EeEKBjrQ+kTRmLSswgEONxESpMZRlVO8ztyrVCCWfL6QtmYXmIbcJ+aQ==
+  dependencies:
+    regenerate "^1.4.2"
+    regenerate-unicode-properties "^10.0.1"
+    regjsgen "^0.6.0"
+    regjsparser "^0.8.2"
+    unicode-match-property-ecmascript "^2.0.0"
+    unicode-match-property-value-ecmascript "^2.0.0"
+
 regjsgen@^0.5.2:
   version "0.5.2"
   resolved "https://registry.yarnpkg.com/regjsgen/-/regjsgen-0.5.2.tgz#92ff295fb1deecbf6ecdab2543d207e91aa33733"
   integrity sha512-OFFT3MfrH90xIW8OOSyUrk6QHD5E9JOTeGodiJeBS3J6IwlgzJMNE/1bZklWz5oTg+9dCMyEetclvCVXOPoN3A==
+
+regjsgen@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/regjsgen/-/regjsgen-0.6.0.tgz#83414c5354afd7d6627b16af5f10f41c4e71808d"
+  integrity sha512-ozE883Uigtqj3bx7OhL1KNbCzGyW2NQZPl6Hs09WTvCuZD5sTI4JY58bkbQWa/Y9hxIsvJ3M8Nbf7j54IqeZbA==
 
 regjsgen@^0.7.0:
   version "0.7.0"
@@ -12749,7 +12766,7 @@ regjsparser@^0.7.0:
   dependencies:
     jsesc "~0.5.0"
 
-regjsparser@^0.8.3:
+regjsparser@^0.8.2, regjsparser@^0.8.3:
   version "0.8.3"
   resolved "https://registry.yarnpkg.com/regjsparser/-/regjsparser-0.8.3.tgz#a7046cb5a80c0878a43ed06bebb75f160af0985a"
   integrity sha512-LvWBwKwtGX3miw+1Pz/LyLdPaFD+FahLeCkfomRNqrplOc5rK/kBpsOZHYR067XBmpxMiDDf37esllA3ehqoYw==
