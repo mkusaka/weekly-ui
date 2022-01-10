@@ -153,7 +153,7 @@
     "color-convert": "^2.0.1",
     "color-name": "^1.1.4",
     "colorette": "^2.0.16",
-    "colors": "^1.4.2",
+    "colors": "^1.4.0",
     "combined-stream": "^1.0.8",
     "comma-separated-tokens": "^2.0.2",
     "commander": "^8.3.0",
