@@ -914,7 +914,7 @@
     "@types/es6-shim": "^0.31.42",
     "@types/escape-html": "^1.0.1",
     "@types/escodegen": "^0.0.7",
-    "@types/eslint-scope": "^3.7.2",
+    "@types/eslint-scope": "^3.7.3",
     "@types/esprima": "^4.0.3",
     "@types/estraverse": "^5.1.1",
     "@types/etag": "^1.8.1",
