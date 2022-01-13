@@ -1093,7 +1093,7 @@
     "@types/shallowequal": "^1.1.1",
     "@types/shebang-command": "^1.2.0",
     "@types/shell-quote": "^1.7.1",
-    "@types/shelljs": "^0.8.10",
+    "@types/shelljs": "^0.8.11",
     "@types/signal-exit": "^3.0.1",
     "@types/source-list-map": "^0.1.2",
     "@types/source-map-support": "^0.5.4",
