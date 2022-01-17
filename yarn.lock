@@ -12671,10 +12671,10 @@ regjsgen@^0.6.0:
   resolved "https://registry.yarnpkg.com/regjsgen/-/regjsgen-0.6.0.tgz#83414c5354afd7d6627b16af5f10f41c4e71808d"
   integrity sha512-ozE883Uigtqj3bx7OhL1KNbCzGyW2NQZPl6Hs09WTvCuZD5sTI4JY58bkbQWa/Y9hxIsvJ3M8Nbf7j54IqeZbA==
 
-regjsgen@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/regjsgen/-/regjsgen-0.7.0.tgz#184ac358f604cd6337c57cf51e5a8cfb0720cc5c"
-  integrity sha512-r0PK6tCRfnlily5ykKG81XTikeuob0nREE8Ds1YJrwiTDXlBbVIcXQzL23X0Qh0Glhoqq/W6P7JBWkwGyOSrxw==
+regjsgen@^0.7.1:
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/regjsgen/-/regjsgen-0.7.1.tgz#ee5ef30e18d3f09b7c369b76e7c2373ed25546f6"
+  integrity sha512-RAt+8H2ZEzHeYWxZ3H2z6tF18zyyOnlcdaafLrm21Bguj7uZy6ULibiAFdXEtKQY4Sy7wDTwDiOazasMLc4KPA==
 
 regjsparser@^0.7.0:
   version "0.7.0"
@@ -12914,10 +12914,10 @@ restore-cursor@^4.0.0:
     onetime "^5.1.0"
     signal-exit "^3.0.2"
 
-ret@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/ret/-/ret-0.4.0.tgz#b040b0e9c2e1ba2df3e9af39fc8159857f50ea74"
-  integrity sha512-ZAUfxFXaRPGDk8P2qxoDT/xz4DF+Iaq+pIH07ZMGhIGWo/5zFZRg/mPvKkzxRWTqfqy9M2Hw7Uqv3z3XwE6cpw==
+ret@^0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/ret/-/ret-0.4.1.tgz#25ab69338ae276961bbeb198099509303d0640f4"
+  integrity sha512-pefeCR2ApSLsspFxqUopYJ6jNpduLiO4RRMz4hdhKUwN9v0L3czgujZ++08agkJspyFHclC0FBtf0mMk7IJmfQ==
 
 ret@~0.1.10:
   version "0.1.15"
