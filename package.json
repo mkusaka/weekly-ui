@@ -133,7 +133,7 @@
     "character-entities-legacy": "^3.0.0",
     "character-reference-invalid": "^2.0.1",
     "chardet": "^1.4.0",
-    "chokidar": "^3.5.2",
+    "chokidar": "^3.5.3",
     "chownr": "^2.0.0",
     "chrome-trace-event": "^1.0.3",
     "ci-info": "^3.3.0",
