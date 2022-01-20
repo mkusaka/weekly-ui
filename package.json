@@ -496,7 +496,7 @@
     "neo-async": "^2.6.2",
     "nice-try": "^3.0.0",
     "no-case": "^3.0.4",
-    "node-fetch": "^3.1.1",
+    "node-fetch": "^3.2.0",
     "node-int64": "^0.4.0",
     "node-libs-browser": "^2.2.1",
     "node-modules-regexp": "^1.0.0",
@@ -1138,7 +1138,7 @@
     "@types/yaml": "^1.9.7",
     "gh-pages": "^3.2.3",
     "react-is": "^17.0.2",
-    "typescript": "^4.5.4"
+    "typescript": "^4.5.5"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
