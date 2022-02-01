@@ -2576,10 +2576,10 @@
   resolved "https://registry.yarnpkg.com/@types/concat-map/-/concat-map-0.0.1.tgz#a3d57a31f04a4fc74a825191edaf6ac08d808e6b"
   integrity sha512-gO/gHvRa6Q2RBTOQ554WNMkP8ThTEQhRAHIwQAj3BA/KCtNx49JKuau85MdcKVWiv1Nlsr2TN68Atv+jl3ZxcQ==
 
-"@types/concat-stream@^1.6.1":
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/@types/concat-stream/-/concat-stream-1.6.1.tgz#24bcfc101ecf68e886aaedce60dfd74b632a1b74"
-  integrity sha512-eHE4cQPoj6ngxBZMvVf6Hw7Mh4jMW4U9lpGmS5GBPB9RYxlFg+CHaVN7ErNY4W9XfLIEn20b4VDYaIrbq0q4uA==
+"@types/concat-stream@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@types/concat-stream/-/concat-stream-2.0.0.tgz#a716f0ba9015014e643addb351da05a73bef425c"
+  integrity sha512-t3YCerNM7NTVjLuICZo5gYAXYoDvpuuTceCcFQWcDQz26kxUR5uIWolxbIR5jRNIXpMqhOpW/b8imCR1LEmuJw==
   dependencies:
     "@types/node" "*"
 
