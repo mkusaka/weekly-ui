@@ -635,7 +635,7 @@
     "relateurl": "^0.2.7",
     "remark-external-links": "^9.0.1",
     "remark-footnotes": "^4.0.1",
-    "remark-mdx": "^1.6.22",
+    "remark-mdx": "^2.0.0",
     "remark-parse": "^10.0.1",
     "remark-slug": "^7.0.1",
     "remark-squeeze-paragraphs": "^5.0.1",
