@@ -7077,10 +7077,10 @@ dotenv-expand@^5.1.0:
   resolved "https://registry.yarnpkg.com/dotenv-expand/-/dotenv-expand-5.1.0.tgz#3fbaf020bfd794884072ea26b1e9791d45a629f0"
   integrity sha512-YXQl1DSa4/PQyRfgrv6aoNjhasp/p4qs9FjJ4q4cQk+8m4r6k4ZSiEyytKG8f8W9gi8WsQtIObNmKd+tMzNTmA==
 
-dotenv-expand@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/dotenv-expand/-/dotenv-expand-7.0.0.tgz#ea5c86f4fdd42933aa3a5ec2635c0122de9c2e73"
-  integrity sha512-5J8gdaBEXJ2Xtt0TZF4FYgpYARQsQvSLSDdLrXGxPd2lpWuwlrmb0hrBVRC7GmcAu8JTZE7VPJWYM3LsR4Actw==
+dotenv-expand@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/dotenv-expand/-/dotenv-expand-8.0.1.tgz#332aa17c14b12e28e2e230f8d183eecc1c014fdc"
+  integrity sha512-j/Ih7bIERDR5PzI89Zu8ayd3tXZ6E3dbY0ljQ9Db0K87qBO8zdLsi2dIvDHMWtjC3Yxb8XixOTHAtia0fDHRpg==
 
 dotenv-webpack@^7.1.0:
   version "7.1.0"
