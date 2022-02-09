@@ -3722,10 +3722,10 @@
   resolved "https://registry.yarnpkg.com/@types/prelude-ls/-/prelude-ls-1.1.29.tgz#4d9913c94baeef309457d670d5ddeff96fc6b5a8"
   integrity sha1-TZkTyUuu7zCUV9Zw1d3v+W/Gtag=
 
-"@types/prettier@^2.4.3":
-  version "2.4.3"
-  resolved "https://registry.yarnpkg.com/@types/prettier/-/prettier-2.4.3.tgz#a3c65525b91fca7da00ab1a3ac2b5a2a4afbffbf"
-  integrity sha512-QzSuZMBuG5u8HqYz01qtMdg/Jfctlnvj1z/lYnIDXs/golxw0fxtRAHd9KrzjR7Yxz1qVeI00o0kiO3PmVdJ9w==
+"@types/prettier@^2.4.4":
+  version "2.4.4"
+  resolved "https://registry.yarnpkg.com/@types/prettier/-/prettier-2.4.4.tgz#5d9b63132df54d8909fce1c3f8ca260fdd693e17"
+  integrity sha512-ReVR2rLTV1kvtlWFyuot+d1pkpG2Fw/XKE3PDAdj57rbM97ttSp9JZ2UsP+2EHTylra9cUf6JA7tGwW1INzUrA==
 
 "@types/pretty-hrtime@^1.0.0", "@types/pretty-hrtime@^1.0.1":
   version "1.0.1"
