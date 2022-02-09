@@ -1042,7 +1042,7 @@
     "@types/postcss-modules-scope": "^3.0.0",
     "@types/postcss-modules-values": "^4.0.0",
     "@types/prelude-ls": "^1.1.29",
-    "@types/prettier": "^2.4.3",
+    "@types/prettier": "^2.4.4",
     "@types/pretty-hrtime": "^1.0.1",
     "@types/prismjs": "^1.26.0",
     "@types/promise-inflight": "^1.0.0",
