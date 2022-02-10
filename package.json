@@ -1131,7 +1131,7 @@
     "@types/webpack-sources": "^3.2.0",
     "@types/webpack-virtual-modules": "^0.1.1",
     "@types/which": "^2.0.1",
-    "@types/write-file-atomic": "^3.0.3",
+    "@types/write-file-atomic": "^4.0.0",
     "@types/xtend": "^4.0.4",
     "@types/y18n": "^4.0.0",
     "@types/yallist": "^4.0.1",
