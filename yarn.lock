@@ -13163,10 +13163,10 @@ restore-cursor@^4.0.0:
     onetime "^5.1.0"
     signal-exit "^3.0.2"
 
-ret@^0.4.1:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/ret/-/ret-0.4.1.tgz#25ab69338ae276961bbeb198099509303d0640f4"
-  integrity sha512-pefeCR2ApSLsspFxqUopYJ6jNpduLiO4RRMz4hdhKUwN9v0L3czgujZ++08agkJspyFHclC0FBtf0mMk7IJmfQ==
+ret@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/ret/-/ret-0.4.2.tgz#c6c2491443352d7317613a7500e60ddbfc1ec85e"
+  integrity sha512-qz1S3iYdpbTKQ295HuPYPYu0DYvk8nuJ4LGmhjlL1Yo3yJ5Mw3nRynI8ITKMgIIah7oMynuK2MQauz2lpSzKzg==
 
 ret@~0.1.10:
   version "0.1.15"
