@@ -297,7 +297,7 @@
     "function.prototype.name": "^1.1.5",
     "functions-have-names": "^1.2.2",
     "fuse.js": "^6.5.3",
-    "gauge": "^4.0.0",
+    "gauge": "^4.0.1",
     "gensync": "^1.0.0-beta.2",
     "get-package-type": "^0.1.0",
     "get-stream": "^6.0.1",
@@ -801,7 +801,7 @@
     "watchpack": "^2.3.1",
     "watchpack-chokidar2": "^2.0.1",
     "web-namespaces": "^2.0.1",
-    "webpack": "^5.68.0",
+    "webpack": "^5.69.0",
     "webpack-dev-middleware": "^5.3.1",
     "webpack-hot-middleware": "^2.25.1",
     "webpack-log": "^3.0.2",
@@ -822,7 +822,7 @@
     "zwitch": "^2.0.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.17.2",
+    "@babel/core": "^7.17.4",
     "@storybook/addon-actions": "^6.4.19",
     "@storybook/addon-essentials": "^6.4.19",
     "@storybook/addon-links": "^6.4.19",
