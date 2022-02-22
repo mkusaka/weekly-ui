@@ -445,7 +445,7 @@
     "loose-envify": "^1.4.0",
     "lower-case": "^2.0.2",
     "lowlight": "^2.5.0",
-    "lru-cache": "^7.3.0",
+    "lru-cache": "^7.4.0",
     "make-dir": "^3.1.0",
     "makeerror": "^1.0.12",
     "map-cache": "^0.2.2",
