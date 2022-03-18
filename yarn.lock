@@ -14719,10 +14719,12 @@ unist-util-position@^3.0.0:
   resolved "https://registry.yarnpkg.com/unist-util-position/-/unist-util-position-3.1.0.tgz#1c42ee6301f8d52f47d14f62bbdb796571fa2d47"
   integrity sha512-w+PkwCbYSFw8vpgWD0v7zRCl1FpY3fjDSQ3/N/wNd9Ffa4gPi8+4keqt99N3XW6F99t/mUzp2xAhNmfKWp95QA==
 
-unist-util-position@^4.0.0, unist-util-position@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/unist-util-position/-/unist-util-position-4.0.1.tgz#f8484b2da19a897a0180556d160c28633070dbb9"
-  integrity sha512-mgy/zI9fQ2HlbOtTdr2w9lhVaiFUHWQnZrFF2EUoVOqtAUdzqMtNiD99qA5a1IcjWVR8O6aVYE9u7Z2z1v0SQA==
+unist-util-position@^4.0.0, unist-util-position@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/unist-util-position/-/unist-util-position-4.0.2.tgz#1915816906a3503f3e40d65b6e4fe6d41845d2e3"
+  integrity sha512-Y6+plxR41dOLbyyqVDLuGWgXDmxdXslCSRYQkSDagBnOT9oFsQH0J8FzhirSklUEe0xZTT0WDnAE1gXPaDFljA==
+  dependencies:
+    "@types/unist" "^2.0.0"
 
 unist-util-remove-position@^2.0.0:
   version "2.0.1"
