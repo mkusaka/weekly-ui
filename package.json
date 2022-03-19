@@ -416,7 +416,7 @@
     "istanbul-lib-instrument": "^5.1.0",
     "iterate-iterator": "^1.0.2",
     "iterate-value": "^1.0.2",
-    "jake": "^10.8.3",
+    "jake": "^10.8.4",
     "jest-haste-map": "^27.5.1",
     "jest-regex-util": "^27.5.1",
     "jest-serializer": "^27.5.1",
