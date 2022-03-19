@@ -9848,10 +9848,10 @@ iterate-value@^1.0.2:
     es-get-iterator "^1.0.2"
     iterate-iterator "^1.0.1"
 
-jake@^10.6.1, jake@^10.8.2:
-  version "10.8.2"
-  resolved "https://registry.yarnpkg.com/jake/-/jake-10.8.2.tgz#ebc9de8558160a66d82d0eadc6a2e58fbc500a7b"
-  integrity sha512-eLpKyrfG3mzvGE2Du8VoPbeSkRry093+tyNjdYaBbJS9v17knImYGNXQCUV0gLxQtF82m3E8iRb/wdSQZLoq7A==
+jake@^10.6.1, jake@^10.8.3:
+  version "10.8.3"
+  resolved "https://registry.yarnpkg.com/jake/-/jake-10.8.3.tgz#c532d7fef8e014d277f93e1943ee19374d06cba3"
+  integrity sha512-qeoeVK7eSYbs1r9zPLweN0KJfUPqUQyM/WtJC8kmUJoYzfkK/MqcJNNkrOY3CtoWyg8LytAAwyNMk3NGsDs3OQ==
   dependencies:
     async "0.9.x"
     chalk "^2.4.2"
