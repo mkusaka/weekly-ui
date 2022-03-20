@@ -201,7 +201,7 @@
     "delegates": "^1.0.0",
     "depd": "^2.0.0",
     "des.js": "^1.0.1",
-    "destroy": "^1.1.1",
+    "destroy": "^1.2.0",
     "detab": "^3.0.1",
     "detect-port": "^1.3.0",
     "detect-port-alt": "^1.1.6",
