@@ -3216,10 +3216,10 @@
   resolved "https://registry.yarnpkg.com/@types/is-glob/-/is-glob-4.0.2.tgz#c243dd0d09eac2992130142419ff2308ffd988bf"
   integrity sha512-4j5G9Y5jljDSICQ1R2f/Rcyoj6DZmYGneny+p/cDkjep0rkqNg0W73Ty0bVjMUTZgLXHf8oiMjg1XC3CDwCz+g==
 
-"@types/is-number@^7.0.2":
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/@types/is-number/-/is-number-7.0.2.tgz#b8cc7cef635544acdd4325104888edbae940b460"
-  integrity sha512-5SVdfYSyNOc16O1wp/cfFN2i/tCFAriWKzKk2RkUIT0Ec+jvvX+oBPbNSRpuBwSobXX+gRjaamE2y0Z10sgO5A==
+"@types/is-number@^7.0.3":
+  version "7.0.3"
+  resolved "https://registry.yarnpkg.com/@types/is-number/-/is-number-7.0.3.tgz#bfb9755dec4fc7a7c771a8eaa32870f6b6946b98"
+  integrity sha512-W+5JnmBqaRxR8NpHncRVww5tRSuvKLHBWEeIXN3BWvxZirL49unZBMHDtwrxnkQW5ZHHVQmsGIkdCXY7GS5WVw==
 
 "@types/is-object@^1.0.2":
   version "1.0.2"
