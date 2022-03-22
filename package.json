@@ -478,7 +478,7 @@
     "minimalistic-assert": "^1.0.1",
     "minimalistic-crypto-utils": "^1.0.1",
     "minimatch": "^5.0.1",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "minipass": "^3.1.6",
     "minipass-collect": "^1.0.2",
     "minipass-flush": "^1.0.5",
