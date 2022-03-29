@@ -600,10 +600,10 @@
     "range-parser": "^1.2.1",
     "raw-body": "^2.5.1",
     "raw-loader": "^4.0.2",
-    "react": "^17.0.2",
+    "react": "^18.0.0",
     "react-color": "^2.19.3",
     "react-dev-utils": "^12.0.0",
-    "react-dom": "^17.0.2",
+    "react-dom": "^18.0.0",
     "react-draggable": "^4.4.4",
     "react-element-to-jsx-string": "^14.3.4",
     "react-error-overlay": "^6.0.10",
@@ -1137,7 +1137,7 @@
     "@types/yallist": "^4.0.1",
     "@types/yaml": "^1.9.7",
     "gh-pages": "^3.2.3",
-    "react-is": "^17.0.2",
+    "react-is": "^18.0.0",
     "typescript": "^4.6.3"
   },
   "scripts": {
