@@ -560,7 +560,7 @@
     "pkg-dir": "^6.0.1",
     "pkg-up": "^4.0.0",
     "pnp-webpack-plugin": "^1.7.0",
-    "polished": "^4.2.0",
+    "polished": "^4.2.1",
     "popper.js": "^1.16.1",
     "posix-character-classes": "^1.0.0",
     "postcss": "^8.4.12",
