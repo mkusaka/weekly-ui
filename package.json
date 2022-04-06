@@ -662,7 +662,7 @@
     "scheduler": "^0.21.0",
     "schema-utils": "^4.0.0",
     "select": "^1.1.2",
-    "semver": "^7.3.5",
+    "semver": "^7.3.6",
     "send": "^0.18.0",
     "serialize-javascript": "^6.0.0",
     "serve-favicon": "^2.5.0",
@@ -822,7 +822,7 @@
     "zwitch": "^2.0.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.17.8",
+    "@babel/core": "^7.17.9",
     "@storybook/addon-actions": "^6.4.20",
     "@storybook/addon-essentials": "^6.4.20",
     "@storybook/addon-links": "^6.4.20",
