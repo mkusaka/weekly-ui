@@ -722,7 +722,7 @@
     "terser-webpack-plugin": "^5.3.1",
     "test-exclude": "^6.0.0",
     "text-table": "^0.2.0",
-    "throttle-debounce": "^3.0.1",
+    "throttle-debounce": "^4.0.0",
     "through": "^2.3.8",
     "through2": "^4.0.2",
     "timers-browserify": "^2.0.12",
