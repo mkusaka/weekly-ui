@@ -2840,10 +2840,10 @@
   resolved "https://registry.yarnpkg.com/@types/es6-shim/-/es6-shim-0.31.42.tgz#710e4c48d2ebbf2517498c3307b41beed63fe1ef"
   integrity sha512-GS3EuEgiGv/TP7bwPLOlkSiTfdSL4XHOj0jJuvz4/UbR89QrC4Py3lYlMlH/7w0dKfJ8fIori0rVIl2gQ7lb5A==
 
-"@types/escape-html@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@types/escape-html/-/escape-html-1.0.1.tgz#b19b4646915f0ae2c306bf984dc0a59c5cfc97ba"
-  integrity sha512-4mI1FuUUZiuT95fSVqvZxp/ssQK9zsa86S43h9x3zPOSU9BBJ+BfDkXwuaU7BfsD+e7U0/cUUfJFk3iW2M4okA==
+"@types/escape-html@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@types/escape-html/-/escape-html-1.0.2.tgz#072b7b13784fb3cee9c2450c22f36405983f5e3c"
+  integrity sha512-gaBLT8pdcexFztLSPRtriHeXY/Kn4907uOCZ4Q3lncFBkheAWOuNt53ypsF8szgxbEJ513UeBzcf4utN0EzEwA==
 
 "@types/escodegen@^0.0.7":
   version "0.0.7"
@@ -3803,10 +3803,10 @@
   resolved "https://registry.yarnpkg.com/@types/qs/-/qs-6.9.7.tgz#63bb7d067db107cc1e457c303bc25d511febf6cb"
   integrity sha512-FGa1F62FT09qcrueBA6qYTrJPVDzah9a+493+o2PCXsesWHIn27G98TsSMs3WPNbZIEj4+VJf6saSFpvD+3Zsw==
 
-"@types/ramda@^0.28.10":
-  version "0.28.10"
-  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.28.10.tgz#0238862a7c340e9697abdaece82f3183cf287353"
-  integrity sha512-JwrpweZziJM73qMNw8tGxEEU3Q8MprJ54ST+IkaCpcFM+JxWVmcSTv69o/AulsEuxz3Bk+HqRTDCH4yKt2ikyw==
+"@types/ramda@^0.28.11":
+  version "0.28.11"
+  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.28.11.tgz#b578ca5e9f84716dbe0d7eff07f30c23f509b46c"
+  integrity sha512-FG40c+CduBSpGL6gh9M2Ybe+Rhkj/G6HeCnvufO1HbEcnY5fbFfL7EPuj1mXNcEKfxdZw6mRu4cy+GMHen79DQ==
   dependencies:
     ts-toolbelt "^6.15.1"
 
@@ -3922,10 +3922,10 @@
   dependencies:
     "@types/interpret" "*"
 
-"@types/recursive-readdir@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@types/recursive-readdir/-/recursive-readdir-2.2.0.tgz#b39cd5474fd58ea727fe434d5c68b7a20ba9121c"
-  integrity sha512-HGk753KRu2N4mWduovY4BLjYq4jTOL29gV2OfGdGxHcPSWGFkC5RRIdk+VTs5XmYd7MVAD+JwKrcb5+5Y7FOCg==
+"@types/recursive-readdir@^2.2.1":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@types/recursive-readdir/-/recursive-readdir-2.2.1.tgz#330f5ec0b73e8aeaf267a6e056884e393f3543a3"
+  integrity sha512-Xd+Ptc4/F2ueInqy5yK2FI5FxtwwbX2+VZpcg+9oYsFJVen8qQKGapCr+Bi5wQtHU1cTXT8s+07lo/nKPgu8Gg==
   dependencies:
     "@types/node" "*"
 
