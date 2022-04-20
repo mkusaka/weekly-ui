@@ -2666,10 +2666,10 @@
   resolved "https://registry.yarnpkg.com/@types/cookie-signature/-/cookie-signature-1.0.4.tgz#164cc7208f35fc379195a9d09431801677fc4559"
   integrity sha512-B9LOCjVnLniz5NHq8pPFQdDjRGtLZKYG7tQHveMeUalWvZgOuLQ5OeWgx3y4/WLJFt0N+tYyk8HMEOsvCjf7Yw==
 
-"@types/cookie@^0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@types/cookie/-/cookie-0.5.0.tgz#14ebcd209f2555e341548c31128d4deb34dfb2b0"
-  integrity sha512-CJWHVHHupxBYfIlMM+qzXx4dRKIV1VzOm0cP3Wpqten8MDx1tK+y92YDXUshN1ONAfwodvKxDNkw35/pNs+izg==
+"@types/cookie@^0.5.1":
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/@types/cookie/-/cookie-0.5.1.tgz#b29aa1f91a59f35e29ff8f7cb24faf1a3a750554"
+  integrity sha512-COUnqfB2+ckwXXSFInsFdOAWQzCCx+a5hq2ruyj+Vjund94RJQd4LG2u9hnvJrTgunKAaax7ancBYlDrNYxA0g==
 
 "@types/core-js@^2.5.5":
   version "2.5.5"
