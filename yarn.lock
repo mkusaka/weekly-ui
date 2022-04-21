@@ -7123,7 +7123,7 @@ domhandler@^4.0.0, domhandler@^4.2.0, domhandler@^4.2.2, domhandler@^4.3.1:
   dependencies:
     domelementtype "^2.2.0"
 
-domhandler@^5.0.2:
+domhandler@^5.0.1, domhandler@^5.0.2:
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/domhandler/-/domhandler-5.0.2.tgz#fdac2564e054ae05d4ef73605a43fcba17de2d1f"
   integrity sha512-pr8ToPIuwBonzUy42STpc5Cf0m69zsQ7gtCLLvKrTbhVRnRohT2pLiJmGp3PAh16nDVWpYpcRpdjuk1vFmnQUg==
@@ -7138,6 +7138,15 @@ domutils@^2.5.2, domutils@^2.8.0:
     dom-serializer "^1.0.1"
     domelementtype "^2.2.0"
     domhandler "^4.2.0"
+
+domutils@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/domutils/-/domutils-3.0.0.tgz#6d77bd48f9c1b2f75863e86f3f3cedaeb0ccef29"
+  integrity sha512-lnrXdVDjQW/KpTOk+eDK7CnrR7A2Q5hzanVshqaLi1OFH1l+WsRUUANkUtoEOEzy8n01VtHaXMf9E7hcQVmhjA==
+  dependencies:
+    dom-serializer "^2.0.0"
+    domelementtype "^2.3.0"
+    domhandler "^5.0.1"
 
 dot-case@^3.0.4:
   version "3.0.4"
