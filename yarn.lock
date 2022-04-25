@@ -6822,10 +6822,10 @@ css-select@^4.1.3:
     domutils "^2.8.0"
     nth-check "^2.0.1"
 
-css-select@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/css-select/-/css-select-5.0.0.tgz#3528a9bf67f0830cdc95eee67f759c239240f588"
-  integrity sha512-3/vdFG8XSUWknhxAZ6WkQbyIw+kFY1kS0nVU9TBhtkEb+ba7HWzxzyfZhConzUie+CV4lZH51/4/hLPVs7HX/A==
+css-select@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/css-select/-/css-select-5.0.1.tgz#32202b44ae905e06537c7e7b44c3cf7cb9baeef9"
+  integrity sha512-0QQZQta641EzzHl+6+iyeKDVXvqvmhvwnZrX58Yf7mlmiilb3bbTtb86DYiCtxhUp+h9g4lULyIXMnOVPBhGhg==
   dependencies:
     boolbase "^1.0.0"
     css-what "^6.1.0"
@@ -7274,10 +7274,10 @@ ejs@^3.1.7:
   dependencies:
     jake "^10.8.5"
 
-electron-to-chromium@^1.4.118:
-  version "1.4.118"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.118.tgz#2d917c71712dac9652cc01af46c7d0bd51552974"
-  integrity sha512-maZIKjnYDvF7Fs35nvVcyr44UcKNwybr93Oba2n3HkKDFAtk0svERkLN/HyczJDS3Fo4wU9th9fUQd09ZLtj1w==
+electron-to-chromium@^1.4.118, electron-to-chromium@^1.4.119:
+  version "1.4.119"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.119.tgz#a1dcef9f9a0283119256030a605da6ae63b0a402"
+  integrity sha512-HPEmKy+d0xK8oCfEHc5t6wDsSAi1WmE3Ld08QrBjAPxaAzfuKP66VJ77lcTqxTt7GJmSE279s75mhW64Xh+4kw==
 
 element-resize-detector@^1.2.2, element-resize-detector@^1.2.4:
   version "1.2.4"
