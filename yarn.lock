@@ -6803,7 +6803,7 @@ css-loader@^6.7.1:
     postcss-value-parser "^4.2.0"
     semver "^7.3.5"
 
-css-select@^4.1.3, css-select@^4.3.0:
+css-select@^4.1.3:
   version "4.3.0"
   resolved "https://registry.yarnpkg.com/css-select/-/css-select-4.3.0.tgz#db7129b2846662fd8628cfc496abb2b59e41529b"
   integrity sha512-wPpOYtnsVontu2mODhA19JrqWxNsfdatRKd64kmpRbQgh1KtItko5sTnEpPdpSaJszTOhEMlF/RPz28qj4HqhQ==
@@ -6812,6 +6812,17 @@ css-select@^4.1.3, css-select@^4.3.0:
     css-what "^6.0.1"
     domhandler "^4.3.1"
     domutils "^2.8.0"
+    nth-check "^2.0.1"
+
+css-select@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/css-select/-/css-select-5.0.0.tgz#3528a9bf67f0830cdc95eee67f759c239240f588"
+  integrity sha512-3/vdFG8XSUWknhxAZ6WkQbyIw+kFY1kS0nVU9TBhtkEb+ba7HWzxzyfZhConzUie+CV4lZH51/4/hLPVs7HX/A==
+  dependencies:
+    boolbase "^1.0.0"
+    css-what "^6.1.0"
+    domhandler "^5.0.2"
+    domutils "^3.0.1"
     nth-check "^2.0.1"
 
 css-what@^6.0.1, css-what@^6.1.0:
