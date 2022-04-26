@@ -2340,10 +2340,10 @@
   resolved "https://registry.yarnpkg.com/@types/argparse/-/argparse-2.0.10.tgz#664e84808accd1987548d888b9d21b3e9c996a6c"
   integrity sha512-C4wahC3gz3vQtvPazrJ5ONwmK1zSDllQboiWvpMM/iOswCYfBREFnjFbq/iWKIVOCl8+m5Pk6eva6/ZSsDuIGA==
 
-"@types/arr-diff@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@types/arr-diff/-/arr-diff-4.0.0.tgz#24bce21efc384fe9b4a5952eba3256dbd14f297a"
-  integrity sha512-rXnlEJI+QRG9wd+++oySF2HuckHXEG6xcLT1pX/u+NFZH/+ITpb2ocMU0W4LJaBnvkVOYMDZgegspxq3kd7Pyg==
+"@types/arr-diff@^4.0.1":
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@types/arr-diff/-/arr-diff-4.0.1.tgz#4a95399f24a67ca5316c54bb6df6bbc1185c7a18"
+  integrity sha512-dBxINF+ghxRgQZPXC3XGrLAjxrFcXBm18TS063oq/rmaKcif7EZNG3dd9GGdYtvfg8Fi80bkLRWfmKH7JQXenQ==
 
 "@types/arr-union@^3.1.0":
   version "3.1.0"
