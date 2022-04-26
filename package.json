@@ -834,7 +834,7 @@
     "@types/app-root-dir": "^0.1.1",
     "@types/are-we-there-yet": "^1.1.0",
     "@types/argparse": "^2.0.10",
-    "@types/arr-diff": "^4.0.0",
+    "@types/arr-diff": "^4.0.1",
     "@types/arr-union": "^3.1.0",
     "@types/array-unique": "^0.3.0",
     "@types/array.prototype.flat": "^1.2.1",
