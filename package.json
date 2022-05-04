@@ -1107,7 +1107,7 @@
     "@types/tar": "^6.1.1",
     "@types/terser-webpack-plugin": "^5.0.4",
     "@types/text-table": "^0.2.2",
-    "@types/throttle-debounce": "^4.0.0",
+    "@types/throttle-debounce": "^5.0.0",
     "@types/through": "^0.0.30",
     "@types/through2": "^2.0.36",
     "@types/tinycolor2": "^1.4.3",
