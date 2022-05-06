@@ -716,7 +716,7 @@
     "symbol.prototype.description": "^1.0.5",
     "tapable": "^2.2.1",
     "tar": "^6.1.11",
-    "telejson": "^5.3.3",
+    "telejson": "^6.0.1",
     "term-size": "^3.0.1",
     "terser": "^5.13.1",
     "terser-webpack-plugin": "^5.3.1",
