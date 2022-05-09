@@ -14312,10 +14312,10 @@ telejson@^5.3.2, telejson@^5.3.3:
     lodash "^4.17.21"
     memoizerific "^1.11.3"
 
-telejson@^6.0.7:
-  version "6.0.7"
-  resolved "https://registry.yarnpkg.com/telejson/-/telejson-6.0.7.tgz#3f9ab3a52d919212c7babdaf1d45c52330f00e74"
-  integrity sha512-czRFW+TYoDnFWAuSxE+TrSfyhRlQmaVyNfuXCC9GLjAw+cLMo7U81ud+QrG22g+cUTjrAuLUDyMoOA96GRj/EQ==
+telejson@^6.0.8:
+  version "6.0.8"
+  resolved "https://registry.yarnpkg.com/telejson/-/telejson-6.0.8.tgz#1c432db7e7a9212c1fbd941c3e5174ec385148f7"
+  integrity sha512-nerNXi+j8NK1QEfBHtZUN/aLdDcyupA//9kAboYLrtzZlPLpUfqbVGWb9zz91f/mIjRbAYhbgtnJHY8I1b5MBg==
   dependencies:
     "@types/is-function" "^1.0.0"
     global "^4.4.0"
