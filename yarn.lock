@@ -3409,10 +3409,10 @@
   resolved "https://registry.yarnpkg.com/@types/lowlight/-/lowlight-0.0.3.tgz#433b03dd63894dde17860063f4c90a688431194b"
   integrity sha512-R83q/yPX2nIlo9D3WtSjyUDd57t8s+GVLaL8YIv3k7zMMWpYpOXqjJgrWp80qXUJB/a1t76nTyBpxrv0JNYaEg==
 
-"@types/lru-cache@^7.10.6":
-  version "7.10.6"
-  resolved "https://registry.yarnpkg.com/@types/lru-cache/-/lru-cache-7.10.6.tgz#c048a8e2e6ed88389f587d4b3338d37a343d3462"
-  integrity sha512-MKy+FN0qTu90dSVun9bAagCLR+qyhIisBXuMiW2t2/9IX1hIenkyb932TqPFgdWAcOWScCkFoFzzZGQy3uBHdQ==
+"@types/lru-cache@^7.10.9":
+  version "7.10.10"
+  resolved "https://registry.yarnpkg.com/@types/lru-cache/-/lru-cache-7.10.10.tgz#3fa937c35ff4b3f6753d5737915c9bf8e693a713"
+  integrity sha512-nEpVRPWW9EBmx2SCfNn3ClYxPL7IktPX12HhIoSc/H5mMjdeW3+YsXIpseLQ2xF35+OcpwKQbEUw5VtqE4PDNA==
   dependencies:
     lru-cache "*"
 
