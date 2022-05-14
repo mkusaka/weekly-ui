@@ -7905,10 +7905,18 @@ file-loader@^6.2.0:
     loader-utils "^2.0.0"
     schema-utils "^3.0.0"
 
-file-system-cache@^1.0.5, file-system-cache@^1.1.0:
+file-system-cache@^1.0.5:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/file-system-cache/-/file-system-cache-1.1.0.tgz#984de17b976b75a77a27e08d6828137c1aa80fa1"
   integrity sha512-IzF5MBq+5CR0jXx5RxPe4BICl/oEhBSXKaL9fLhAXrIfIUS77Hr4vzrYyqYMHN6uTt+BOqi3fDCTjjEBCjERKw==
+  dependencies:
+    fs-extra "^10.1.0"
+    ramda "^0.28.0"
+
+file-system-cache@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/file-system-cache/-/file-system-cache-2.0.0.tgz#87c02587460dbbee4a2ba1c8525230c9a410dd40"
+  integrity sha512-QlYut2ZtxRgdW/dboSmiKZWM8FsnpLaLI549hN/RWgwn3FawSil7Jc2n7nFHheclvYxa4LJqwEOvNUYv9VsCXg==
   dependencies:
     fs-extra "^10.1.0"
     ramda "^0.28.0"
