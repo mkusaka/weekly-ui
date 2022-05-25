@@ -1138,7 +1138,7 @@
     "@types/yaml": "^1.9.7",
     "gh-pages": "^4.0.0",
     "react-is": "^18.1.0",
-    "typescript": "^4.6.4"
+    "typescript": "^4.7.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
