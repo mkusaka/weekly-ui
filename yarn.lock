@@ -7295,11 +7295,11 @@ error-ex@^1.2.0, error-ex@^1.3.1, error-ex@^1.3.2:
     is-arrayish "^0.2.1"
 
 error-stack-parser@^2.0.6:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/error-stack-parser/-/error-stack-parser-2.1.1.tgz#cc6a2759d3c9ca9ee01642dde5814a101d5a82af"
-  integrity sha512-OuQiv82nAL9z8f2Qb3bnIEy8MZsmbfpkk8PiJnKclHPMuhVaOLGHgYjGnMJwbu+Cn4wEYQbq4STK9mXWn3DIcw==
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/error-stack-parser/-/error-stack-parser-2.1.2.tgz#6a073eb9c30ec0a9a197c8b7e8004ab197103c32"
+  integrity sha512-SIJp3QwJ81ski8Fi3vojI8S/3fsf3rUhe0duVn9Gpf1sfO/+YUARW0Xyjx7ilS/V/hNj3nW6dVLW1OoHsyuJ4A==
   dependencies:
-    stackframe "^1.3.0"
+    stackframe "^1.3.4"
 
 es-abstract@^1.19.0, es-abstract@^1.19.1, es-abstract@^1.19.2, es-abstract@^1.19.5, es-abstract@^1.20.0, es-abstract@^1.20.1:
   version "1.20.1"
@@ -13942,10 +13942,10 @@ stable@^0.1.8:
   resolved "https://registry.yarnpkg.com/stable/-/stable-0.1.8.tgz#836eb3c8382fe2936feaf544631017ce7d47a3cf"
   integrity sha512-ji9qxRnOVfcuLDySj9qzhGSEFVobyt1kIOSkj1qZzYLzq7Tos/oUUWvotUPQLlrsidqsK6tBH89Bc9kL5zHA6w==
 
-stackframe@^1.3.0:
-  version "1.3.2"
-  resolved "https://registry.yarnpkg.com/stackframe/-/stackframe-1.3.2.tgz#63b41e860bd07e2606274cbd1f1fad7236f223d5"
-  integrity sha512-aPWS6K6ZVXxWB+r5TKv/iUNi7mw/f9VVEtJawrIHABGeIKQF+b2FugjRjFoGtlZVwr27Z7ZaLQGAWZ9Imjt+3A==
+stackframe@^1.3.4:
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/stackframe/-/stackframe-1.3.4.tgz#b881a004c8c149a5e8efef37d51b16e412943310"
+  integrity sha512-oeVtt7eWQS+Na6F//S4kJ2K2VbRlS9D43mAlMyVpVWovy9o+jfgH8O9agzANzaiLjclA0oYzUXEM4PurhSUChw==
 
 state-toggle@^1.0.0:
   version "1.0.3"
@@ -14668,9 +14668,9 @@ typescript@^4.7.3:
   integrity sha512-WOkT3XYvrpXx4vMMqlD+8R8R37fZkjyLGlxavMc4iB8lrl8L0DeTcHbYgw/v0N/z9wAFsgBhcsF0ruoySS22mA==
 
 uglify-js@^3.1.4:
-  version "3.15.5"
-  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.15.5.tgz#2b10f9e0bfb3f5c15a8e8404393b6361eaeb33b3"
-  integrity sha512-hNM5q5GbBRB5xB+PMqVRcgYe4c8jbyZ1pzZhS6jbq54/4F2gFK869ZheiE5A8/t+W5jtTNpWef/5Q9zk639FNQ==
+  version "3.16.0"
+  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.16.0.tgz#b778ba0831ca102c1d8ecbdec2d2bdfcc7353190"
+  integrity sha512-FEikl6bR30n0T3amyBh3LoiBdqHRy/f4H80+My34HOesOKyHfOsxAPAxOoqC0JUnC1amnO0IwkYC3sko51caSw==
 
 unbox-primitive@^1.0.2:
   version "1.0.2"
