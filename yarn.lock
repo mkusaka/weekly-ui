@@ -3803,7 +3803,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@^18.0.11", "@types/react@^18.0.12":
+"@types/react@*", "@types/react@^18.0.12":
   version "18.0.12"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-18.0.12.tgz#cdaa209d0a542b3fcf69cf31a03976ec4cdd8840"
   integrity sha512-duF1OTASSBQtcigUvhuiTB1Ya3OvSy+xORCiEf20H0P0lzx+/KeVsA99U5UjLXSbyo1DRJDlLKqTeM1ngosqtg==
@@ -12768,15 +12768,13 @@ react-lifecycles-compat@^3.0.4:
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
 
-react-popper-tooltip@^4.4.0:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/react-popper-tooltip/-/react-popper-tooltip-4.4.0.tgz#06dededf3e2c5b7b7dc9faacde8775834757dd9f"
-  integrity sha512-i6x9DDGI88kO/pltGF20unkpfCi1KwyT+g3naDILX3v5aQVvBoPZjEyMejBG3lcoN0IJwEjyrKkjGonRAuXK9g==
+react-popper-tooltip@^4.4.1:
+  version "4.4.1"
+  resolved "https://registry.yarnpkg.com/react-popper-tooltip/-/react-popper-tooltip-4.4.1.tgz#dc97900290f4fd4aad6a2d6698fc842b7d966f94"
+  integrity sha512-Qe4KH/CAdUYKWzCiV5g7XQGAHxqw9HIbZJpCUmvS+9s0d4qXk+ViCBp/lcTjUr1EG9FeNRt5LCy52tYBh2kO1Q==
   dependencies:
     "@babel/runtime" "^7.18.3"
     "@popperjs/core" "^2.11.5"
-    "@types/react" "^18.0.11"
-    "@types/react-dom" "^18.0.5"
     react-popper "^2.3.0"
 
 react-popper@^2.3.0:
