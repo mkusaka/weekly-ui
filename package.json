@@ -122,7 +122,7 @@
     "caller-path": "^4.0.0",
     "callsites": "^4.0.0",
     "camel-case": "^4.1.2",
-    "camelcase": "^6.3.0",
+    "camelcase": "^7.0.0",
     "camelcase-css": "^2.0.1",
     "caniuse-lite": "^1.0.30001346",
     "capture-exit": "^2.0.0",
