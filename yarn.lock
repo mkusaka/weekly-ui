@@ -7879,10 +7879,10 @@ filesize@^8.0.6:
   resolved "https://registry.yarnpkg.com/filesize/-/filesize-8.0.7.tgz#695e70d80f4e47012c132d57a059e80c6b580bd8"
   integrity sha512-pjmC+bkIF8XI7fWaH8KxHcZL3DPybs1roSKP4rKDvy20tAWwIObE4+JIseG2byfGKhud5ZnM4YSGKBz7Sh0ndQ==
 
-filesize@^9.0.1:
-  version "9.0.1"
-  resolved "https://registry.yarnpkg.com/filesize/-/filesize-9.0.1.tgz#eaf252bdda67912639153ef8554058ecd88ccb52"
-  integrity sha512-4OpF3eYI7S0O+memD6RetheN3qZYR2gGapwYauB2T2F+Da2uBml8jLcukv/7lJeL7ByC+2nzaHZfUR/bGT/HVQ==
+filesize@^9.0.2:
+  version "9.0.2"
+  resolved "https://registry.yarnpkg.com/filesize/-/filesize-9.0.2.tgz#920cab21d45b3be9828b6a2d3970ac83d4e1d10e"
+  integrity sha512-54L30Kx9BMxvF+AdOPve5OOQa4jbwbCn8c22XUV9SNnL6RhidUj/NEeRa7orQHILBPZ9ImBXj+RWsWn99weK+g==
 
 fill-range@^4.0.0:
   version "4.0.0"
@@ -15192,10 +15192,10 @@ vfile@^4.0.0:
     unist-util-stringify-position "^2.0.0"
     vfile-message "^2.0.0"
 
-vfile@^5.0.0, vfile@^5.3.2:
-  version "5.3.2"
-  resolved "https://registry.yarnpkg.com/vfile/-/vfile-5.3.2.tgz#b499fbc50197ea50ad3749e9b60beb16ca5b7c54"
-  integrity sha512-w0PLIugRY3Crkgw89TeMvHCzqCs/zpreR31hl4D92y6SOE07+bfJe+dK5Q2akwS+i/c801kzjoOr9gMcTe6IAA==
+vfile@^5.0.0, vfile@^5.3.3:
+  version "5.3.3"
+  resolved "https://registry.yarnpkg.com/vfile/-/vfile-5.3.3.tgz#70b75779d99e0698a8cb6536a09361ac37f800a0"
+  integrity sha512-xwALvwUKmXzHOri5dGXqXNN8JDEvxPhf8avC+E+pJEl32e4/grLdRdsgx23HpK7QI0cwgR4+QfaM8D5KUnki3g==
   dependencies:
     "@types/unist" "^2.0.0"
     is-buffer "^2.0.0"
