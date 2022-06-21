@@ -2916,10 +2916,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/function-bind@^1.1.6":
-  version "1.1.6"
-  resolved "https://registry.yarnpkg.com/@types/function-bind/-/function-bind-1.1.6.tgz#1983f4125366553642cf7be543d93e13c18c013e"
-  integrity sha512-xGb410emnIWftO5Mw6rer7z+fdSBZdey7vZ/R4fxmAx2KgZB+UO9G0wf1/FRtKl9QLGhidZQbbImFDPUobjxtQ==
+"@types/function-bind@^1.1.7":
+  version "1.1.7"
+  resolved "https://registry.yarnpkg.com/@types/function-bind/-/function-bind-1.1.7.tgz#54f8a8b0bdadf7943204d1f947db7333ccca4110"
+  integrity sha512-eWHKq8xoqn7PDRVqUVr6wk/S35gK+ZWR4QRRYvLzkt3rxDY1JajxQaBiQpj4dVq56USz0YlcRRaeMWj5FQlx5w==
 
 "@types/get-value@^3.0.2":
   version "3.0.2"
