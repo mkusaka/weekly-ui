@@ -13028,10 +13028,17 @@ regjsgen@^0.7.1:
   resolved "https://registry.yarnpkg.com/regjsgen/-/regjsgen-0.7.1.tgz#ee5ef30e18d3f09b7c369b76e7c2373ed25546f6"
   integrity sha512-RAt+8H2ZEzHeYWxZ3H2z6tF18zyyOnlcdaafLrm21Bguj7uZy6ULibiAFdXEtKQY4Sy7wDTwDiOazasMLc4KPA==
 
-regjsparser@^0.8.2, regjsparser@^0.8.4:
+regjsparser@^0.8.2:
   version "0.8.4"
   resolved "https://registry.yarnpkg.com/regjsparser/-/regjsparser-0.8.4.tgz#8a14285ffcc5de78c5b95d62bbf413b6bc132d5f"
   integrity sha512-J3LABycON/VNEu3abOviqGHuB/LOtOQj8SKmfP9anY5GfAVw/SPjwzSjxGjbZXIxbGfqTHtJw58C2Li/WkStmA==
+  dependencies:
+    jsesc "~0.5.0"
+
+regjsparser@^0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/regjsparser/-/regjsparser-0.9.0.tgz#5046cedd7156714c2856a107208490875e87fd0d"
+  integrity sha512-iYZJiKJcOWAPm2bfak3jm26JSYhqTQg4kAlbrEnsMWYcm3SIYmZJ5fdJlXGaVVOfmtAgLJz8SqA8aM1tHXs5Ng==
   dependencies:
     jsesc "~0.5.0"
 
