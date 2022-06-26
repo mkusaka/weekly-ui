@@ -738,7 +738,7 @@
     "toggle-selection": "^1.0.6",
     "toidentifier": "^1.0.1",
     "trim": "^1.0.1",
-    "trim-lines": "^2.0.0",
+    "trim-lines": "^3.0.0",
     "trim-trailing-lines": "^2.0.0",
     "trough": "^2.1.0",
     "ts-dedent": "^2.2.0",
