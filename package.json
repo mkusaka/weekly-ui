@@ -631,7 +631,7 @@
     "regexp.prototype.flags": "^1.4.3",
     "regexpu-core": "^5.0.1",
     "regjsgen": "^0.7.1",
-    "regjsparser": "^0.8.4",
+    "regjsparser": "^0.9.0",
     "relateurl": "^0.2.7",
     "remark-external-links": "^9.0.1",
     "remark-footnotes": "^4.0.1",
