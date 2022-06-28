@@ -4198,14 +4198,13 @@
   resolved "https://registry.yarnpkg.com/@types/warning/-/warning-3.0.0.tgz#0d2501268ad8f9962b740d387c4654f5f8e23e52"
   integrity sha512-t/Tvs5qR47OLOr+4E9ckN8AmP2Tf16gWq+/qA4iUGS/OOyHVO8wv2vjJuX8SNOUTJyWb+2t7wJm6cXILFnOROA==
 
-"@types/watchpack@^1.1.7":
-  version "1.1.7"
-  resolved "https://registry.yarnpkg.com/@types/watchpack/-/watchpack-1.1.7.tgz#9e680b223294cdfc10cb5a04da0543a97023cdd7"
-  integrity sha512-2XsUDmKGy5ymzQ48ev61nMimudAiZEH/qEBo9zueKA45F8OXIAD2iwEFZPi+uCHnsxcV5MMnbu+Hkx0CLgfTxw==
+"@types/watchpack@^2.4.0":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@types/watchpack/-/watchpack-2.4.0.tgz#35c6f8cdb3e82f443a93207856a54c2bfa7e6041"
+  integrity sha512-PSAD+o9hezvfUFFzrYB/PO6Je7kwiZ2BSnB3/EZ9le+jTDKB6x5NJ96WWzQz1h/AyGJ/de3/1KpuBTkUFZm77A==
   dependencies:
     "@types/graceful-fs" "*"
     "@types/node" "*"
-    chokidar "^2.1.2"
 
 "@types/webpack-dev-middleware@^5.0.2":
   version "5.3.0"
@@ -6098,7 +6097,7 @@ chardet@^1.4.0:
   resolved "https://registry.yarnpkg.com/chardet/-/chardet-1.4.0.tgz#278748f260219990fb2167dbfb1b253ca26b41ea"
   integrity sha512-NpwMDdSIprbYx1CLnfbxEIarI0Z+s9MssEgggMNheGM+WD68yOhV7IEA/3r6tr0yTRgQD0HuZJDw32s99i6L+A==
 
-chokidar@^2.1.2, chokidar@^2.1.8:
+chokidar@^2.1.8:
   version "2.1.8"
   resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-2.1.8.tgz#804b3a7b6a99358c3c5c61e71d8728f041cff917"
   integrity sha512-ZmZUazfOzf0Nve7duiCKD23PFSCs4JPoYyccjUFF3aQkQadqBhfzhjkwBH2mNOG9cTBwhamM37EIsIkZw3nRgg==
