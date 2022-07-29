@@ -1086,7 +1086,7 @@
     "@types/send": "^0.17.1",
     "@types/serialize-javascript": "^5.0.2",
     "@types/serve-favicon": "^2.5.3",
-    "@types/serve-static": "^1.13.10",
+    "@types/serve-static": "^1.15.0",
     "@types/set-value": "^4.0.1",
     "@types/setimmediate": "^1.0.2",
     "@types/sha.js": "^2.4.0",
