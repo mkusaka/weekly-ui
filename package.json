@@ -224,7 +224,7 @@
     "duplexify": "^4.1.2",
     "ee-first": "^1.1.1",
     "ejs": "^3.1.8",
-    "electron-to-chromium": "^1.4.241",
+    "electron-to-chromium": "^1.4.242",
     "element-resize-detector": "^1.2.4",
     "elliptic": "^6.5.4",
     "emoji-regex": "^10.1.0",
@@ -822,7 +822,7 @@
     "zwitch": "^2.0.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.18.13",
+    "@babel/core": "^7.19.0",
     "@storybook/addon-actions": "^6.5.10",
     "@storybook/addon-essentials": "^6.5.10",
     "@storybook/addon-links": "^6.5.10",
