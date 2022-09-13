@@ -924,7 +924,7 @@
     "@types/fast-levenshtein": "^0.0.2",
     "@types/fb-watchman": "^2.0.1",
     "@types/file-loader": "^5.0.1",
-    "@types/finalhandler": "^1.1.1",
+    "@types/finalhandler": "^1.2.0",
     "@types/find-cache-dir": "^3.2.1",
     "@types/find-root": "^1.1.2",
     "@types/flush-write-stream": "^1.0.0",

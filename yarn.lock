@@ -2875,10 +2875,10 @@
   dependencies:
     "@types/webpack" "^4"
 
-"@types/finalhandler@^1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@types/finalhandler/-/finalhandler-1.1.1.tgz#a40f17b991ad92d66dfc6c447173f7ad1a9e98ba"
-  integrity sha512-fT+Qs+kczrGnY9EpJpFHbdfdyKSoHUCKo3gJYbDWSSQFc18Td87AelfhMM8zqHRcP97/tk8AijV2zSUdClJK+Q==
+"@types/finalhandler@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@types/finalhandler/-/finalhandler-1.2.0.tgz#149d36a0183cff42b74aaaf8c0b2d64c4b9dd183"
+  integrity sha512-NgEZKOhxUSXkwNnWNaMXZaopQ5aFGPAYiEpEWIkQ6Dzc4iS0M1oQsvWne2t+ex9QZUAdTz/ZT4tOXJhWtP6mCw==
   dependencies:
     "@types/node" "*"
 
