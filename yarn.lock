@@ -11325,10 +11325,10 @@ nice-try@^1.0.4:
   resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
   integrity sha512-1nh45deeb5olNY7eX82BkPO7SSxR5SSYJiPTrTdFUVYwAl8CKMA5N9PjTYkHiRjisVcxcQ1HXdLhx2qxxJzLNQ==
 
-nice-try@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-3.0.0.tgz#38f7584ae0d3703cde8317bb78fdbc4ef6dffe40"
-  integrity sha512-JVAWBFZ6kFO/c6jtbcYAM4aAJK5XnAOyWAgBZ53V1HUNTfIjJdjXa96oWhDpegeQSRhTQXpOwU5bpYbzkkrcSA==
+nice-try@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-3.0.1.tgz#cb0fe041f8dffce5d44a2b69b2a64c78f67c6fce"
+  integrity sha512-Fge6ClHO5v/z/tN31B2wlCPfRm289/ag1O2oi+EWNdAhxOZqGW1fWsisROvUuXaE7UEAYdd+upiAMvz57bK2MQ==
 
 no-case@^3.0.4:
   version "3.0.4"
