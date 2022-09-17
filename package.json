@@ -806,7 +806,7 @@
     "webpack-hot-middleware": "^2.25.2",
     "webpack-log": "^3.0.2",
     "webpack-sources": "^3.2.3",
-    "webpack-virtual-modules": "^0.4.4",
+    "webpack-virtual-modules": "^0.4.5",
     "which": "^2.0.2",
     "wide-align": "^1.1.5",
     "widest-line": "^4.0.1",
