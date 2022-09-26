@@ -6534,19 +6534,19 @@ copy-to-clipboard@^3.3.2:
   dependencies:
     toggle-selection "^1.0.6"
 
-core-js-compat@^3.25.1, core-js-compat@^3.25.2, core-js-compat@^3.8.1:
+core-js-compat@^3.25.1, core-js-compat@^3.25.3, core-js-compat@^3.8.1:
   version "3.25.3"
   resolved "https://registry.yarnpkg.com/core-js-compat/-/core-js-compat-3.25.3.tgz#d6a442a03f4eade4555d4e640e6a06151dd95d38"
   integrity sha512-xVtYpJQ5grszDHEUU9O7XbjjcZ0ccX3LgQsyqSvTnjX97ZqEgn9F5srmrwwwMtbKzDllyFPL+O+2OFMl1lU4TQ==
   dependencies:
     browserslist "^4.21.4"
 
-core-js-pure@^3.25.2, core-js-pure@^3.8.1:
+core-js-pure@^3.25.3, core-js-pure@^3.8.1:
   version "3.25.3"
   resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.25.3.tgz#66ac5bfa5754b47fdfd14f3841c5ed21c46db608"
   integrity sha512-T/7qvgv70MEvRkZ8p6BasLZmOVYKzOaWNBEHAU8FmveCJkl4nko2quqPQOmy6AJIp5MBanhz9no3A94NoRb0XA==
 
-core-js@^3.0.4, core-js@^3.25.2, core-js@^3.6.5, core-js@^3.8.2:
+core-js@^3.0.4, core-js@^3.25.3, core-js@^3.6.5, core-js@^3.8.2:
   version "3.25.3"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.25.3.tgz#cbc2be50b5ddfa7981837bd8c41639f27b166593"
   integrity sha512-y1hvKXmPHvm5B7w4ln1S4uc9eV/O5+iFExSRUimnvIph11uaizFR8LFMdONN8hG3P2pipUfX4Y/fR8rAEtcHcQ==
@@ -7177,10 +7177,10 @@ ejs@^3.1.8:
   dependencies:
     jake "^10.8.5"
 
-electron-to-chromium@^1.4.251, electron-to-chromium@^1.4.261:
-  version "1.4.261"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.261.tgz#31f14ad60c6f95bec404a77a2fd5e1962248e112"
-  integrity sha512-fVXliNUGJ7XUVJSAasPseBbVgJIeyw5M1xIkgXdTSRjlmCqBbiSTsEdLOCJS31Fc8B7CaloQ/BFAg8By3ODLdg==
+electron-to-chromium@^1.4.251, electron-to-chromium@^1.4.262:
+  version "1.4.262"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.262.tgz#25715dfbae4c2e0640517cba184715241ecd8e63"
+  integrity sha512-Ckn5haqmGh/xS8IbcgK3dnwAVnhDyo/WQnklWn6yaMucYTq7NNxwlGE8ElzEOnonzRLzUCo2Ot3vUb2GYUF2Hw==
 
 element-resize-detector@^1.2.2, element-resize-detector@^1.2.4:
   version "1.2.4"
@@ -13380,7 +13380,7 @@ run-queue@^2.0.1:
   dependencies:
     aproba "^2.0.0"
 
-rxjs@^7.2.0, rxjs@^7.5.6:
+rxjs@^7.2.0, rxjs@^7.5.6, rxjs@^7.5.7:
   version "7.5.7"
   resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-7.5.7.tgz#2ec0d57fdc89ece220d2e702730ae8f1e49def39"
   integrity sha512-z9MzKh/UcOqB3i20H6rtrlaE/CgjLOvheWK/9ILrbhROGTweAi1BaFsTT9FbwZi5Trr1qNRs+MXkhmR06awzQA==
