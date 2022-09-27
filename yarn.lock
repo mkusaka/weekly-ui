@@ -3346,7 +3346,7 @@
   dependencies:
     "@types/unist" "*"
 
-"@types/mdurl@^1.0.0", "@types/mdurl@^1.0.2":
+"@types/mdurl@^1.0.2":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@types/mdurl/-/mdurl-1.0.2.tgz#e2ce9d83a613bacf284c7be7d491945e39e1f8e9"
   integrity sha512-eC4U9MlIcu2q0KQmXszyn5Akca/0jrQmwDRgpAMJai7qBWq4amIQhZyNau4VYGtCeALvW1/NtjzJJ567aZxfKA==
@@ -10596,16 +10596,14 @@ mdast-util-to-hast@10.0.1:
     unist-util-position "^3.0.0"
     unist-util-visit "^2.0.0"
 
-mdast-util-to-hast@^12.2.2:
-  version "12.2.2"
-  resolved "https://registry.yarnpkg.com/mdast-util-to-hast/-/mdast-util-to-hast-12.2.2.tgz#2bd8cf985a67c90c181eadcfdd8d31b8798ed9a1"
-  integrity sha512-lVkUttV9wqmdXFtEBXKcepvU/zfwbhjbkM5rxrquLW55dS1DfOrnAXCk5mg1be1sfY/WfMmayGy1NsbK1GLCYQ==
+mdast-util-to-hast@^12.2.3:
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/mdast-util-to-hast/-/mdast-util-to-hast-12.2.3.tgz#60df188b38989e43bb464fdb6eb01081f967e07e"
+  integrity sha512-AN1LP/bYd8GxSljYiu76/kL14Dfi4SJNBbn4XDyzJzZIndVk0vBE4iQhvR1vfhYRK+4XEgmeteDCJriDAhvABg==
   dependencies:
     "@types/hast" "^2.0.0"
     "@types/mdast" "^3.0.0"
-    "@types/mdurl" "^1.0.0"
     mdast-util-definitions "^5.0.0"
-    mdurl "^1.0.0"
     micromark-util-sanitize-uri "^1.0.0"
     trim-lines "^3.0.0"
     unist-builder "^3.0.0"
