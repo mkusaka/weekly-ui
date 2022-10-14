@@ -14865,6 +14865,13 @@ unique-slug@^3.0.0:
   dependencies:
     imurmurhash "^0.1.4"
 
+unique-slug@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/unique-slug/-/unique-slug-4.0.0.tgz#6bae6bb16be91351badd24cdce741f892a6532e3"
+  integrity sha512-WrcA6AyEfqDX5bWige/4NQfPZMtASNVxdmWR76WESYQVAACSgWcR6e9i0mofqqBxYFtL4oAxPIptY73/0YE1DQ==
+  dependencies:
+    imurmurhash "^0.1.4"
+
 unist-builder@2.0.3, unist-builder@^2.0.0:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/unist-builder/-/unist-builder-2.0.3.tgz#77648711b5d86af0942f334397a33c5e91516436"
