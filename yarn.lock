@@ -3653,10 +3653,10 @@
   dependencies:
     postcss "^8.0.0"
 
-"@types/postcss-modules-scope@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@types/postcss-modules-scope/-/postcss-modules-scope-3.0.0.tgz#b7950427a77b35054a15c87a6125bef73d63102c"
-  integrity sha512-aQd+/eZvbIK3XoCBMW6pwoCWlaoBm0+VRwUiJhIoPjHKpbjuJoBcfOsQrFXe5w7FxJf9mtebJXB/HZHHzW8lpQ==
+"@types/postcss-modules-scope@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@types/postcss-modules-scope/-/postcss-modules-scope-3.0.1.tgz#f0ad443c2f31f90feacb83bb357692d581388afd"
+  integrity sha512-LNkp3c4ML9EQj2dgslp4i80Jxj72YK3HjYzrTn6ftUVylW1zaKFGqrMlNIyqBmPWmIhZ/Y5r0Y4T49Hk1IuDUg==
   dependencies:
     postcss "^8.0.0"
 
