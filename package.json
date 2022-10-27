@@ -948,7 +948,7 @@
     "@types/hoist-non-react-statics": "^3.3.1",
     "@types/html-minifier-terser": "^7.0.0",
     "@types/html-void-elements": "^1.0.0",
-    "@types/http-errors": "^1.8.2",
+    "@types/http-errors": "^2.0.0",
     "@types/icss-utils": "^5.1.0",
     "@types/iferr": "^1.0.2",
     "@types/imurmurhash": "^0.1.1",
