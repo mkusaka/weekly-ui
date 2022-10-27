@@ -6209,10 +6209,10 @@ clean-stack@^4.0.0:
   dependencies:
     escape-string-regexp "5.0.0"
 
-clean-stack@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/clean-stack/-/clean-stack-5.0.0.tgz#b31fcd092b45f4eb6d2f1dbd6a4494240ba3d201"
-  integrity sha512-9bZJxKb2fTtKopGD93vWEqmf3t1E0hAWsA2oWPcci4+JCf4kMCWF71bAO9/vCadqQ2vouUPbvBpUQbgVl05ucw==
+clean-stack@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/clean-stack/-/clean-stack-5.0.1.tgz#a07645e5e1e94f300fe952709d4c178b5cf6397f"
+  integrity sha512-1FDmqRFlYUEuZJYwcofH5Oa9v/cjEdHekBMzKYN3W16A3BvleeV5fX5PqiQQNSifWx5aXAaHOS8zmlcZPmZmKA==
   dependencies:
     escape-string-regexp "5.0.0"
 
