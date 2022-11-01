@@ -3052,10 +3052,10 @@
     "@types/tapable" "^1"
     "@types/webpack" "^4"
 
-"@types/http-errors@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@types/http-errors/-/http-errors-2.0.0.tgz#c1f34eee7f9fd5ddee366d15e2fc39b93c31532a"
-  integrity sha512-6mkB8Gx7Of1yjqqh1nLH22ATNol5+mIXVFaQCOQY+R3JxB6/soiqKAxBgdSE6R/1IWu69rR4cJ/027TxLEs/Vg==
+"@types/http-errors@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@types/http-errors/-/http-errors-2.0.1.tgz#20172f9578b225f6c7da63446f56d4ce108d5a65"
+  integrity sha512-/K3ds8TRAfBvi5vfjuz8y6+GiAYBZ0x4tXv1Av6CWBWn0IlADc+ZX9pMq7oU0fNQPnBwIZl3rmeLp6SBApbxSQ==
 
 "@types/http-proxy@^1.17.5":
   version "1.17.9"
@@ -3311,10 +3311,10 @@
   dependencies:
     "@types/lodash" "*"
 
-"@types/lodash@*", "@types/lodash@^4.14.167", "@types/lodash@^4.14.186":
-  version "4.14.186"
-  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.186.tgz#862e5514dd7bd66ada6c70ee5fce844b06c8ee97"
-  integrity sha512-eHcVlLXP0c2FlMPm56ITode2AgLMSa6aJ05JTTbYbI+7EMkCEE5qk2E41d5g2lCVTqRe0GnnRFurmlCsDODrPw==
+"@types/lodash@*", "@types/lodash@^4.14.167", "@types/lodash@^4.14.187":
+  version "4.14.187"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.187.tgz#122ff0a7192115b4c1a19444ab4482caa77e2c9d"
+  integrity sha512-MrO/xLXCaUgZy3y96C/iOsaIqZSeupyTImKClHunL5GrmaiII2VwvWmLBu2hwa0Kp0sV19CsyjtrTc/Fx8rg/A==
 
 "@types/lowlight@^0.0.3":
   version "0.0.3"
