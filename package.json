@@ -807,7 +807,7 @@
     "webpack-log": "^3.0.2",
     "webpack-sources": "^3.2.3",
     "webpack-virtual-modules": "^0.4.6",
-    "which": "^2.0.2",
+    "which": "^3.0.0",
     "wide-align": "^1.1.5",
     "widest-line": "^4.0.1",
     "word-wrap": "^1.2.3",
