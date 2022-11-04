@@ -277,7 +277,7 @@
     "filesize": "^10.0.5",
     "fill-range": "^7.0.1",
     "finalhandler": "^1.2.0",
-    "find-cache-dir": "^3.3.2",
+    "find-cache-dir": "^4.0.0",
     "find-root": "^1.1.0",
     "find-up": "^6.3.0",
     "flush-write-stream": "^2.0.0",
