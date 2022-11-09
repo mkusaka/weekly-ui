@@ -803,7 +803,7 @@
     "web-namespaces": "^2.0.1",
     "webpack": "^5.75.0",
     "webpack-dev-middleware": "^5.3.3",
-    "webpack-hot-middleware": "^2.25.2",
+    "webpack-hot-middleware": "^2.25.3",
     "webpack-log": "^3.0.2",
     "webpack-sources": "^3.2.3",
     "webpack-virtual-modules": "^0.4.6",
