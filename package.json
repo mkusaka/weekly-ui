@@ -930,7 +930,7 @@
     "@types/flush-write-stream": "^1.0.0",
     "@types/forwarded": "^0.1.0",
     "@types/fresh": "^0.5.0",
-    "@types/from2": "^2.3.1",
+    "@types/from2": "^2.3.2",
     "@types/fs-extra": "^9.0.13",
     "@types/function-bind": "^1.1.7",
     "@types/get-value": "^3.0.3",

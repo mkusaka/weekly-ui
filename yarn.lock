@@ -2899,10 +2899,10 @@
   resolved "https://registry.yarnpkg.com/@types/fresh/-/fresh-0.5.0.tgz#4d09231027d69c4369cfb01a9af5ef083d0d285f"
   integrity sha512-eGPzuyc6wZM3sSHJdF7NM2jW6B/xsB014Rqg/iDa6xY02mlfy1w/TE2sYhR8vbHxkzJOXiGo6NuIk3xk35vsgQ==
 
-"@types/from2@^2.3.1":
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/@types/from2/-/from2-2.3.1.tgz#5620cc93c1a08c76691c1ba3d78ce4a37bf58277"
-  integrity sha512-l7kKtohAc5h0CKh6vFMv5WcWvQx40KE6dQneUg22i8c1mwxhVPbN781bYts/mYXxSBrQMhNxkhwg18QY0MfeOg==
+"@types/from2@^2.3.2":
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/@types/from2/-/from2-2.3.2.tgz#832980e94436af51133bf60a29c27293864cbbb5"
+  integrity sha512-s1pdctxW2+CA4FOxxTBRxC3RKQL9Br1a2s2LngP4jh1BI84JBL3mDXj87EwcckN9z/IXp8o3ySmvZveGEAAwqw==
   dependencies:
     "@types/node" "*"
 
