@@ -193,7 +193,7 @@
     "decode-uri-component": "^0.2.0",
     "deep-equal": "^2.1.0",
     "deep-is": "^0.1.4",
-    "deep-object-diff": "^1.1.8",
+    "deep-object-diff": "^1.1.9",
     "define-properties": "^1.1.4",
     "define-property": "^2.0.2",
     "delayed-stream": "^1.0.0",
