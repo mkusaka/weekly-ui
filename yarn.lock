@@ -10367,9 +10367,9 @@ loglevelnext@^3.0.1:
   integrity sha512-JpjaJhIN1reaSb26SIxDGtE0uc67gPl19OMVHrr+Ggt6b/Vy60jmCtKgQBrygAH0bhRA2nkxgDvM+8QvR8r0YA==
 
 longest-streak@^3.0.0:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/longest-streak/-/longest-streak-3.0.1.tgz#c97315b7afa0e7d9525db9a5a2953651432bdc5d"
-  integrity sha512-cHlYSUpL2s7Fb3394mYxwTYj8niTaNHUCLr0qdiCXQfSjfuA7CKofpX2uSwEfFDQ0EB7JcnMnm+GjbqqoinYYg==
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/longest-streak/-/longest-streak-3.1.0.tgz#62fa67cd958742a1574af9f39866364102d90cd4"
+  integrity sha512-9Ri+o0JYgehTaVBBDoMqIl8GXtbWg711O3srftcHhZ0dqnETqLaoIK0x17fUw9rFSlK/0NlsKe0Ahhyl5pXE2g==
 
 loose-envify@^1.0.0, loose-envify@^1.1.0, loose-envify@^1.4.0:
   version "1.4.0"
