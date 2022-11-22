@@ -339,7 +339,7 @@
     "hoist-non-react-statics": "^3.3.2",
     "html-entities": "^2.3.3",
     "html-loader": "^4.2.0",
-    "html-minifier-terser": "^7.0.0",
+    "html-minifier-terser": "^7.1.0",
     "html-tags": "^3.2.0",
     "html-void-elements": "^2.0.1",
     "html-webpack-plugin": "^5.5.0",
