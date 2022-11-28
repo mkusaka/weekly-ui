@@ -14352,6 +14352,13 @@ telejson@^6.0.8:
     lodash "^4.17.21"
     memoizerific "^1.11.3"
 
+telejson@^7.0.3:
+  version "7.0.3"
+  resolved "https://registry.yarnpkg.com/telejson/-/telejson-7.0.3.tgz#61236192ac6fd0c218f45b2952a11eef9f8744b3"
+  integrity sha512-Oj9M8IYGRiJVUY6jarU8EImAqys4hCDYoeNP4r6muMZKGukbsArbv1Z9lxKQtP7eLdRJCKvwI8TNCwjZxD0ryw==
+  dependencies:
+    memoizerific "^1.11.3"
+
 term-size@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/term-size/-/term-size-3.0.2.tgz#bee88ca0afb8abbd423d698daac747f68aff5009"
