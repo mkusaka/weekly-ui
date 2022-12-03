@@ -711,7 +711,7 @@
     "strip-ansi": "^7.0.1",
     "strip-eof": "^2.0.0",
     "style-loader": "^3.3.1",
-    "style-to-object": "^0.3.0",
+    "style-to-object": "^0.4.0",
     "supports-color": "^9.2.3",
     "symbol.prototype.description": "^1.0.5",
     "tapable": "^2.2.1",
