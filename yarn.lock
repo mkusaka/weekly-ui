@@ -10502,10 +10502,10 @@ markdown-escapes@^2.0.1:
   resolved "https://registry.yarnpkg.com/markdown-escapes/-/markdown-escapes-2.0.1.tgz#55c80ad829fe91a9af1766524b5df31d5098de01"
   integrity sha512-3zUf/cbiXn5PdDeUWqFUFHRNilrXUKXXSz+WeCuVI8+ub2n4caF0pyuAN+KQs5XxkGtsR66p3cb/0zlIfZu1vA==
 
-markdown-to-jsx@*, markdown-to-jsx@^7.1.7:
-  version "7.1.7"
-  resolved "https://registry.yarnpkg.com/markdown-to-jsx/-/markdown-to-jsx-7.1.7.tgz#a5f22102fb12241c8cea1ca6a4050bb76b23a25d"
-  integrity sha512-VI3TyyHlGkO8uFle0IOibzpO1c1iJDcXcS/zBrQrXQQvJ2tpdwVzVZ7XdKsyRz1NdRmre4dqQkMZzUHaKIG/1w==
+markdown-to-jsx@*, markdown-to-jsx@^7.1.8:
+  version "7.1.8"
+  resolved "https://registry.yarnpkg.com/markdown-to-jsx/-/markdown-to-jsx-7.1.8.tgz#49c3bb3c122aa714324034142c8829b93c889338"
+  integrity sha512-rRSa1aFmFnpDRFAhv5vIkWM4nPaoB9vnzIjuIKa1wGupfn2hdCNeaQHKpu4/muoc8n8J7yowjTP2oncA4/Rbgg==
 
 material-colors@^1.2.1, material-colors@^1.2.6:
   version "1.2.6"
