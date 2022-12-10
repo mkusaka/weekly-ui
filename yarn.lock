@@ -2574,10 +2574,12 @@
   resolved "https://registry.yarnpkg.com/@types/convert-source-map/-/convert-source-map-1.5.2.tgz#318dc22d476632a4855594c16970c6dc3ed086e7"
   integrity sha512-tHs++ZeXer40kCF2JpE51Hg7t4HPa18B1b1Dzy96S0eCw8QKECNMYMfwa1edK/x8yCN0r4e6ewvLcc5CsVGkdg==
 
-"@types/cookie-signature@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@types/cookie-signature/-/cookie-signature-1.0.4.tgz#164cc7208f35fc379195a9d09431801677fc4559"
-  integrity sha512-B9LOCjVnLniz5NHq8pPFQdDjRGtLZKYG7tQHveMeUalWvZgOuLQ5OeWgx3y4/WLJFt0N+tYyk8HMEOsvCjf7Yw==
+"@types/cookie-signature@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@types/cookie-signature/-/cookie-signature-1.1.0.tgz#65e9b80eaa0b5b6755c454363fb15f4889a6c397"
+  integrity sha512-6/OwJHoeGW5taC2vWq1sz8X7/T2rAPVXj3zQds+rM4b5VrW8lgpYjpDVjTJmkRB1IODBCAiuPXNk092CjYlryQ==
+  dependencies:
+    "@types/node" "*"
 
 "@types/cookie@^0.5.1":
   version "0.5.1"
