@@ -881,7 +881,7 @@
     "@types/concat-stream": "^2.0.0",
     "@types/content-disposition": "^0.5.5",
     "@types/content-type": "^1.1.5",
-    "@types/convert-source-map": "^1.5.2",
+    "@types/convert-source-map": "^2.0.0",
     "@types/cookie": "^0.5.1",
     "@types/cookie-signature": "^1.1.0",
     "@types/core-js": "^2.5.5",
