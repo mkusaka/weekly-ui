@@ -5864,13 +5864,13 @@ cacache@^15.0.5:
     tar "^6.0.2"
     unique-filename "^1.1.1"
 
-cacache@^17.0.3:
-  version "17.0.3"
-  resolved "https://registry.yarnpkg.com/cacache/-/cacache-17.0.3.tgz#9ba14e0e50eca763ae7e2ee89036a948a13035ed"
-  integrity sha512-pwsIK/grdM0cHpfVaNFxMdzElBtLJGsVPE+JnxqXP1l40O01Z1mfDE8MbRTuwomGq/UwEtGisOylutOEVJxEqg==
+cacache@^17.0.4:
+  version "17.0.4"
+  resolved "https://registry.yarnpkg.com/cacache/-/cacache-17.0.4.tgz#5023ed892ba8843e3b7361c26d0ada37e146290c"
+  integrity sha512-Z/nL3gU+zTUjz5pCA5vVjYM8pmaw2kxM7JEiE0fv3w77Wj+sFbi70CrBruUWH0uNcEdvLDixFpgA2JM4F4DBjA==
   dependencies:
     "@npmcli/fs" "^3.1.0"
-    fs-minipass "^2.1.0"
+    fs-minipass "^3.0.0"
     glob "^8.0.1"
     lru-cache "^7.7.1"
     minipass "^4.0.0"
@@ -6820,10 +6820,10 @@ decode-uri-component@^0.2.0:
   resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
   integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
-decode-uri-component@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.3.0.tgz#e9719c5cb63e4580f6e84527d2256b60bc0efe64"
-  integrity sha512-DtZDg5Xyj8fhtXChxK7OJksolzQH33uYKxOvhu49tjnNRHfwnxbxTl9g+kZvEJp5w+DMe4DTKAue20A8u8oBHg==
+decode-uri-component@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.4.0.tgz#65b5eef8a698e60d8ca3a24ab681195fada29472"
+  integrity sha512-YDg1/aOMvZnuqEavyBv5ZBiPpjt+X7cEk+R/suM681HfvumytFjV8GFfNFw0GpohwrnCuUgnOIzt3SUIMV5wWg==
 
 dedent@^0.7.0:
   version "0.7.0"
@@ -8213,7 +8213,7 @@ fs-extra@^9.0.0, fs-extra@^9.0.1:
     jsonfile "^6.0.1"
     universalify "^2.0.0"
 
-fs-minipass@^2.0.0, fs-minipass@^2.1.0:
+fs-minipass@^2.0.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/fs-minipass/-/fs-minipass-2.1.0.tgz#7f5036fdbf12c63c169190cbe4199c852271f9fb"
   integrity sha512-V/JgOLFCS+R6Vcq0slCuaeWEdNC3ouDlJMNIsacH2VtALiu9mV4LPrHc5cDl8k5aw6J8jwgWWpiTo5RYhmIzvg==
