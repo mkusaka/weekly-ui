@@ -218,7 +218,7 @@
     "dot-case": "^3.0.4",
     "dotenv": "^16.0.3",
     "dotenv-defaults": "^5.0.2",
-    "dotenv-expand": "^9.0.0",
+    "dotenv-expand": "^10.0.0",
     "dotenv-webpack": "^8.0.1",
     "duplexer": "^0.1.2",
     "duplexify": "^4.1.2",
