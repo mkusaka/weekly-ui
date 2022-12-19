@@ -3481,9 +3481,9 @@
     "@types/node" "*"
 
 "@types/node@*":
-  version "18.11.13"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.13.tgz#dff34f226ec1ac0432ae3b136ec5552bd3b9c0fe"
-  integrity sha512-IASpMGVcWpUsx5xBOrxMj7Bl8lqfuTY7FKAnPmu5cHkfQVWF8GulWS1jbRqA934qZL35xh5xN/+Xe/i26Bod4w==
+  version "18.11.17"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.17.tgz#5c009e1d9c38f4a2a9d45c0b0c493fe6cdb4bcb5"
+  integrity sha512-HJSUJmni4BeDHhfzn6nF0sVmd1SMezP7/4F0Lq+aXzmp2xm9O7WXrUtHW/CHlYVtZUbByEvWidHqRtcJXGF2Ng==
 
 "@types/node@4.0.27-alpha":
   version "4.0.27-alpha"
@@ -3491,9 +3491,9 @@
   integrity sha512-amCWm73gEksfw35ZMRdBl4pSyppirbXbTW03o5YNZbGOIqYYOWayuuHxfNIvIKqMm5eV6GjRRWu+EHzJ/lmyVA==
 
 "@types/node@^14.0.10 || ^16.0.0", "@types/node@^14.14.20 || ^16.0.0":
-  version "16.18.8"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.18.8.tgz#ffb2a4efa4eb4384811081776c52b054481cca54"
-  integrity sha512-TrpoNiaPvBH5h8rQQenMtVsJXtGsVBRJrcp2Ik6oEt99jHfGvDLh20VTTq3ixTbjYujukYz1IlY4N8a8yfY0jA==
+  version "16.18.10"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.18.10.tgz#d7415ef18c94f8d4e4a82ebcc8b8999f965d8920"
+  integrity sha512-XU1+v7h81p7145ddPfjv7jtWvkSilpcnON3mQ+bDi9Yuf7OI56efOglXRyXWgQ57xH3fEQgh7WOJMncRHVew5w==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.1"
@@ -10671,9 +10671,9 @@ mdast-util-to-hast@^12.2.4:
     unist-util-visit "^4.0.0"
 
 mdast-util-to-markdown@^1.0.0, mdast-util-to-markdown@^1.3.0:
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/mdast-util-to-markdown/-/mdast-util-to-markdown-1.3.0.tgz#38b6cdc8dc417de642a469c4fc2abdf8c931bd1e"
-  integrity sha512-6tUSs4r+KK4JGTTiQ7FfHmVOaDrLQJPmpjD6wPMlHGUVXoG9Vjc3jIeP+uyBWRf8clwB2blM+W7+KrlMYQnftA==
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/mdast-util-to-markdown/-/mdast-util-to-markdown-1.4.0.tgz#bb0153a865dbc022975f403a156fb6399c494ddf"
+  integrity sha512-IjXARf/O8VGx/pc5SZ7syfydq1DYL9vd92orsG5U0b4GNCmAvXzu+n7sbzfIKrXwB0AVrYk3NV2kXl0AIi9LCA==
   dependencies:
     "@types/mdast" "^3.0.0"
     "@types/unist" "^2.0.0"
