@@ -1142,9 +1142,9 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook",
-    "deploy": "yarn run build-storybook && gh-pages -d storybook-static"
+    "storybook": "NODE_OPTIONS='--openssl-legacy-provider' start-storybook -p 6006",
+    "build-storybook": "NODE_OPTIONS='--openssl-legacy-provider' build-storybook",
+    "deploy": "NODE_OPTIONS='--openssl-legacy-provider' yarn run build-storybook && gh-pages -d storybook-static"
   },
   "repository": {
     "type": "git",
