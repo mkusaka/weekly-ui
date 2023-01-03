@@ -10658,10 +10658,10 @@ mdast-util-to-hast@10.0.1:
     unist-util-position "^3.0.0"
     unist-util-visit "^2.0.0"
 
-mdast-util-to-hast@^12.2.4:
-  version "12.2.4"
-  resolved "https://registry.yarnpkg.com/mdast-util-to-hast/-/mdast-util-to-hast-12.2.4.tgz#34c1ef2b6cf01c27b3e3504e2c977c76f722e7e1"
-  integrity sha512-a21xoxSef1l8VhHxS1Dnyioz6grrJkoaCUgGzMD/7dWHvboYX3VW53esRUfB5tgTyz4Yos1n25SPcj35dJqmAg==
+mdast-util-to-hast@^12.2.5:
+  version "12.2.5"
+  resolved "https://registry.yarnpkg.com/mdast-util-to-hast/-/mdast-util-to-hast-12.2.5.tgz#91532ebd929a7def21585034f7901eb367d2d272"
+  integrity sha512-EFNhT35ZR/VZ85/EedDdCNTq0oFM+NM/+qBomVGQ0+Lcg0nhI8xIwmdCzNMlVlCJNXRprpobtKP/IUh8cfz6zQ==
   dependencies:
     "@types/hast" "^2.0.0"
     "@types/mdast" "^3.0.0"
@@ -14527,10 +14527,10 @@ tiny-emitter@^2.0.0, tiny-emitter@^2.1.0:
   resolved "https://registry.yarnpkg.com/tiny-emitter/-/tiny-emitter-2.1.0.tgz#1d1a56edfc51c43e863cbb5382a72330e3555423"
   integrity sha512-NB6Dk1A9xgQPMoGqC5CVXn123gWyte215ONT5Pp5a0yt4nlEoO1ZWeCwpncaekPHXO60i47ihFnZPiRPjRMq4Q==
 
-tinycolor2@^1.4.1, tinycolor2@^1.5.1:
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/tinycolor2/-/tinycolor2-1.5.1.tgz#df11c5f14e6b7fdd8a9c27c2c6a5f2565fb776b7"
-  integrity sha512-BHlrsGeYN2OpkRpfAgkEwCMu6w8Quq8JkK/mp4c55NZP7OwceJObR1CPZt62TqiA0Y3J5pwuDX+fXDqc35REtg==
+tinycolor2@^1.4.1, tinycolor2@^1.5.2:
+  version "1.5.2"
+  resolved "https://registry.yarnpkg.com/tinycolor2/-/tinycolor2-1.5.2.tgz#7d30b4584d8b7d62b9a94dacc505614a6516a95f"
+  integrity sha512-h80m9GPFGbcLzZByXlNSEhp1gf8Dy+VX/2JCGUZsWLo7lV1mnE/XlxGYgRBoMLJh1lIDXP0EMC4RPTjlRaV+Bg==
 
 tmp@^0.0.33:
   version "0.0.33"
