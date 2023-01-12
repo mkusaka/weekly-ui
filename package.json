@@ -1099,7 +1099,7 @@
     "@types/source-map-support": "^0.5.6",
     "@types/sprintf-js": "^1.1.2",
     "@types/ssri": "^7.1.1",
-    "@types/statuses": "^2.0.0",
+    "@types/statuses": "^2.0.1",
     "@types/stream-each": "^1.2.0",
     "@types/stream-shift": "^1.0.0",
     "@types/supports-color": "^8.1.1",
