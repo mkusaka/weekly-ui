@@ -649,7 +649,7 @@
     "resolve-url": "^0.2.1",
     "restore-cursor": "^4.0.0",
     "ret": "^0.4.2",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.1",
     "ripemd160": "^2.0.2",
     "rsvp": "^4.8.5",
     "run-async": "^2.4.1",
