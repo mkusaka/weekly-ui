@@ -477,7 +477,7 @@
     "min-document": "^2.19.0",
     "minimalistic-assert": "^1.0.1",
     "minimalistic-crypto-utils": "^1.0.1",
-    "minimatch": "^6.1.5",
+    "minimatch": "^6.1.6",
     "minimist": "^1.2.7",
     "minipass": "^4.0.0",
     "minipass-collect": "^1.0.2",
