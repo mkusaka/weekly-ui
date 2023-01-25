@@ -5988,10 +5988,10 @@ camelcase@^7.0.0, camelcase@^7.0.1:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-7.0.1.tgz#f02e50af9fd7782bc8b88a3558c32fd3a388f048"
   integrity sha512-xlx1yCK2Oc1APsPXDL2LdlNP6+uu8OCDdhOBSVT279M/S+y75O30C2VuD8T2ogdePBBl7PfPF4504tnLgX3zfw==
 
-caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001400, caniuse-lite@^1.0.30001426, caniuse-lite@^1.0.30001447:
-  version "1.0.30001447"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001447.tgz#ef1f39ae38d839d7176713735a8e467a0a2523bd"
-  integrity sha512-bdKU1BQDPeEXe9A39xJnGtY0uRq/z5osrnXUw0TcK+EYno45Y+U7QU9HhHEyzvMDffpYadFXi3idnSNkcwLkTw==
+caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001400, caniuse-lite@^1.0.30001426, caniuse-lite@^1.0.30001448:
+  version "1.0.30001448"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001448.tgz#ca7550b1587c92a392a2b377cd9c508b3b4395bf"
+  integrity sha512-tq2YI+MJnooG96XpbTRYkBxLxklZPOdLmNIOdIhvf7SNJan6u5vCKum8iT7ZfCt70m1GPkuC7P3TtX6UuhupuA==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -10579,13 +10579,13 @@ mdast-squeeze-paragraphs@^4.0.0:
   dependencies:
     unist-util-remove "^2.0.0"
 
-mdast-squeeze-paragraphs@^5.0.0, mdast-squeeze-paragraphs@^5.2.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/mdast-squeeze-paragraphs/-/mdast-squeeze-paragraphs-5.2.0.tgz#23440cea3586a1cb70771f98971d4f8bf1dbb36b"
-  integrity sha512-uqPZ2smyXe0gNjweQaDkm7eK/KgvcS0u9X9yu28Yj/UOmK6CN6JRs/puzAGQw72vZcxWxs05LxkUTwZIsQZvrw==
+mdast-squeeze-paragraphs@^5.0.0, mdast-squeeze-paragraphs@^5.2.1:
+  version "5.2.1"
+  resolved "https://registry.yarnpkg.com/mdast-squeeze-paragraphs/-/mdast-squeeze-paragraphs-5.2.1.tgz#4f687231c9caf1073c4511557adae35414615d9e"
+  integrity sha512-npINYQrt0E5AvSvM7ZxIIyrG/7DX+g8jKWcJMudrcjI+b1eNOKbbu+wTo6cKvy5IzH159IPfpWoRVH7kwEmnug==
   dependencies:
     "@types/mdast" "^3.0.0"
-    unist-util-remove "^3.0.0"
+    unist-util-visit "^4.0.0"
 
 mdast-util-definitions@^4.0.0:
   version "4.0.0"
@@ -10733,10 +10733,12 @@ mdast-util-to-string@^1.0.0:
   resolved "https://registry.yarnpkg.com/mdast-util-to-string/-/mdast-util-to-string-1.1.0.tgz#27055500103f51637bd07d01da01eb1967a43527"
   integrity sha512-jVU0Nr2B9X3MU4tSK7JP1CMkSvOj7X5l/GboG1tKRw52lLF1x2Ju92Ms9tNetCcbfX3hzlM73zYo2NKkWSfF/A==
 
-mdast-util-to-string@^3.0.0, mdast-util-to-string@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/mdast-util-to-string/-/mdast-util-to-string-3.1.0.tgz#56c506d065fbf769515235e577b5a261552d56e9"
-  integrity sha512-n4Vypz/DZgwo0iMHLQL49dJzlp7YtAJP+N07MZHpjPf/5XJuHUWstviF4Mn2jEiR/GNmtnRRqnwsXExk3igfFA==
+mdast-util-to-string@^3.0.0, mdast-util-to-string@^3.1.0, mdast-util-to-string@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/mdast-util-to-string/-/mdast-util-to-string-3.1.1.tgz#db859050d79d48cf9896d294de06f3ede7474d16"
+  integrity sha512-tGvhT94e+cVnQt8JWE9/b3cUQZWS732TJxXHktvP+BYo62PpYD53Ls/6cC60rW21dW+txxiM4zMdc6abASvZKA==
+  dependencies:
+    "@types/mdast" "^3.0.0"
 
 mdurl@^1.0.0, mdurl@^1.0.1:
   version "1.0.1"
@@ -15059,7 +15061,7 @@ unist-util-remove@^2.0.0:
   dependencies:
     unist-util-is "^4.0.0"
 
-unist-util-remove@^3.0.0, unist-util-remove@^3.1.1:
+unist-util-remove@^3.1.1:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/unist-util-remove/-/unist-util-remove-3.1.1.tgz#8bfa181aff916bd32a4ed30b3ed76d0c21c077df"
   integrity sha512-kfCqZK5YVY5yEa89tvpl7KnBBHu2c6CzMkqHUrlOqaRgGOMp0sMvwWOVrbAtj03KhovQB7i96Gda72v/EFE0vw==
