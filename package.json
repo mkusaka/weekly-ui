@@ -432,7 +432,7 @@
     "jsonfile": "^6.1.0",
     "kind-of": "^6.0.3",
     "klaw": "^4.1.0",
-    "lazy-universal-dotenv": "^3.0.1",
+    "lazy-universal-dotenv": "^4.0.0",
     "leven": "^4.0.0",
     "levenary": "^1.1.1",
     "levn": "^0.4.1",
