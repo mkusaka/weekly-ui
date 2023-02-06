@@ -527,7 +527,7 @@
     "optionator": "^0.9.1",
     "os-browserify": "^0.3.0",
     "os-tmpdir": "^2.0.0",
-    "overlayscrollbars": "^2.0.3",
+    "overlayscrollbars": "^2.1.0",
     "p-finally": "^2.0.1",
     "p-limit": "^4.0.0",
     "p-locate": "^6.0.0",
