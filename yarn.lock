@@ -7208,10 +7208,10 @@ ejs@^3.1.8:
   dependencies:
     jake "^10.8.5"
 
-electron-to-chromium@^1.4.284, electron-to-chromium@^1.4.301:
-  version "1.4.301"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.301.tgz#175d9fa1509a5b062752c6db321051e610fe2eae"
-  integrity sha512-bz00ASIIDjcgszZKuEA1JEFhbDjqUNbQ/PEhNEl1wbixzYpeTp2H2QWjsQvAL2T1wJBdOwCF5hE896BoMwYKrA==
+electron-to-chromium@^1.4.284, electron-to-chromium@^1.4.302:
+  version "1.4.302"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.302.tgz#5770646ffe7051677b489226144aad9386d420f2"
+  integrity sha512-Uk7C+7aPBryUR1Fwvk9VmipBcN9fVsqBO57jV2ZjTm+IZ6BMNqu7EDVEg2HxCNufk6QcWlFsBkhQyQroB2VWKw==
 
 element-resize-detector@^1.2.2, element-resize-detector@^1.2.4:
   version "1.2.4"
@@ -10494,10 +10494,10 @@ lowlight@^2.8.1:
     fault "^2.0.0"
     highlight.js "~11.7.0"
 
-lru-cache@*, lru-cache@^7.16.0, lru-cache@^7.7.1:
-  version "7.16.0"
-  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-7.16.0.tgz#b1b946cff368d3f3c569cc3d6a5ba8f90435160f"
-  integrity sha512-VJBdeMa9Bz27NNlx+DI/YXGQtXdjUU+9gdfN1rYfra7vtTjhodl5tVNmR42bo+ORHuDqDT+lGAUAb+lzvY42Bw==
+lru-cache@*, lru-cache@^7.16.1, lru-cache@^7.7.1:
+  version "7.16.1"
+  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-7.16.1.tgz#7acea16fecd9ed11430e78443c2bb81a06d3dea9"
+  integrity sha512-9kkuMZHnLH/8qXARvYSjNvq8S1GYFFzynQTAfKeaJ0sIrR3PUPuu37Z+EiIANiZBvpfTf2B5y8ecDLSMWlLv+w==
 
 lru-cache@^5.1.1:
   version "5.1.1"
