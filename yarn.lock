@@ -10532,10 +10532,10 @@ lowlight@^2.8.1:
     fault "^2.0.0"
     highlight.js "~11.7.0"
 
-lru-cache@*, lru-cache@^8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-8.0.0.tgz#152bf98daafa6a46a5905694fccd6f5f7f6095fe"
-  integrity sha512-pMu1vSJIwJPS/YuMJAJFjvKA2OC7rvgKqJHr90JmZ1kv/hO+MuzqHRSWqyn730vlOwc1Bx/c8+3izTGzmKyXNQ==
+lru-cache@*, lru-cache@^8.0.3:
+  version "8.0.3"
+  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-8.0.3.tgz#42a2c84ec91426d165b0887783f6a0fed367402f"
+  integrity sha512-hDYyWLYUrrTuQQlZWe6U56i+t6UU7LnimwV9Tvvw0HadkTnD7VbErepoJVeNEfC4exBIcGwO8M7TQyF6HO5tQA==
 
 lru-cache@^5.1.1:
   version "5.1.1"
@@ -15672,10 +15672,10 @@ webpack@4:
     watchpack "^1.7.4"
     webpack-sources "^1.4.1"
 
-"webpack@>=4.43.0 <6.0.0", webpack@^5, webpack@^5.76.1:
-  version "5.76.1"
-  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.76.1.tgz#7773de017e988bccb0f13c7d75ec245f377d295c"
-  integrity sha512-4+YIK4Abzv8172/SGqObnUjaIHjLEuUasz9EwQj/9xmPPkYJy2Mh03Q/lJfSD3YLzbxy5FeTq5Uw0323Oh6SJQ==
+"webpack@>=4.43.0 <6.0.0", webpack@^5, webpack@^5.76.2:
+  version "5.76.2"
+  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.76.2.tgz#6f80d1c1d1e3bf704db571b2504a0461fac80230"
+  integrity sha512-Th05ggRm23rVzEOlX8y67NkYCHa9nTNcwHPBhdg+lKG+mtiW7XgggjAeeLnADAe7mLjJ6LUNfgHAuRRh+Z6J7w==
   dependencies:
     "@types/eslint-scope" "^3.7.3"
     "@types/estree" "^0.0.51"
