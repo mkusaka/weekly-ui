@@ -1124,7 +1124,7 @@
     "@types/uuid": "^9.0.1",
     "@types/vary": "^1.1.0",
     "@types/warning": "^3.0.0",
-    "@types/watchpack": "^2.4.0",
+    "@types/watchpack": "^2.4.1",
     "@types/webpack": "^5.28.0",
     "@types/webpack-dev-middleware": "^5.0.2",
     "@types/webpack-hot-middleware": "^2.25.6",
