@@ -7281,10 +7281,10 @@ ejs@^3.1.9:
   dependencies:
     jake "^10.8.5"
 
-electron-to-chromium@^1.4.284, electron-to-chromium@^1.4.337:
-  version "1.4.337"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.337.tgz#710168240b2dc5fe5eb5f8e4ef9c16d70aedc0ba"
-  integrity sha512-W8gdzXG86mVPoc56eM8YA+QiLxaAxJ8cmDjxZgfhLLWVvZQxyA918w5tX2JEWApZta45T1/sYcmFHTsTOUE3nw==
+electron-to-chromium@^1.4.284, electron-to-chromium@^1.4.339:
+  version "1.4.339"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.339.tgz#bfa611a7707ca8bbb784e01fe247c18a35bd8d28"
+  integrity sha512-MSXHBJGcbBydq/DQDlpBeUKnJ6C7aTiNCTRpfDV5Iz0sNr/Ng6RJFloq82AAicp/SrmDq4zF6XsKG0B8Xwn1UQ==
 
 element-resize-detector@^1.2.2, element-resize-detector@^1.2.4:
   version "1.2.4"
@@ -7512,10 +7512,10 @@ es6-object-assign@^1.1.0:
   resolved "https://registry.yarnpkg.com/es6-object-assign/-/es6-object-assign-1.1.0.tgz#c2c3582656247c39ea107cb1e6652b6f9f24523c"
   integrity sha512-MEl9uirslVwqQU369iHNWZXsI8yaZYGg/D65aOgZkeyFJwHYSxilf7rQzXKI7DdDuBPrBXbfk3sl9hJhmd5AUw==
 
-es6-shim@^0.35.5, es6-shim@^0.35.7:
-  version "0.35.7"
-  resolved "https://registry.yarnpkg.com/es6-shim/-/es6-shim-0.35.7.tgz#db00f1cbb7d4de70b50dcafa45b157e9ba28f5d2"
-  integrity sha512-baZkUfTDSx7X69+NA8imbvGrsPfqH0MX7ADdIDjqwsI8lkTgLIiD2QWrUCSGsUQ0YMnSCA/4pNgSyXdnLHWf3A==
+es6-shim@^0.35.5, es6-shim@^0.35.8:
+  version "0.35.8"
+  resolved "https://registry.yarnpkg.com/es6-shim/-/es6-shim-0.35.8.tgz#89216f6fbf8bacba3f897c8c0e814d2a41c05fb7"
+  integrity sha512-Twf7I2v4/1tLoIXMT8HlqaBSS5H2wQTs2wx3MNYCI8K1R1/clXyCazrcVCPm/FuO9cyV8+leEaZOWD5C253NDg==
 
 escalade@^3.1.1:
   version "3.1.1"
@@ -9286,10 +9286,10 @@ ignore@^5.2.0, ignore@^5.2.4:
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.2.4.tgz#a291c0c6178ff1b960befe47fcdec301674a6324"
   integrity sha512-MAb38BcSbH0eHNBxn7ql2NH/kX33OkB3lZ1BNdh7ENeRChHTYsTvWrMubiIAMNS2llXEEgZ1MUOBtXChP3kaFQ==
 
-immer@^9.0.19, immer@^9.0.7:
-  version "9.0.19"
-  resolved "https://registry.yarnpkg.com/immer/-/immer-9.0.19.tgz#67fb97310555690b5f9cd8380d38fc0aabb6b38b"
-  integrity sha512-eY+Y0qcsB4TZKwgQzLaE/lqYMlKhv5J9dyd2RhhtGhNo2njPXDqU9XPfcNfa3MIDsdtZt5KlkIsirlo4dHsWdQ==
+immer@^9.0.21, immer@^9.0.7:
+  version "9.0.21"
+  resolved "https://registry.yarnpkg.com/immer/-/immer-9.0.21.tgz#1e025ea31a40f24fb064f1fef23e931496330176"
+  integrity sha512-bc4NBHqOqSfRW7POMkHd51LvClaeMXpm8dx0e8oE2GORbq5aRK7Bxl4FyzVLdGtLmvLKL7BTDBG5ACQm4HWjTA==
 
 import-cwd@^3.0.0:
   version "3.0.0"
@@ -12654,10 +12654,10 @@ prelude-ls@~1.1.2:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.3.0.tgz#b6a5bf1284026ae640f17f7ff5658a7567fc0d18"
   integrity sha512-kXtO4s0Lz/DW/IJ9QdWhAf7/NmPWQXkFr/r/WkR3vyI+0v8amTDxiaQSLzs8NBlytfLWX/7uQUMIW677yLKl4w==
 
-prettier@^2.8.6:
-  version "2.8.6"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.6.tgz#5c174b29befd507f14b83e3c19f83fdc0e974b71"
-  integrity sha512-mtuzdiBbHwPEgl7NxWlqOkithPyp4VN93V7VeHVWBF+ad3I5avc0RVDT4oImXQy9H/AqxA2NSQH8pSxHW6FYbQ==
+prettier@^2.8.7:
+  version "2.8.7"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.7.tgz#bb79fc8729308549d28fe3a98fce73d2c0656450"
+  integrity sha512-yPngTo3aXUUmyuTjeTUT75txrf+aMh9FiD7q9ZE/i6r0bPb22g4FsE6Y338PQX1bmfy08i9QQCB7/rcUAVntfw==
 
 pretty-error@^2.1.1:
   version "2.1.2"
