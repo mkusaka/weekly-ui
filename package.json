@@ -594,7 +594,7 @@
     "qs": "^6.11.1",
     "querystring": "^0.2.1",
     "querystring-es3": "^0.2.1",
-    "ramda": "^0.28.0",
+    "ramda": "^0.29.0",
     "randombytes": "^2.1.0",
     "randomfill": "^1.0.4",
     "range-parser": "^1.2.1",
