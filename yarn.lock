@@ -14620,10 +14620,10 @@ telejson@^6.0.8:
     lodash "^4.17.21"
     memoizerific "^1.11.3"
 
-telejson@^7.0.4:
-  version "7.0.4"
-  resolved "https://registry.yarnpkg.com/telejson/-/telejson-7.0.4.tgz#2e88c0af9566b4f687622ed490588312b2bec186"
-  integrity sha512-J4QEuCnYGXAI9KSN7RXK0a0cOW2ONpjc4IQbInGZ6c3stvplLAYyZjTnScrRd8deXVjNCFV1wXcLC7SObDuQYA==
+telejson@^7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/telejson/-/telejson-7.1.0.tgz#1ef7a0dd57eeb52cde933126f61bcc296c170f52"
+  integrity sha512-jFJO4P5gPebZAERPkJsqMAQ0IMA1Hi0AoSfxpnUaV6j6R2SZqlpkbS20U6dEUtA3RUYt2Ak/mTlkQzHH9Rv/hA==
   dependencies:
     memoizerific "^1.11.3"
 
