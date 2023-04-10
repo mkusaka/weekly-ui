@@ -6037,10 +6037,10 @@ camelcase@^7.0.0, camelcase@^7.0.1:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-7.0.1.tgz#f02e50af9fd7782bc8b88a3558c32fd3a388f048"
   integrity sha512-xlx1yCK2Oc1APsPXDL2LdlNP6+uu8OCDdhOBSVT279M/S+y75O30C2VuD8T2ogdePBBl7PfPF4504tnLgX3zfw==
 
-caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001449, caniuse-lite@^1.0.30001464, caniuse-lite@^1.0.30001476:
-  version "1.0.30001476"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001476.tgz#759906c53eae17133217d75b482f9dc5c02f7898"
-  integrity sha512-JmpktFppVSvyUN4gsLS0bShY2L9ZUslHLE72vgemBkS43JD2fOvKTKs+GtRwuxrtRGnwJFW0ye7kWRRlLJS9vQ==
+caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001449, caniuse-lite@^1.0.30001464, caniuse-lite@^1.0.30001477:
+  version "1.0.30001477"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001477.tgz#a2ffb2276258233034bbb869d4558b02658a511e"
+  integrity sha512-lZim4iUHhGcy5p+Ri/G7m84hJwncj+Kz7S5aD4hoQfslKZJgt0tHc/hafVbqHC5bbhHb+mrW2JOUHkI5KH7toQ==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -8579,10 +8579,10 @@ glob@^7.0.0, glob@^7.0.3, glob@^7.1.3, glob@^7.1.4, glob@^7.1.6:
     once "^1.3.0"
     path-is-absolute "^1.0.0"
 
-glob@^9.2.0, glob@^9.3.1, glob@^9.3.4:
-  version "9.3.4"
-  resolved "https://registry.yarnpkg.com/glob/-/glob-9.3.4.tgz#e75dee24891a80c25cc7ee1dd327e126b98679af"
-  integrity sha512-qaSc49hojMOv1EPM4EuyITjDSgSKI0rthoHnvE81tcOi1SCVndHko7auqxdQ14eiQG2NDBJBE86+2xIrbIvrbA==
+glob@^9.2.0, glob@^9.3.1, glob@^9.3.5:
+  version "9.3.5"
+  resolved "https://registry.yarnpkg.com/glob/-/glob-9.3.5.tgz#ca2ed8ca452781a3009685607fdf025a899dfe21"
+  integrity sha512-e1LleDykUz2Iu+MTYdkSsuWX8lvAjAcs0Xef0lNIu0S2wOAzuTxCJtcd9S3cijlwYF18EsU3rzb8jPVobxDh9Q==
   dependencies:
     fs.realpath "^1.0.0"
     minimatch "^8.0.2"
@@ -11344,10 +11344,10 @@ minimatch@^5.0.1:
   dependencies:
     brace-expansion "^2.0.1"
 
-minimatch@^8.0.2, minimatch@^8.0.3:
-  version "8.0.3"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-8.0.3.tgz#0415cb9bb0c1d8ac758c8a673eb1d288e13f5e75"
-  integrity sha512-tEEvU9TkZgnFDCtpnrEYnPsjT7iUx42aXfs4bzmQ5sMA09/6hZY0jeZcGkXyDagiBOvkUjNo8Viom+Me6+2x7g==
+minimatch@^8.0.2, minimatch@^8.0.4:
+  version "8.0.4"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-8.0.4.tgz#847c1b25c014d4e9a7f68aaf63dedd668a626229"
+  integrity sha512-W0Wvr9HyFXZRGIDgCicunpQ299OKXs9RgZfaukz4qAW/pJhcpUfupc9c+OObPOFueNy8VSrZgEmDtk6Kh4WzDA==
   dependencies:
     brace-expansion "^2.0.1"
 
@@ -11377,10 +11377,10 @@ minipass-pipeline@^1.2.2, minipass-pipeline@^1.2.4:
   dependencies:
     minipass "^3.0.0"
 
-minipass@*, minipass@^4.0.0, minipass@^4.0.2, minipass@^4.2.4, minipass@^4.2.5:
-  version "4.2.5"
-  resolved "https://registry.yarnpkg.com/minipass/-/minipass-4.2.5.tgz#9e0e5256f1e3513f8c34691dd68549e85b2c8ceb"
-  integrity sha512-+yQl7SX3bIT83Lhb4BVorMAHVuqsskxRdlmO9kTpyukp8vsm2Sn/fUOV9xlnG8/a5JsypJzap21lz/y3FBMJ8Q==
+minipass@*, minipass@^4.0.0, minipass@^4.0.2, minipass@^4.2.4, minipass@^4.2.7:
+  version "4.2.7"
+  resolved "https://registry.yarnpkg.com/minipass/-/minipass-4.2.7.tgz#14c6fc0dcab54d9c4dd64b2b7032fef04efec218"
+  integrity sha512-ScVIgqHcXRMyfflqHmEW0bm8z8rb5McHyOY3ewX9JBgZaR77G7nxq9L/mtV96/QbAAwtbCAHVVLzD1kkyfFQEw==
 
 minipass@^3.0.0, minipass@^3.1.1:
   version "3.3.6"
