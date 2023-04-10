@@ -303,7 +303,7 @@
     "get-stream": "^6.0.1",
     "get-value": "^3.0.1",
     "github-slugger": "^2.0.0",
-    "glob": "^9.3.5",
+    "glob": "^10.0.0",
     "glob-base": "^0.3.0",
     "glob-parent": "^6.0.2",
     "glob-promise": "^6.0.2",
