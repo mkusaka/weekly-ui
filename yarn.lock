@@ -2285,10 +2285,10 @@
   resolved "https://registry.yarnpkg.com/@types/assert/-/assert-1.5.6.tgz#a8b5a94ce5fb8f4ba65fdc37fc9507609114189e"
   integrity sha512-Y7gDJiIqb9qKUHfBQYOWGngUpLORtirAVPuj/CWJrU2C6ZM4/y3XLwuwfGMF8s7QzW746LQZx23m0+1FSgjfug==
 
-"@types/async@^3.2.19":
-  version "3.2.19"
-  resolved "https://registry.yarnpkg.com/@types/async/-/async-3.2.19.tgz#95d97d2bd35cee2fd6534679b37d85c4f8af4de6"
-  integrity sha512-MSgZeRq5H2zm212k1uzlBM/67MTco4O8EFsUmyK96Xg0dOGQMReXKuB9QiBzGz6B0XPWPasjNBbPtMuy3qvtmQ==
+"@types/async@^3.2.20":
+  version "3.2.20"
+  resolved "https://registry.yarnpkg.com/@types/async/-/async-3.2.20.tgz#53517caaa68c94f99da1c4e986cf7f2954981515"
+  integrity sha512-6jSBQQugzyX1aWto0CbvOnmxrU9tMoXfA9gc4IrLEtvr3dTwSg5GLGoWiZnGLI6UG/kqpB3JOQKQrqnhUWGKQA==
 
 "@types/atob@^2.1.2":
   version "2.1.2"
