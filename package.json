@@ -224,7 +224,7 @@
     "duplexify": "^4.1.2",
     "ee-first": "^1.1.1",
     "ejs": "^3.1.9",
-    "electron-to-chromium": "^1.4.376",
+    "electron-to-chromium": "^1.4.377",
     "element-resize-detector": "^1.2.4",
     "elliptic": "^6.5.4",
     "emoji-regex": "^10.2.1",
@@ -566,7 +566,7 @@
     "postcss": "^8.4.23",
     "postcss-flexbugs-fixes": "^5.0.2",
     "postcss-load-config": "^4.0.1",
-    "postcss-loader": "^7.2.4",
+    "postcss-loader": "^7.3.0",
     "postcss-modules-extract-imports": "^3.0.0",
     "postcss-modules-local-by-default": "^4.0.0",
     "postcss-modules-scope": "^3.0.0",
@@ -822,7 +822,7 @@
     "zwitch": "^2.0.4"
   },
   "devDependencies": {
-    "@babel/core": "^7.21.4",
+    "@babel/core": "^7.21.5",
     "@storybook/addon-actions": "^6.5.16",
     "@storybook/addon-essentials": "^6.5.16",
     "@storybook/addon-links": "^6.5.16",
