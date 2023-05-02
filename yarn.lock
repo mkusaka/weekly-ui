@@ -7277,10 +7277,10 @@ ejs@^3.1.9:
   dependencies:
     jake "^10.8.5"
 
-electron-to-chromium@^1.4.284, electron-to-chromium@^1.4.378:
-  version "1.4.378"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.378.tgz#73431ffd5fffebc18b4e897fac2e7d4ae6d559d9"
-  integrity sha512-RfCD26kGStl6+XalfX3DGgt3z2DNwJS5DKRHCpkPq5T/PqpZMPB1moSRXuK9xhkt/sF57LlpzJgNoYl7mO7Z6w==
+electron-to-chromium@^1.4.284, electron-to-chromium@^1.4.379:
+  version "1.4.379"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.379.tgz#c9b597e090ce738e7a76db84e5678f27817bd644"
+  integrity sha512-eRMq6Cf4PhjB14R9U6QcXM/VRQ54Gc3OL9LKnFugUIh2AXm3KJlOizlSfVIgjH76bII4zHGK4t0PVTE5qq8dZg==
 
 element-resize-detector@^1.2.2, element-resize-detector@^1.2.4:
   version "1.2.4"
@@ -9660,10 +9660,10 @@ is-descriptor@^1.0.0, is-descriptor@^1.0.2:
     is-data-descriptor "^1.0.0"
     kind-of "^6.0.2"
 
-is-descriptor@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/is-descriptor/-/is-descriptor-3.0.0.tgz#5fca20996d4bb12111f4e0e9fdf0ab770927e6e9"
-  integrity sha512-ulS4dmaxyKmco18hEL9EfipAUTiDH8M/hqEqsGf3kc7F1JWsvOR8daPmela52pc/p6PDo03Lsy6gR7Pf5JwITg==
+is-descriptor@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/is-descriptor/-/is-descriptor-3.1.0.tgz#709641039a80de4fcd3717febd621e46f38ae912"
+  integrity sha512-f7f+QipyxU7Y8+P29bG81jdEof42qyOLv/pauICY1iqt2woHSHT+jxdAxyowhLTfbUezCMmmk6Olh69pmdEvIA==
 
 is-directory@^0.3.1:
   version "0.3.1"
