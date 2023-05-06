@@ -14415,6 +14415,15 @@ string-width@^5.0.1, string-width@^5.1.2:
     emoji-regex "^9.2.2"
     strip-ansi "^7.0.1"
 
+string-width@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/string-width/-/string-width-6.0.0.tgz#4bcf4a60f04bf104eb40b8291dd891a74d7ff45d"
+  integrity sha512-u8lEUVNWDt8saL8Jvzs5qX7PH4goaVhjZ6awtN/m0OWc8xvLjlJdkt9f7YBzXsJ0o/dvAizqLUQbWof6XzMoPg==
+  dependencies:
+    eastasianwidth "^0.2.0"
+    emoji-regex "^10.2.1"
+    strip-ansi "^7.0.1"
+
 "string.prototype.matchall@^4.0.0 || ^3.0.1", string.prototype.matchall@^4.0.8:
   version "4.0.8"
   resolved "https://registry.yarnpkg.com/string.prototype.matchall/-/string.prototype.matchall-4.0.8.tgz#3bf85722021816dcd1bf38bb714915887ca79fd3"
