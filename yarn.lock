@@ -7299,10 +7299,10 @@ ejs@^3.1.9:
   dependencies:
     jake "^10.8.5"
 
-electron-to-chromium@^1.4.284, electron-to-chromium@^1.4.388:
-  version "1.4.388"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.388.tgz#ec0d1be823d5b14da56d91ec5c57e84b4624ea45"
-  integrity sha512-xZ0y4zjWZgp65okzwwt00f2rYibkFPHUv9qBz+Vzn8cB9UXIo9Zc6Dw81LJYhhNt0G/vR1OJEfStZ49NKl0YxQ==
+electron-to-chromium@^1.4.284, electron-to-chromium@^1.4.389:
+  version "1.4.389"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.389.tgz#ad70b94514f633ee2d12bdd8d7db5e8b13b7816a"
+  integrity sha512-WDgWUOK8ROR7sDFyYmxCUOoDc50lPgYAHAHwnnD1iN3SKO/mpqftb9iIPiEkMKmqYdkrR0j3N/O+YB/U7lSxwg==
 
 element-resize-detector@^1.2.2, element-resize-detector@^1.2.4:
   version "1.2.4"
@@ -7384,7 +7384,7 @@ enhanced-resolve@^4.5.0:
     memory-fs "^0.5.0"
     tapable "^1.0.0"
 
-enhanced-resolve@^5.13.0, enhanced-resolve@^5.14.0:
+enhanced-resolve@^5.14.0:
   version "5.14.0"
   resolved "https://registry.yarnpkg.com/enhanced-resolve/-/enhanced-resolve-5.14.0.tgz#0b6c676c8a3266c99fa281e4433a706f5c0c61c4"
   integrity sha512-+DCows0XNwLDcUhbFJPdlQEVnT2zXlCv7hPxemTz86/O+B/hCQ+mb7ydkPKiflpVraqLPCAfu7lDy+hBXueojw==
@@ -15852,10 +15852,10 @@ webpack@4:
     watchpack "^1.7.4"
     webpack-sources "^1.4.1"
 
-"webpack@>=4.43.0 <6.0.0", webpack@^5, webpack@^5.82.0:
-  version "5.82.0"
-  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.82.0.tgz#3c0d074dec79401db026b4ba0fb23d6333f88e7d"
-  integrity sha512-iGNA2fHhnDcV1bONdUu554eZx+XeldsaeQ8T67H6KKHl2nUSwX8Zm7cmzOA46ox/X1ARxf7Bjv8wQ/HsB5fxBg==
+"webpack@>=4.43.0 <6.0.0", webpack@^5, webpack@^5.82.1:
+  version "5.82.1"
+  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.82.1.tgz#8f38c78e53467556e8a89054ebd3ef6e9f67dbab"
+  integrity sha512-C6uiGQJ+Gt4RyHXXYt+v9f+SN1v83x68URwgxNQ98cvH8kxiuywWGP4XeNZ1paOzZ63aY3cTciCEQJNFUljlLw==
   dependencies:
     "@types/eslint-scope" "^3.7.3"
     "@types/estree" "^1.0.0"
@@ -15866,7 +15866,7 @@ webpack@4:
     acorn-import-assertions "^1.7.6"
     browserslist "^4.14.5"
     chrome-trace-event "^1.0.2"
-    enhanced-resolve "^5.13.0"
+    enhanced-resolve "^5.14.0"
     es-module-lexer "^1.2.1"
     eslint-scope "5.1.1"
     events "^3.2.0"
