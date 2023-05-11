@@ -3384,10 +3384,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/merge2@^1.4.0":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@types/merge2/-/merge2-1.4.0.tgz#44e8ef9b2a60abd1e6a699cac5cd125e178c4a97"
-  integrity sha512-MRHDvln2ldZELrUC8n1PGaQzZ33aNh8uDcsGehREW0zR1Fr818a4/JTZjO9eloHPPxnpUp8fz/YFTRc5CWm7Xw==
+"@types/merge2@^1.4.1":
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/@types/merge2/-/merge2-1.4.1.tgz#9e20d8486a1d8346a1bd0beb195c9303b4dce9fd"
+  integrity sha512-Gc3dKjzK0WRdcqBNIEKM1NtCs4RPZBUIugPrdIoEw53RWCbmfu81HuhDZmnjdsftuSJvQiwoV2/vPJAto2+Pfg==
   dependencies:
     "@types/node" "*"
 
