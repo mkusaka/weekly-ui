@@ -996,7 +996,7 @@
     "@types/memory-fs": "^0.3.3",
     "@types/merge-descriptors": "^1.0.1",
     "@types/merge-stream": "^1.1.2",
-    "@types/merge2": "^1.4.0",
+    "@types/merge2": "^1.4.1",
     "@types/methods": "^1.1.1",
     "@types/micromatch": "^4.0.2",
     "@types/mime": "^3.0.1",
