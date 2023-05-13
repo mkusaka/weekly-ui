@@ -363,7 +363,7 @@
     "inherits": "^2.0.4",
     "ini": "^4.1.0",
     "inline-style-parser": "^0.1.1",
-    "inquirer": "^9.2.2",
+    "inquirer": "^9.2.3",
     "internal-slot": "^1.0.5",
     "interpret": "^3.1.1",
     "invariant": "^2.2.4",
