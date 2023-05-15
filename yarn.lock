@@ -11427,7 +11427,7 @@ minipass-pipeline@^1.2.2, minipass-pipeline@^1.2.4:
   dependencies:
     minipass "^3.0.0"
 
-minipass@*, "minipass@^5.0.0 || ^6.0.0":
+minipass@*, "minipass@^5.0.0 || ^6.0.0", minipass@^6.0.0:
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/minipass/-/minipass-6.0.0.tgz#3b000c121dd32da5dc56156381dc322b4f2ffaa0"
   integrity sha512-mvD5U4pUen1aWcjTxUgdoMg6PB98dcV0obc/OiPzls79++IpgNoO+MCbOHRlKfWIOvjIjmjUygjZmSStP7B0Og==
