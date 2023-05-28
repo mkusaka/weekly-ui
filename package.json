@@ -188,7 +188,7 @@
     "css-what": "^6.1.0",
     "cssesc": "^3.0.0",
     "csstype": "^3.1.2",
-    "cyclist": "^1.0.1",
+    "cyclist": "^1.0.2",
     "debug": "^4.3.4",
     "decode-uri-component": "^0.4.1",
     "deep-equal": "^2.2.1",
