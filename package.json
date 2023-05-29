@@ -200,7 +200,7 @@
     "delegate": "^3.2.0",
     "delegates": "^1.0.0",
     "depd": "^2.0.0",
-    "des.js": "^1.0.1",
+    "des.js": "^1.1.0",
     "destroy": "^1.2.0",
     "detab": "^3.0.2",
     "detect-port": "^1.5.1",
