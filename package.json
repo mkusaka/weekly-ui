@@ -216,7 +216,7 @@
     "domhandler": "^5.0.3",
     "domutils": "^3.1.0",
     "dot-case": "^3.0.4",
-    "dotenv": "^16.1.0",
+    "dotenv": "^16.1.1",
     "dotenv-defaults": "^5.0.2",
     "dotenv-expand": "^10.0.0",
     "dotenv-webpack": "^8.0.1",
