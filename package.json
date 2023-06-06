@@ -337,7 +337,7 @@
     "highlight.js": "^11.8.0",
     "hmac-drbg": "^1.0.1",
     "hoist-non-react-statics": "^3.3.2",
-    "html-entities": "^2.3.4",
+    "html-entities": "^2.3.5",
     "html-loader": "^4.2.0",
     "html-minifier-terser": "^7.2.0",
     "html-tags": "^3.3.1",
