@@ -1121,7 +1121,7 @@
     "@types/util-deprecate": "^1.0.0",
     "@types/util.promisify": "^1.0.4",
     "@types/utils-merge": "^0.0.28",
-    "@types/uuid": "^9.0.1",
+    "@types/uuid": "^9.0.2",
     "@types/vary": "^1.1.0",
     "@types/warning": "^3.0.0",
     "@types/watchpack": "^2.4.1",
