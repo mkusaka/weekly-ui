@@ -763,7 +763,7 @@
     "uniq": "^1.0.1",
     "unique-filename": "^3.0.0",
     "unique-slug": "^4.0.0",
-    "unist-builder": "^3.0.1",
+    "unist-builder": "^4.0.0",
     "unist-util-generated": "^2.0.1",
     "unist-util-is": "^5.2.1",
     "unist-util-position": "^4.0.4",
