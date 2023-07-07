@@ -855,7 +855,7 @@
     "@types/bn.js": "^5.1.1",
     "@types/body-parser": "^1.19.2",
     "@types/brace-expansion": "^1.1.0",
-    "@types/braces": "^3.0.1",
+    "@types/braces": "^3.0.2",
     "@types/brorand": "^1.0.30",
     "@types/browserslist": "^4.8.0",
     "@types/bser": "^2.0.1",
