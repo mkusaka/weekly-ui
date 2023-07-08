@@ -15288,10 +15288,15 @@ unist-util-generated@^1.0.0:
   resolved "https://registry.yarnpkg.com/unist-util-generated/-/unist-util-generated-1.1.6.tgz#5ab51f689e2992a472beb1b35f2ce7ff2f324d4b"
   integrity sha512-cln2Mm1/CZzN5ttGK7vkoGw+RZ8VcUH6BtGbq98DDtRGquAAOXig1mrBQYelOwMXYS8rK+vZDyyojSjp7JX+Lg==
 
-unist-util-generated@^2.0.0, unist-util-generated@^2.0.1:
+unist-util-generated@^2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/unist-util-generated/-/unist-util-generated-2.0.1.tgz#e37c50af35d3ed185ac6ceacb6ca0afb28a85cae"
   integrity sha512-qF72kLmPxAw0oN2fwpWIqbXAVyEqUzDHMsbtPvOudIlUzXYFIeQIuxXQCRCFh22B7cixvU0MG7m3MW8FTq/S+A==
+
+unist-util-generated@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/unist-util-generated/-/unist-util-generated-3.0.0.tgz#5a73bc28d61626394122e446afc29af800b0bdf2"
+  integrity sha512-yUjV3LueHK6gH74UKRwZ/Frc43/Mil9oYBHgiQp3z+v0+yS43pJ+Ye8RvZtApW0Xnx1cdWR0z4f3OZhSruF0/Q==
 
 unist-util-is@^4.0.0:
   version "4.1.0"
