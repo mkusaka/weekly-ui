@@ -768,7 +768,7 @@
     "unist-util-is": "^6.0.0",
     "unist-util-position": "^5.0.0",
     "unist-util-remove": "^4.0.0",
-    "unist-util-remove-position": "^4.0.2",
+    "unist-util-remove-position": "^5.0.0",
     "unist-util-stringify-position": "^3.0.3",
     "unist-util-visit": "^4.1.2",
     "unist-util-visit-parents": "^5.1.3",
