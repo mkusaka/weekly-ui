@@ -12064,10 +12064,10 @@ os-tmpdir@~1.0.2:
   resolved "https://registry.yarnpkg.com/os-tmpdir/-/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274"
   integrity sha512-D2FR03Vir7FIu45XBY20mTb+/ZSWB00sjU9jdQXt83gDrI4Ztz5Fs7/yy74g2N5SVQY4xY1qDr4rNddwYRVX0g==
 
-overlayscrollbars@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/overlayscrollbars/-/overlayscrollbars-2.2.0.tgz#589e27c570a1fc5f08e26860ed0ec9d3133d4aac"
-  integrity sha512-Sx7gI2TEx+TFvFXJq4BUYM5R4bfWQR2ertdxyzAQ589ouPKKifMBU0/opdCb1bUC7x6sMiSNI1u9ngC0RbMnBg==
+overlayscrollbars@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/overlayscrollbars/-/overlayscrollbars-2.2.1.tgz#2a6d43ebba5188a394a8b99611f39e22aad6e0c0"
+  integrity sha512-5oMxq4UCiEVLiOSvovbX8p+P2NtPosjHC0KkIcaobnYuxGwMyTOwBCtBdqO1tXrrA02VVrNzuIjGMLisO2mIwg==
 
 p-all@^2.1.0:
   version "2.1.0"
