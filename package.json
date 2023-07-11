@@ -718,7 +718,7 @@
     "tar": "^6.1.15",
     "telejson": "^7.1.0",
     "term-size": "^3.0.2",
-    "terser": "^5.18.2",
+    "terser": "^5.19.0",
     "terser-webpack-plugin": "^5.3.9",
     "test-exclude": "^6.0.0",
     "text-table": "^0.2.0",
