@@ -4000,10 +4000,10 @@
   resolved "https://registry.yarnpkg.com/@types/setimmediate/-/setimmediate-1.0.2.tgz#021a36f2cae266be8180a5b2aa233cd5884b5721"
   integrity sha512-JHonWbepiR1pwiYVz2rOK4mWrhlUcrJQaOSaq4VYlfuhLrPlY1EayGjt0tXemCr8eBdVzvLeYejRCb/0Z/XuiQ==
 
-"@types/sha.js@^2.4.0":
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/@types/sha.js/-/sha.js-2.4.0.tgz#bce682ef860b40f419d024fa08600c3b8d24bb01"
-  integrity sha512-amxKgPy6WJTKuw8mpUwjX2BSxuBtBmZfRwIUDIuPJKNwGN8CWDli8JTg5ONTWOtcTkHIstvT7oAhhYXqEjStHQ==
+"@types/sha.js@^2.4.1":
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/@types/sha.js/-/sha.js-2.4.1.tgz#d7c71b0035360cf120f0a8e8ed4a2eab07a0d51c"
+  integrity sha512-QHWKOJ4dkWB0OCfCoOFUZkhvpqUllcPs2WIhYFk7ugAprv3ts0z4nSuHtc0jlWBYLdPwfNRpVpv9pIpFSbYBYQ==
   dependencies:
     "@types/node" "*"
 
