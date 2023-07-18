@@ -810,7 +810,7 @@
     "which": "^3.0.1",
     "wide-align": "^1.1.5",
     "widest-line": "^4.0.1",
-    "word-wrap": "^1.2.3",
+    "word-wrap": "^1.2.4",
     "worker-farm": "^1.7.0",
     "worker-rpc": "^0.2.0",
     "wrappy": "^1.0.2",
