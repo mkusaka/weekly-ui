@@ -2362,10 +2362,10 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
-"@types/balanced-match@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@types/balanced-match/-/balanced-match-1.0.2.tgz#9a4dccbebbd293f21ace8485cd664d7777cdd66c"
-  integrity sha512-KgomuqUNYgN+Sibk22j7HB6vo8gziGz/k3Y8RkauF2duMZfMeIkyUKARef2eIIQuXGrkbIvcOfY5DNF/nQrDZQ==
+"@types/balanced-match@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@types/balanced-match/-/balanced-match-1.0.3.tgz#14fd1e4175bc45b878ca310739b330d6748f5fd8"
+  integrity sha512-nBZFt2r4snsIMicyNwgdga4wcoJtGRF39xX4Le3GjA2oSJcQlGAD8XrmlRddYcINFK8dypxJEUS6bVgKBQ7FyA==
 
 "@types/base64-js@^1.3.0":
   version "1.3.0"
@@ -3849,10 +3849,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@^18.2.15":
-  version "18.2.15"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.15.tgz#14792b35df676c20ec3cf595b262f8c615a73066"
-  integrity sha512-oEjE7TQt1fFTFSbf8kkNuc798ahTUzn3Le67/PWjE8MAfYAD/qB7O8hSTcromLFqHCt9bcdOg5GXMokzTjJ5SA==
+"@types/react@*", "@types/react@^18.2.16":
+  version "18.2.16"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.16.tgz#403dda0e933caccac9efde569923239ac426786c"
+  integrity sha512-LLFWr12ZhBJ4YVw7neWLe6Pk7Ey5R9OCydfuMsz1L8bZxzaawJj2p06Q8/EFEHDeTBQNFLF62X+CG7B2zIyu0Q==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
