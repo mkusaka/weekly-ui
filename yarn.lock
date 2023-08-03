@@ -7355,10 +7355,10 @@ ejs@^3.1.9:
   dependencies:
     jake "^10.8.5"
 
-electron-to-chromium@^1.4.477, electron-to-chromium@^1.4.482:
-  version "1.4.482"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.482.tgz#77c5ed37b93d4dda860e27538e0e2a01d6a19e02"
-  integrity sha512-h+UqpfmEr1Qkk0zp7ej/jid7CXoq4m4QzW6wNTb0ELJ/BZCpA4wgUylBIMGCe621tnr4l5VmoHjdoSx2lbnNJA==
+electron-to-chromium@^1.4.477, electron-to-chromium@^1.4.484:
+  version "1.4.484"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.484.tgz#770358eba089471c5dae5719db3a5a4fbf02bfb2"
+  integrity sha512-nO3ZEomTK2PO/3TUXgEx0A97xZTpKVf4p427lABHuCpT1IQ2N+njVh29DkQkCk6Q4m2wjU+faK4xAcfFndwjvw==
 
 element-resize-detector@^1.2.2, element-resize-detector@^1.2.4:
   version "1.2.4"
@@ -10825,10 +10825,10 @@ markdown-escapes@^2.0.1:
   resolved "https://registry.yarnpkg.com/markdown-escapes/-/markdown-escapes-2.0.1.tgz#55c80ad829fe91a9af1766524b5df31d5098de01"
   integrity sha512-3zUf/cbiXn5PdDeUWqFUFHRNilrXUKXXSz+WeCuVI8+ub2n4caF0pyuAN+KQs5XxkGtsR66p3cb/0zlIfZu1vA==
 
-markdown-to-jsx@*, markdown-to-jsx@^7.2.1:
-  version "7.2.1"
-  resolved "https://registry.yarnpkg.com/markdown-to-jsx/-/markdown-to-jsx-7.2.1.tgz#87061fd3176ad926ef3d99493e5c57f6335e0c51"
-  integrity sha512-9HrdzBAo0+sFz9ZYAGT5fB8ilzTW+q6lPocRxrIesMO+aB40V9MgFfbfMXxlGjf22OpRy+IXlvVaQenicdpgbg==
+markdown-to-jsx@*, markdown-to-jsx@^7.3.1:
+  version "7.3.1"
+  resolved "https://registry.yarnpkg.com/markdown-to-jsx/-/markdown-to-jsx-7.3.1.tgz#11bfd95573d3ada43c149d03e8cf81c8a8f7773d"
+  integrity sha512-UQm7q0Pj/OjNoVbSJWb81qQFFZlZluOdn5fAb/GP5ku9LiBvCDqu8laEDsTFXweYQeLxnTexNcjRZdyOW+souw==
 
 material-colors@^1.2.1, material-colors@^1.2.6:
   version "1.2.6"
