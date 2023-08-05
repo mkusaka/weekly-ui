@@ -9010,7 +9010,7 @@ hast-util-from-parse5@^6.0.0:
     vfile-location "^3.2.0"
     web-namespaces "^1.0.0"
 
-hast-util-from-parse5@^7.0.0, hast-util-from-parse5@^7.1.2:
+hast-util-from-parse5@^7.0.0:
   version "7.1.2"
   resolved "https://registry.yarnpkg.com/hast-util-from-parse5/-/hast-util-from-parse5-7.1.2.tgz#aecfef73e3ceafdfa4550716443e4eb7b02e22b0"
   integrity sha512-Nz7FfPBuljzsN3tCQ4kCBKqdNhQE2l0Tn+X1ubgKBPRoiDIu1mL08Cfw4k7q71+Duyaw7DXDN+VTAp4Vh3oCOw==
@@ -9021,6 +9021,20 @@ hast-util-from-parse5@^7.0.0, hast-util-from-parse5@^7.1.2:
     property-information "^6.0.0"
     vfile "^5.0.0"
     vfile-location "^4.0.0"
+    web-namespaces "^2.0.0"
+
+hast-util-from-parse5@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/hast-util-from-parse5/-/hast-util-from-parse5-8.0.0.tgz#8e3aeb3602658d53edd270830ffe89049d5fa0e5"
+  integrity sha512-sFjedEbYjBTM8XEkcdWiiH7ueWBD7+51qD+Y10YYXhyRMvrkaMDC1a6IFVlSzuVr3gtKNjOOaCCi7IgNUjmiMQ==
+  dependencies:
+    "@types/hast" "^3.0.0"
+    "@types/unist" "^3.0.0"
+    devlop "^1.0.0"
+    hastscript "^8.0.0"
+    property-information "^6.0.0"
+    vfile "^6.0.0"
+    vfile-location "^5.0.0"
     web-namespaces "^2.0.0"
 
 hast-util-parse-selector@^2.0.0:
@@ -15878,7 +15892,7 @@ vfile-location@^4.0.0:
     "@types/unist" "^2.0.0"
     vfile "^5.0.0"
 
-vfile-location@^5.0.1:
+vfile-location@^5.0.0, vfile-location@^5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/vfile-location/-/vfile-location-5.0.1.tgz#6ae8d9bb442c7a16c4e4daaa98d4ad8e875a3a8e"
   integrity sha512-tyc/iDsjoW+UB42/+JavfeXU/ThfN6WTFkRy/XNfGgdOiVw9qGJjZYG/H7dHUGMdc5Y6iwkPA/iUMe629h6nHQ==
