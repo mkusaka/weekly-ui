@@ -8085,10 +8085,10 @@ filenamify@^4.3.0:
     strip-outer "^1.0.1"
     trim-repeated "^1.0.0"
 
-filesize@^10.0.8:
-  version "10.0.8"
-  resolved "https://registry.yarnpkg.com/filesize/-/filesize-10.0.8.tgz#3091e0db2ab836dcd704f7b65d278519ef634457"
-  integrity sha512-/ylBrxZ1GAjgh2CEemKKLwTtmXfWqTtN1jRl6iqLwnMEucUX5cmaCCUPGstQOHVCcK9uYL6o1cPNakLQU2sasQ==
+filesize@^10.0.9:
+  version "10.0.9"
+  resolved "https://registry.yarnpkg.com/filesize/-/filesize-10.0.9.tgz#7371841907fd6060eb583a38bac8494c2fd75f2a"
+  integrity sha512-BzSxJtyq7ZEBjQPEC6u7GNrK58xwaITCvHPaH7e5145eowrMwLfm5LMu/7PeHTTKxP4joIyNmxCbVJVXv7xPGQ==
 
 filesize@^8.0.6:
   version "8.0.7"
@@ -10984,10 +10984,10 @@ mdast-util-to-hast@10.0.1:
     unist-util-position "^3.0.0"
     unist-util-visit "^2.0.0"
 
-mdast-util-to-hast@^13.0.0:
-  version "13.0.0"
-  resolved "https://registry.yarnpkg.com/mdast-util-to-hast/-/mdast-util-to-hast-13.0.0.tgz#336a770974aa08fd871888d932ff257f15048a83"
-  integrity sha512-G6lqIDTZUze20I2HuqQ5Qe222DH/hzEv4lQ2I7XFj5hvhFNFMhgxDGIXrJp86Z+9rfzbs2al5RLjcgBcq3Ry4w==
+mdast-util-to-hast@^13.0.0, mdast-util-to-hast@^13.0.1:
+  version "13.0.1"
+  resolved "https://registry.yarnpkg.com/mdast-util-to-hast/-/mdast-util-to-hast-13.0.1.tgz#4ad86d1c985d75db5f99b5b09d43b0bd4620c0b4"
+  integrity sha512-ka3PknAg27U8ay/v8p+uYcN5bdwjqoAtPF78neohOLaJKhwnuQsp7MAJM3LnMgQ/LABDbK9jwhkVZp7uCLkOMQ==
   dependencies:
     "@types/hast" "^3.0.0"
     "@types/mdast" "^4.0.0"
