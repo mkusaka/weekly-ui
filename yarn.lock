@@ -8979,17 +8979,10 @@ hash.js@^1.0.0, hash.js@^1.0.3, hash.js@^1.1.7:
     inherits "^2.0.3"
     minimalistic-assert "^1.0.1"
 
-hast-to-hyperscript@^10.0.3:
-  version "10.0.3"
-  resolved "https://registry.yarnpkg.com/hast-to-hyperscript/-/hast-to-hyperscript-10.0.3.tgz#808133a8a2167976cd0024255adeced27ef7e7da"
-  integrity sha512-NuBoUStp4fRwmvlfbidlEiRSTk0gSHm+97q4Xn9CJ10HO+Py7nlTuDi6RhM1qLOureukGrCXLG7AAxaGqqyslQ==
-  dependencies:
-    "@types/unist" "^2.0.0"
-    comma-separated-tokens "^2.0.0"
-    property-information "^6.0.0"
-    space-separated-tokens "^2.0.0"
-    style-to-object "^0.4.1"
-    web-namespaces "^2.0.0"
+hast-to-hyperscript@^11.0.0:
+  version "11.0.0"
+  resolved "https://registry.yarnpkg.com/hast-to-hyperscript/-/hast-to-hyperscript-11.0.0.tgz#84844f869f8a10c163e7feabb45614fca4e8df72"
+  integrity sha512-SA5fwEx3oyhT3vseueL4P0l4MolqGFa3JXRxQiWKcu5P8KQBt5cdvZtPv9pz6M/FPCYTz9BfeDbjS4VRwgJoFA==
 
 hast-to-hyperscript@^9.0.0:
   version "9.0.1"
@@ -14772,7 +14765,7 @@ style-to-object@0.3.0, style-to-object@^0.3.0:
   dependencies:
     inline-style-parser "0.1.1"
 
-style-to-object@^0.4.1, style-to-object@^0.4.2:
+style-to-object@^0.4.2:
   version "0.4.2"
   resolved "https://registry.yarnpkg.com/style-to-object/-/style-to-object-0.4.2.tgz#a8247057111dea8bd3b8a1a66d2d0c9cf9218a54"
   integrity sha512-1JGpfPB3lo42ZX8cuPrheZbfQ6kqPPnPHlKMyeRYtfKD+0jG+QsXgXN57O/dvJlzlB2elI6dGmrPnl5VPQFPaA==
