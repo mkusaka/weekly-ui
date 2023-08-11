@@ -8049,10 +8049,10 @@ file-system-cache@^1.0.5:
     fs-extra "^10.1.0"
     ramda "^0.28.0"
 
-file-system-cache@^2.4.3:
-  version "2.4.3"
-  resolved "https://registry.yarnpkg.com/file-system-cache/-/file-system-cache-2.4.3.tgz#6db5ebe70c4d924ef550440107393973b8b39c52"
-  integrity sha512-wBJ+ysm8ma2m7bNYKu72ZZ02LfypRg00AYdG9w2sbpOsu9KgHGQ4mJEGoAWYjAr+C+9jf1Q1ZwBqTB4Rdz0upA==
+file-system-cache@^2.4.4:
+  version "2.4.4"
+  resolved "https://registry.yarnpkg.com/file-system-cache/-/file-system-cache-2.4.4.tgz#90eb72960e3d7b72d09768d4d4262c98f8d206b6"
+  integrity sha512-vCYhn8pb5nlC3Gs2FFCOkmf4NEg2Ym3ulJwkmS9o6p9oRShGj6CwTMFvpgZihBlsh373NaM0XgAgDHXQIlS4LQ==
   dependencies:
     "@types/fs-extra" "11.0.1"
     "@types/ramda" "0.29.3"
@@ -10730,10 +10730,10 @@ lowlight@^2.9.0:
     fault "^2.0.0"
     highlight.js "~11.8.0"
 
-lru-cache@*, lru-cache@^10.0.0, "lru-cache@^9.1.1 || ^10.0.0":
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-10.0.0.tgz#b9e2a6a72a129d81ab317202d93c7691df727e61"
-  integrity sha512-svTf/fzsKHffP42sujkO/Rjs37BCIsQVRCeNYIm9WN8rgT7ffoUnRtZCqU+6BqcSBdv8gwJeTz8knJpgACeQMw==
+lru-cache@*, lru-cache@^10.0.1, "lru-cache@^9.1.1 || ^10.0.0":
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-10.0.1.tgz#0a3be479df549cca0e5d693ac402ff19537a6b7a"
+  integrity sha512-IJ4uwUTi2qCccrioU6g9g/5rvvVl13bsdczUUcqbciD9iLr095yj8DQKdObriEvuNSx325N1rV1O0sJFszx75g==
 
 lru-cache@^5.1.1:
   version "5.1.1"
