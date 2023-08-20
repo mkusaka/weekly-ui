@@ -480,7 +480,7 @@
     "minimatch": "^9.0.3",
     "minimist": "^1.2.8",
     "minipass": "^7.0.3",
-    "minipass-collect": "^1.0.2",
+    "minipass-collect": "^2.0.1",
     "minipass-flush": "^1.0.5",
     "minipass-pipeline": "^1.2.4",
     "minizlib": "^2.1.2",
