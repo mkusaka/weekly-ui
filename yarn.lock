@@ -7361,10 +7361,10 @@ ejs@^3.1.9:
   dependencies:
     jake "^10.8.5"
 
-electron-to-chromium@^1.4.477, electron-to-chromium@^1.4.498:
-  version "1.4.498"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.498.tgz#cef35341123f62a35ba7084e439c911d25e0d81b"
-  integrity sha512-4LODxAzKGVy7CJyhhN5mebwe7U2L29P+0G+HUriHnabm0d7LSff8Yn7t+Wq+2/9ze2Fu1dhX7mww090xfv7qXQ==
+electron-to-chromium@^1.4.477, electron-to-chromium@^1.4.499:
+  version "1.4.499"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.499.tgz#dc36b67f4c8e273524e8d2080c5203a6a76987b6"
+  integrity sha512-0NmjlYBLKVHva4GABWAaHuPJolnDuL0AhV3h1hES6rcLCWEIbRL6/8TghfsVwkx6TEroQVdliX7+aLysUpKvjw==
 
 element-resize-detector@^1.2.2, element-resize-detector@^1.2.4:
   version "1.2.4"
@@ -13314,10 +13314,10 @@ react-syntax-highlighter@^15.5.0:
     prismjs "^1.27.0"
     refractor "^3.6.0"
 
-react-textarea-autosize@^8.5.2:
-  version "8.5.2"
-  resolved "https://registry.yarnpkg.com/react-textarea-autosize/-/react-textarea-autosize-8.5.2.tgz#6421df2b5b50b9ca8c5e96fd31be688ea7fa2f9d"
-  integrity sha512-uOkyjkEl0ByEK21eCJMHDGBAAd/BoFQBawYK5XItjAmCTeSbjxghd8qnt7nzsLYzidjnoObu6M26xts0YGKsGg==
+react-textarea-autosize@^8.5.3:
+  version "8.5.3"
+  resolved "https://registry.yarnpkg.com/react-textarea-autosize/-/react-textarea-autosize-8.5.3.tgz#d1e9fe760178413891484847d3378706052dd409"
+  integrity sha512-XT1024o2pqCuZSuBt9FwHlaDeNtVrtCXu0Rnz88t1jUGheCLa3PhjE1GH8Ctm2axEtvdCl5SUHYschyQ0L5QHQ==
   dependencies:
     "@babel/runtime" "^7.20.13"
     use-composed-ref "^1.3.0"
@@ -15869,12 +15869,12 @@ vfile-location@^4.0.0:
     "@types/unist" "^2.0.0"
     vfile "^5.0.0"
 
-vfile-location@^5.0.0, vfile-location@^5.0.1:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/vfile-location/-/vfile-location-5.0.1.tgz#6ae8d9bb442c7a16c4e4daaa98d4ad8e875a3a8e"
-  integrity sha512-tyc/iDsjoW+UB42/+JavfeXU/ThfN6WTFkRy/XNfGgdOiVw9qGJjZYG/H7dHUGMdc5Y6iwkPA/iUMe629h6nHQ==
+vfile-location@^5.0.0, vfile-location@^5.0.2:
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/vfile-location/-/vfile-location-5.0.2.tgz#220d9ca1ab6f8b2504a4db398f7ebc149f9cb464"
+  integrity sha512-NXPYyxyBSH7zB5U6+3uDdd6Nybz6o6/od9rk8bp9H8GR3L+cm/fC0uUTbqBmUTnMCUDslAGBOIKNfvvb+gGlDg==
   dependencies:
-    "@types/unist" "^2.0.0"
+    "@types/unist" "^3.0.0"
     vfile "^6.0.0"
 
 vfile-message@^2.0.0:
