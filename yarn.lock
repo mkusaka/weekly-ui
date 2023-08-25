@@ -7361,10 +7361,10 @@ ejs@^3.1.9:
   dependencies:
     jake "^10.8.5"
 
-electron-to-chromium@^1.4.477, electron-to-chromium@^1.4.502:
-  version "1.4.502"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.502.tgz#531cda8774813d97d6cfa2fb9d8ee3e2c75851fa"
-  integrity sha512-xqeGw3Gr6o3uyHy/yKjdnDQHY2RQvXcGC2cfHjccK1IGkH6cX1WQBN8EeC/YpwPhGkBaikDTecJ8+ssxSVRQlw==
+electron-to-chromium@^1.4.477, electron-to-chromium@^1.4.503:
+  version "1.4.503"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.503.tgz#7bd43927ea9b4198697672d28d8fbd0da016a7a1"
+  integrity sha512-LF2IQit4B0VrUHFeQkWhZm97KuJSGF2WJqq1InpY+ECpFRkXd8yTIaTtJxsO0OKDmiBYwWqcrNaXOurn2T2wiA==
 
 element-resize-detector@^1.2.2, element-resize-detector@^1.2.4:
   version "1.2.4"
@@ -12182,10 +12182,10 @@ os-tmpdir@~1.0.2:
   resolved "https://registry.yarnpkg.com/os-tmpdir/-/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274"
   integrity sha512-D2FR03Vir7FIu45XBY20mTb+/ZSWB00sjU9jdQXt83gDrI4Ztz5Fs7/yy74g2N5SVQY4xY1qDr4rNddwYRVX0g==
 
-overlayscrollbars@^2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/overlayscrollbars/-/overlayscrollbars-2.2.1.tgz#2a6d43ebba5188a394a8b99611f39e22aad6e0c0"
-  integrity sha512-5oMxq4UCiEVLiOSvovbX8p+P2NtPosjHC0KkIcaobnYuxGwMyTOwBCtBdqO1tXrrA02VVrNzuIjGMLisO2mIwg==
+overlayscrollbars@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/overlayscrollbars/-/overlayscrollbars-2.3.0.tgz#db42a2da106fdeb7bab2b8ee132c0b675b962787"
+  integrity sha512-4h6wtdTzqDFBGcNeoXObulJ8uQ1MkcMrtFDnqfQDaRp4dRfzsxSwi4PnsWsObcEm4AQPkMNUJsFHUNlRq4ZQbg==
 
 p-all@^2.1.0:
   version "2.1.0"
