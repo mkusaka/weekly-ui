@@ -2695,10 +2695,10 @@
   resolved "https://registry.yarnpkg.com/@types/dir-glob/-/dir-glob-2.0.1.tgz#36da41b6ce0f21a8717cd7efe485e66ecac6c9ba"
   integrity sha512-4LClJMcgR7UaV55YKFtb1EiRA/+rVKyTb1LAHjdstSrI6+3+qRLgXrjPEG2OzDAiAutDqLBnxqE5gJ3cx+Jiag==
 
-"@types/doctrine@^0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@types/doctrine/-/doctrine-0.0.5.tgz#9768264221e8fd422e4989c8cfdab2ff781f4eb6"
-  integrity sha512-JJwEeFy8Sl9ctiugU4h4DGN9hCB47oyhUkM2H8g8xZr4tHTEXtmV4U6krKrU8Ng0S7RlG/J7fkta1rGu3pq+YQ==
+"@types/doctrine@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@types/doctrine/-/doctrine-0.0.6.tgz#12ede1f7cd3797be5856277c85f031299ccd2641"
+  integrity sha512-KlEqPtaNBHBJ2/fVA4yLdD0Tc8zw34pKU4K5SHBIEwtLJ8xxumIC1xeG+4S+/9qhVj2MqC7O3Ld8WvDG4HqlgA==
 
 "@types/domhandler@^2.4.2":
   version "2.4.2"
@@ -3702,10 +3702,10 @@
   dependencies:
     postcss "^8.0.0"
 
-"@types/prelude-ls@^1.1.29":
-  version "1.1.29"
-  resolved "https://registry.yarnpkg.com/@types/prelude-ls/-/prelude-ls-1.1.29.tgz#4d9913c94baeef309457d670d5ddeff96fc6b5a8"
-  integrity sha512-fVtEXcRRYhyPFvrwAfTmFux/R9Bgh7+Fied2+9qEXHowlcniw6HDk00SIHF3Y9YekrpOtWXqsQHy+Ft59xk79Q==
+"@types/prelude-ls@^1.1.30":
+  version "1.1.30"
+  resolved "https://registry.yarnpkg.com/@types/prelude-ls/-/prelude-ls-1.1.30.tgz#dca3aeebd3909cfb6501df9f9b8604b1356566c0"
+  integrity sha512-lC52KW8RjruKhXI5Zc3yVlyQrCOsAtuyBCahU6/Na25Rs1VEdu9oxDLCA5ImnK5hyT/SRKw0KwUSSpppmj62ZQ==
 
 "@types/prettier@^2.7.3":
   version "2.7.3"
