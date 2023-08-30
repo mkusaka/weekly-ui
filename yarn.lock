@@ -12913,14 +12913,14 @@ promise.allsettled@^1.0.0, promise.allsettled@^1.0.6:
     get-intrinsic "^1.1.3"
     iterate-value "^1.0.2"
 
-promise.prototype.finally@^3.1.0, promise.prototype.finally@^3.1.4:
-  version "3.1.4"
-  resolved "https://registry.yarnpkg.com/promise.prototype.finally/-/promise.prototype.finally-3.1.4.tgz#4e756a154e4db27fae24c6b18703495c31da3927"
-  integrity sha512-nNc3YbgMfLzqtqvO/q5DP6RR0SiHI9pUPGzyDf1q+usTwCN2kjvAnJkBb7bHe3o+fFSBPpsGMoYtaSi+LTNqng==
+promise.prototype.finally@^3.1.0, promise.prototype.finally@^3.1.5:
+  version "3.1.5"
+  resolved "https://registry.yarnpkg.com/promise.prototype.finally/-/promise.prototype.finally-3.1.5.tgz#94ba0a29f925e6da0709faddf85163cd8ed892c2"
+  integrity sha512-4TQ3Dk8yyUZGyU+UXInKdkQ2b6xtiBXAIScGAtGnXVmJtG1uOrxRgbF1ggIu72uzoWFzUfT3nUKa1SuMm9NBdg==
   dependencies:
     call-bind "^1.0.2"
-    define-properties "^1.1.4"
-    es-abstract "^1.20.4"
+    define-properties "^1.2.0"
+    es-abstract "^1.22.1"
 
 prompts@^2.4.0, prompts@^2.4.2:
   version "2.4.2"
