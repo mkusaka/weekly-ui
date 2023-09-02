@@ -6714,10 +6714,10 @@ cosmiconfig@^7.0.0, cosmiconfig@^7.0.1:
     path-type "^4.0.0"
     yaml "^1.10.0"
 
-cosmiconfig@^8.2.0, cosmiconfig@^8.3.0:
-  version "8.3.0"
-  resolved "https://registry.yarnpkg.com/cosmiconfig/-/cosmiconfig-8.3.0.tgz#a90c59a5cf02ca4419f9f2071682e096edb4f6fd"
-  integrity sha512-kLfJx14+dZY3x65/LrdDXNt8r7VkoARRofiMgZhZ9qoKtJsGTjBKrbSBPwtxfNF9oWr7HC9x228/GYrwCnZLrQ==
+cosmiconfig@^8.2.0, cosmiconfig@^8.3.2:
+  version "8.3.2"
+  resolved "https://registry.yarnpkg.com/cosmiconfig/-/cosmiconfig-8.3.2.tgz#020213ad7387482a1f3fdd5c77c300ed2c72e162"
+  integrity sha512-/PvU3MjSLVKJMRHsL6GW+wHQ9RaJuMW6fnn56sXNy+kP1L8nI/SHk9F9giIA+dnfzjKNJAulRjOR/fi9kzGuNA==
   dependencies:
     import-fresh "^3.3.0"
     js-yaml "^4.1.0"
