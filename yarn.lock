@@ -6714,14 +6714,14 @@ cosmiconfig@^7.0.0, cosmiconfig@^7.0.1:
     path-type "^4.0.0"
     yaml "^1.10.0"
 
-cosmiconfig@^8.2.0:
-  version "8.2.0"
-  resolved "https://registry.yarnpkg.com/cosmiconfig/-/cosmiconfig-8.2.0.tgz#f7d17c56a590856cd1e7cee98734dca272b0d8fd"
-  integrity sha512-3rTMnFJA1tCOPwRxtgF4wd7Ab2qvDbL8jX+3smjIbS4HlZBagTlpERbdN7iAbWlrfxE3M8c27kTwTawQ7st+OQ==
+cosmiconfig@^8.2.0, cosmiconfig@^8.3.0:
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/cosmiconfig/-/cosmiconfig-8.3.0.tgz#a90c59a5cf02ca4419f9f2071682e096edb4f6fd"
+  integrity sha512-kLfJx14+dZY3x65/LrdDXNt8r7VkoARRofiMgZhZ9qoKtJsGTjBKrbSBPwtxfNF9oWr7HC9x228/GYrwCnZLrQ==
   dependencies:
-    import-fresh "^3.2.1"
+    import-fresh "^3.3.0"
     js-yaml "^4.1.0"
-    parse-json "^5.0.0"
+    parse-json "^5.2.0"
     path-type "^4.0.0"
 
 cp-file@^7.0.0:
@@ -12394,7 +12394,7 @@ parse-json@^2.2.0:
   dependencies:
     error-ex "^1.2.0"
 
-parse-json@^5.0.0:
+parse-json@^5.0.0, parse-json@^5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/parse-json/-/parse-json-5.2.0.tgz#c76fc66dee54231c962b22bcc8a72cf2f99753cd"
   integrity sha512-ayCKvm/phCGxOkYRSCM82iDwct8/EonSEgCSxWxD7ve6jHggsFl4fZVQBPRNgQoKiuV/odhFrGzQXZwbifC8Rg==
@@ -12946,10 +12946,10 @@ property-information@^5.0.0, property-information@^5.3.0:
   dependencies:
     xtend "^4.0.0"
 
-property-information@^6.0.0, property-information@^6.2.0:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/property-information/-/property-information-6.2.0.tgz#b74f522c31c097b5149e3c3cb8d7f3defd986a1d"
-  integrity sha512-kma4U7AFCTwpqq5twzC1YVIDXSqg6qQK6JN0smOw8fgRy1OkMi0CYSzFmsy6dnqSenamAtj0CyXMUJ1Mf6oROg==
+property-information@^6.0.0, property-information@^6.3.0:
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/property-information/-/property-information-6.3.0.tgz#ba4a06ec6b4e1e90577df9931286953cdf4282c3"
+  integrity sha512-gVNZ74nqhRMiIUYWGQdosYetaKc83x8oT41a0LlV3AAFCAZwCpg4vmGkq8t34+cUhp3cnM4XDiU/7xlgK7HGrg==
 
 proxy-addr@^2.0.7, proxy-addr@~2.0.7:
   version "2.0.7"
