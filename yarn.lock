@@ -8008,7 +8008,7 @@ fault@^1.0.0:
   dependencies:
     format "^0.2.0"
 
-fault@^2.0.0, fault@^2.0.1:
+fault@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/fault/-/fault-2.0.1.tgz#d47ca9f37ca26e4bd38374a7c500b5a384755b6c"
   integrity sha512-WtySTkS4OKev5JtpHXnib4Gxiurzh5NCGvWrFaZ34m6JehfTUhKZvn9njTfw48t6JumVQOmrKqpmGcdwxnhqBQ==
@@ -10734,13 +10734,13 @@ lowlight@^1.17.0:
     fault "^1.0.0"
     highlight.js "~10.7.0"
 
-lowlight@^2.9.0:
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/lowlight/-/lowlight-2.9.0.tgz#70da647a4319c7bfd8e97721a679b13ef5621496"
-  integrity sha512-OpcaUTCLmHuVuBcyNckKfH5B0oA4JUavb/M/8n9iAvanJYNQkrVm4pvyX0SUaqkBG4dnWHKt7p50B3ngAG2Rfw==
+lowlight@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/lowlight/-/lowlight-3.0.0.tgz#8772e6514f1c14cd576b5a7a22668f5aa2ddd10b"
+  integrity sha512-kedX6yxvgak8P4LGh3vKRDQuMbVcnP+qRuDJlve2w+mNJAbEhEQPjYCp9QJnpVL5F2aAAVjeIzzrbQZUKHiDJw==
   dependencies:
-    "@types/hast" "^2.0.0"
-    fault "^2.0.0"
+    "@types/hast" "^3.0.0"
+    devlop "^1.0.0"
     highlight.js "~11.8.0"
 
 lru-cache@*, lru-cache@^10.0.1, "lru-cache@^9.1.1 || ^10.0.0":
