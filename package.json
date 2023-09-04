@@ -718,7 +718,7 @@
     "tar": "^6.1.15",
     "telejson": "^7.2.0",
     "term-size": "^3.0.2",
-    "terser": "^5.19.3",
+    "terser": "^5.19.4",
     "terser-webpack-plugin": "^5.3.9",
     "test-exclude": "^6.0.0",
     "text-table": "^0.2.0",
@@ -822,7 +822,7 @@
     "zwitch": "^2.0.4"
   },
   "devDependencies": {
-    "@babel/core": "^7.22.11",
+    "@babel/core": "^7.22.15",
     "@storybook/addon-actions": "^6.5.16",
     "@storybook/addon-essentials": "^6.5.16",
     "@storybook/addon-links": "^6.5.16",
