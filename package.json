@@ -986,7 +986,7 @@
     "@types/klaw": "^3.0.3",
     "@types/loader-runner": "^2.2.5",
     "@types/loader-utils": "^2.0.4",
-    "@types/lodash": "^4.14.197",
+    "@types/lodash": "^4.14.198",
     "@types/lodash.uniq": "^4.5.7",
     "@types/lowlight": "^0.0.4",
     "@types/lru-cache": "^7.10.9",
