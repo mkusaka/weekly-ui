@@ -423,7 +423,7 @@
     "jest-util": "^29.6.3",
     "jest-worker": "^29.6.4",
     "js-string-escape": "^1.0.1",
-    "js-tokens": "^8.0.1",
+    "js-tokens": "^8.0.2",
     "js-yaml": "^4.1.0",
     "jsesc": "^3.0.2",
     "json-parse-better-errors": "^1.0.2",
