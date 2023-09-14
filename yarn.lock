@@ -12356,12 +12356,12 @@ parent-module@^1.0.0:
   dependencies:
     callsites "^3.0.0"
 
-parent-module@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/parent-module/-/parent-module-3.0.0.tgz#4bddc5cc0584935189977bae3384cc66dedde363"
-  integrity sha512-zJXn5iKdXXUV51iC7O4nHiPs/eWnkd0obrHDlOKQ6/MafFrxljinW6hCkr0UTsAGq7B+NXT2wIfLshcD+5RvIw==
+parent-module@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/parent-module/-/parent-module-3.1.0.tgz#bcba90b465fa3ba029fad2a933f4c683668a2148"
+  integrity sha512-FX4TpKXX6CesSm1D9y5IcF0/KdDjP/w0c1AKqreGZne2QyWiPWHfoApMaJl8zvH3DTh+xtVmlLIUqSSoPYjqLQ==
   dependencies:
-    callsites "^4.0.0"
+    callsites "^4.1.0"
 
 parse-asn1@^5.0.0, parse-asn1@^5.1.5, parse-asn1@^5.1.6:
   version "5.1.6"
