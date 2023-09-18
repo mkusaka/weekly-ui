@@ -636,7 +636,7 @@
     "remark-external-links": "^9.0.1",
     "remark-footnotes": "^4.0.1",
     "remark-mdx": "^2.3.0",
-    "remark-parse": "^10.0.2",
+    "remark-parse": "^11.0.0",
     "remark-slug": "^7.0.1",
     "remark-squeeze-paragraphs": "^5.0.1",
     "remove-trailing-separator": "^1.1.0",
