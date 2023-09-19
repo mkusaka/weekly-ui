@@ -4201,10 +4201,10 @@
   dependencies:
     source-map "^0.6.1"
 
-"@types/uniq@^0.0.28":
-  version "0.0.28"
-  resolved "https://registry.yarnpkg.com/@types/uniq/-/uniq-0.0.28.tgz#edc0150fe1c7d699d812a118785fc53fd9b6e26f"
-  integrity sha512-2DzjcCZPzNAewSAa798v5rBe/Ky2zAwfq322HJdyKILh41G8vJBrY6dDbnVK07t9HJ3Nf2zeH6F1K5y6rtPBjQ==
+"@types/uniq@^0.0.29":
+  version "0.0.29"
+  resolved "https://registry.yarnpkg.com/@types/uniq/-/uniq-0.0.29.tgz#f733ea5e959b19cb523c37214579d598860924b6"
+  integrity sha512-j6liXcf9zrOG7Z7QVmVLdBLrtSBOybdLxFKDXbZQSE0GDerID7i42YOu732bOv8GxnnR0esKP0UflL+HpomUHg==
 
 "@types/unist@*", "@types/unist@^3.0.0":
   version "3.0.0"
