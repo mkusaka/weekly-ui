@@ -1115,7 +1115,7 @@
     "@types/trim": "^0.1.1",
     "@types/type-check": "^0.3.28",
     "@types/type-is": "^1.6.4",
-    "@types/uniq": "^0.0.28",
+    "@types/uniq": "^0.0.29",
     "@types/universalify": "^1.0.0",
     "@types/urix": "^0.1.0",
     "@types/util-deprecate": "^1.0.0",
