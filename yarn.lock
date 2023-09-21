@@ -2970,10 +2970,10 @@
   resolved "https://registry.yarnpkg.com/@types/glob-parent/-/glob-parent-5.1.1.tgz#eb83d64824374495437b450d45e24ec53a7ce844"
   integrity sha512-r2rwLjU4mYJmX3S81d8KxCboZOGPVEN5hvtYKzQ0aFNRhYir3DIVf8Hlznr65Wk748swi6hhccsDo3MyydHb2A==
 
-"@types/glob-to-regexp@^0.4.1":
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/@types/glob-to-regexp/-/glob-to-regexp-0.4.1.tgz#f684bc7b9a24691f1f80d045dbb7260bf9cc415b"
-  integrity sha512-S0mIukll6fbF0tvrKic/jj+jI8SHoSvGU+Cs95b/jzZEnBYCbj+7aJtQ9yeABuK3xP1okwA3jEH9qIRayijnvQ==
+"@types/glob-to-regexp@^0.4.2":
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/@types/glob-to-regexp/-/glob-to-regexp-0.4.2.tgz#7c59d1cfa04c568b259bc122a320e3ee1cfac3c9"
+  integrity sha512-R1bD5iI4pBxB/83fjguzV4ab/eIGtMpD7T21tvcPosiAr6fAlHG4DAeOqzNxnVHiuJOf/lqeUN2jNTaVf3IdHQ==
 
 "@types/glob@*", "@types/glob@^8.0.0", "@types/glob@^8.1.0":
   version "8.1.0"
@@ -3001,15 +3001,15 @@
   resolved "https://registry.yarnpkg.com/@types/global-prefix/-/global-prefix-3.0.0.tgz#153c4534331e0dcb73a78e83b77668af1c274a9d"
   integrity sha512-qkgDK8cbId7LPdNchNaBhTduJehCUwEFlKhORd3yLE+RPyKeJXtZu8doBTEOCEFkchyfAb6cbL/li486pCGY4w==
 
-"@types/globalthis@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@types/globalthis/-/globalthis-1.0.1.tgz#5310a812c2ef3905b821a1b219ae0e0d12d0e5f1"
-  integrity sha512-gPIOjEAp9ZysUzOYlwuaedjwxRW9QvMhlN5PSWCXYEw894QB/84YgXSsei8yE6D/FstC1QIrHgO7UfQ2A37M0Q==
+"@types/globalthis@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@types/globalthis/-/globalthis-1.0.2.tgz#cabfdb3679f452ec213f689d23e41c50aaf9181b"
+  integrity sha512-C2l7yWP8zjd+mkUnlwc1+3GN6vvVStsuzY6iTJ9RrdFutE+YKwYmiEqGyY1KVocrCEO7rSN7tQKOjS7frr4BVA==
 
-"@types/graceful-fs@*", "@types/graceful-fs@^4.1.2", "@types/graceful-fs@^4.1.3", "@types/graceful-fs@^4.1.6":
-  version "4.1.6"
-  resolved "https://registry.yarnpkg.com/@types/graceful-fs/-/graceful-fs-4.1.6.tgz#e14b2576a1c25026b7f02ede1de3b84c3a1efeae"
-  integrity sha512-Sig0SNORX9fdW+bQuTEovKj3uHcUL6LQKbCrrqb1X7J6/ReAbhCXRAhc+SMejhLELFj2QcyuxmUooZ4bt5ReSw==
+"@types/graceful-fs@*", "@types/graceful-fs@^4.1.2", "@types/graceful-fs@^4.1.3", "@types/graceful-fs@^4.1.7":
+  version "4.1.7"
+  resolved "https://registry.yarnpkg.com/@types/graceful-fs/-/graceful-fs-4.1.7.tgz#30443a2e64fd51113bc3e2ba0914d47109695e2a"
+  integrity sha512-MhzcwU8aUygZroVwL2jeYk6JisJrPl/oov/gsgGCue9mkgl9wjGbzReYQClxiUgFDnib9FuHqTndccKeZKxTRw==
   dependencies:
     "@types/node" "*"
 
