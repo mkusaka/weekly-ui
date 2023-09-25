@@ -124,7 +124,7 @@
     "camel-case": "^4.1.2",
     "camelcase": "^8.0.0",
     "camelcase-css": "^2.0.1",
-    "caniuse-lite": "^1.0.30001538",
+    "caniuse-lite": "^1.0.30001539",
     "capture-exit": "^2.0.0",
     "case-sensitive-paths-webpack-plugin": "^2.4.0",
     "ccount": "^2.0.1",
@@ -408,7 +408,7 @@
     "is-window": "^1.0.2",
     "is-windows": "^1.0.2",
     "is-word-character": "^2.0.1",
-    "is-wsl": "^3.0.0",
+    "is-wsl": "^3.1.0",
     "isarray": "^2.0.5",
     "isexe": "^3.1.1",
     "isobject": "^4.0.0",
@@ -822,7 +822,7 @@
     "zwitch": "^2.0.4"
   },
   "devDependencies": {
-    "@babel/core": "^7.22.20",
+    "@babel/core": "^7.23.0",
     "@storybook/addon-actions": "^6.5.16",
     "@storybook/addon-essentials": "^6.5.16",
     "@storybook/addon-links": "^6.5.16",
