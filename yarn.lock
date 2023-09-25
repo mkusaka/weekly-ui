@@ -13712,7 +13712,7 @@ regexp.prototype.flags@^1.5.0, regexp.prototype.flags@^1.5.1:
     define-properties "^1.2.0"
     set-function-name "^2.0.0"
 
-regexpu-core@^5.3.1, regexpu-core@^5.3.2:
+regexpu-core@^5.3.1:
   version "5.3.2"
   resolved "https://registry.yarnpkg.com/regexpu-core/-/regexpu-core-5.3.2.tgz#11a2b06884f3527aec3e93dbbf4a3b958a95546b"
   integrity sha512-RAM5FlZz+Lhmo7db9L298p2vHP5ZywrVXmVXpmAD9GuL5MPH6t9ROw1iA/wfHkQ76Qe7AaPF0nGuim96/IrQMQ==
@@ -13721,6 +13721,18 @@ regexpu-core@^5.3.1, regexpu-core@^5.3.2:
     regenerate "^1.4.2"
     regenerate-unicode-properties "^10.1.0"
     regjsparser "^0.9.1"
+    unicode-match-property-ecmascript "^2.0.0"
+    unicode-match-property-value-ecmascript "^2.1.0"
+
+regexpu-core@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/regexpu-core/-/regexpu-core-6.0.0.tgz#2706fae3c6599c6a0d09933601eeeba6dfa00aa7"
+  integrity sha512-ZOZKiuXx8X0IZLr3eyi5AfJd9Dg9YIdSNrxNKjx7V8kqIRf19NrmG2TLyUzzOLIoiMfbIqzw2LRGDxs51gLq9A==
+  dependencies:
+    regenerate "^1.4.2"
+    regenerate-unicode-properties "^10.1.1"
+    regjsgen "^0.8.0"
+    regjsparser "^0.10.0"
     unicode-match-property-ecmascript "^2.0.0"
     unicode-match-property-value-ecmascript "^2.1.0"
 
