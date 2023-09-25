@@ -1134,7 +1134,7 @@
     "@types/write-file-atomic": "^4.0.0",
     "@types/xtend": "^4.0.4",
     "@types/y18n": "^4.0.0",
-    "@types/yallist": "^4.0.1",
+    "@types/yallist": "^4.0.2",
     "@types/yaml": "^1.9.7",
     "gh-pages": "^6.0.0",
     "react-is": "^18.2.0",
