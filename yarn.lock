@@ -13994,6 +13994,14 @@ restore-cursor@^4.0.0:
     onetime "^5.1.0"
     signal-exit "^3.0.2"
 
+restore-cursor@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/restore-cursor/-/restore-cursor-5.0.0.tgz#7fbb65122d6c25489ac2fda910f2a0f063279834"
+  integrity sha512-Hp93f349DvdEqJFHiPyzNzVjT7lDDFtQJWRotQVQNl3CHr4j7oMHStQB9UH/CJSHTrevAZXFvomgzy8lXjrK0w==
+  dependencies:
+    onetime "^6.0.0"
+    signal-exit "^4.1.0"
+
 ret@^0.5.0:
   version "0.5.0"
   resolved "https://registry.yarnpkg.com/ret/-/ret-0.5.0.tgz#30a4d38a7e704bd96dc5ffcbe7ce2a9274c41c95"
