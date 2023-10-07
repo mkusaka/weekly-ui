@@ -5765,6 +5765,13 @@ brace-expansion@^2.0.1:
   dependencies:
     balanced-match "^1.0.0"
 
+brace-expansion@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-3.0.0.tgz#2ba8d16a84bb3b440107587dae0fa59cf8672452"
+  integrity sha512-P+6OwxY7i0tsp0Xdei2CjvVOQke51REB4c2d2wCckcMn6NBElNqLuzr6PsxFCdJ3i/cpGEkZ/Nng5I7ZkLo0CA==
+  dependencies:
+    balanced-match "^3.0.0"
+
 braces@^2.3.1, braces@^2.3.2:
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/braces/-/braces-2.3.2.tgz#5979fd3f14cd531565e5fa2df1abfff1dfaee729"
