@@ -2390,10 +2390,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/bluebird@^3.5.39":
-  version "3.5.39"
-  resolved "https://registry.yarnpkg.com/@types/bluebird/-/bluebird-3.5.39.tgz#6aaf8bcbf005bb091d06ddaa0f620be078bf6a73"
-  integrity sha512-0h2lKudcFwHih8NHAgt/uyAIUQDO0AdfJYlWBXD8r+gFDulUi2CMZoQSh2Q5ol1FMaHV9k7/4HtcbA8ABtexmA==
+"@types/bluebird@^3.5.40":
+  version "3.5.40"
+  resolved "https://registry.yarnpkg.com/@types/bluebird/-/bluebird-3.5.40.tgz#d5ffe53eb1528c8e95bcea8de5f8364089bf7c77"
+  integrity sha512-4dEtF/qcby/FdT6iChii+jFXzVVX0+5HYiDqHKBtHQ3ZV58x5uVJJYRG0N4QllIaj5a2+UDdf/nupae+/M6mdw==
 
 "@types/bn.js@*", "@types/bn.js@^5.1.2":
   version "5.1.2"
@@ -3827,10 +3827,10 @@
     "@types/webpack" "^4"
     "@types/webpack-dev-server" "3"
 
-"@types/react-dom@^18.2.11":
-  version "18.2.11"
-  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-18.2.11.tgz#4332c315544698a0875dfdb6e320dda59e1b3d58"
-  integrity sha512-zq6Dy0EiCuF9pWFW6I6k6W2LdpUixLE4P6XjXU1QHLfak3GPACQfLwEuHzY5pOYa4hzj1d0GxX/P141aFjZsyg==
+"@types/react-dom@^18.2.12":
+  version "18.2.12"
+  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-18.2.12.tgz#58479c463d1e0b7f1ee7cd80e09186189f9ec32d"
+  integrity sha512-QWZuiA/7J/hPIGocXreCRbx7wyoeet9ooxfbSA+zbIWqyQEE7GMtRn4A37BdYyksnN+/NDnWgfxZH9UVGDw1hg==
   dependencies:
     "@types/react" "*"
 
@@ -3870,10 +3870,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@^18.2.25":
-  version "18.2.25"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.25.tgz#99fa44154132979e870ff409dc5b6e67f06f0199"
-  integrity sha512-24xqse6+VByVLIr+xWaQ9muX1B4bXJKXBbjszbld/UEDslGLY53+ZucF44HCmLbMPejTzGG9XgR+3m2/Wqu1kw==
+"@types/react@*", "@types/react@^18.2.27":
+  version "18.2.27"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.27.tgz#746e52b06f3ccd5d7a724fd53769b70792601440"
+  integrity sha512-Wfv7B7FZiR2r3MIqbAlXoY1+tXm4bOqfz4oRr+nyXdBqapDBZ0l/IGcSlAfvxIHEEJjkPU0MYAc/BlFPOcrgLw==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
