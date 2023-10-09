@@ -3129,10 +3129,10 @@
   resolved "https://registry.yarnpkg.com/@types/ini/-/ini-1.3.31.tgz#c78541a187bd88d5c73e990711c9d85214800d1b"
   integrity sha512-8ecxxaG4AlVEM1k9+BsziMw8UsX0qy3jYI1ad/71RrDZ+rdL6aZB0wLfAuflQiDhkD5o4yJ0uPK3OSUic3fG0w==
 
-"@types/inquirer@^9.0.3":
-  version "9.0.3"
-  resolved "https://registry.yarnpkg.com/@types/inquirer/-/inquirer-9.0.3.tgz#dc99da4f2f6de9d26c284b4f6aaab4d98c456db1"
-  integrity sha512-CzNkWqQftcmk2jaCWdBTf9Sm7xSw4rkI1zpU/Udw3HX5//adEZUIm9STtoRP1qgWj0CWQtJ9UTvqmO2NNjhMJw==
+"@types/inquirer@^9.0.4":
+  version "9.0.4"
+  resolved "https://registry.yarnpkg.com/@types/inquirer/-/inquirer-9.0.4.tgz#f20d6bce87c2aef4fabe8de9e3a397e80aea309f"
+  integrity sha512-x8UgutCLm5tsp995aeYB8dlT+sGBCtv0zE43tHvo7OljtlA2Rn4+COyLKe9+YjB20uy0G14y0C9vCD2KtNtyGA==
   dependencies:
     "@types/through" "*"
     rxjs "^7.2.0"
@@ -3856,10 +3856,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-syntax-highlighter@^15.5.7":
-  version "15.5.7"
-  resolved "https://registry.yarnpkg.com/@types/react-syntax-highlighter/-/react-syntax-highlighter-15.5.7.tgz#bd29020ccb118543d88779848f99059b64b02d0f"
-  integrity sha512-bo5fEO5toQeyCp0zVHBeggclqf5SQ/Z5blfFmjwO5dkMVGPgmiwZsJh9nu/Bo5L7IHTuGWrja6LxJVE2uB5ZrQ==
+"@types/react-syntax-highlighter@^15.5.8":
+  version "15.5.8"
+  resolved "https://registry.yarnpkg.com/@types/react-syntax-highlighter/-/react-syntax-highlighter-15.5.8.tgz#4cfd56cb812c7f84093337ac95cc8a111b02d64b"
+  integrity sha512-GT1PLGzhF3ilGaQiCHFDShxDBb014s01MQi0nWfXJ23efjWfUrZ2i0g4tH1JGdfnIGBtQDge/k3ON3fLoAuU/w==
   dependencies:
     "@types/react" "*"
 
