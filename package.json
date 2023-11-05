@@ -522,7 +522,7 @@
     "object.values": "^1.1.7",
     "on-finished": "^2.4.1",
     "once": "^1.4.0",
-    "onetime": "^6.0.0",
+    "onetime": "^7.0.0",
     "open": "^9.1.0",
     "optionator": "^0.9.3",
     "os-browserify": "^0.3.0",
