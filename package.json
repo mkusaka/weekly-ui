@@ -211,7 +211,7 @@
     "dom-converter": "^0.2.0",
     "dom-serializer": "^2.0.0",
     "dom-walk": "^0.1.2",
-    "domain-browser": "^4.22.0",
+    "domain-browser": "^5.0.0",
     "domelementtype": "^2.3.0",
     "domhandler": "^5.0.3",
     "domutils": "^3.1.0",
